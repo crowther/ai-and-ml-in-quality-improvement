@@ -1,0 +1,3609 @@
+,importance
+GP Consultation,0.01100568558188214
+Telephone encounter,0.007666255981730234
+Letter from consultant,0.006267201301801044
+Patient reviewed,0.005923343238774486
+Amlodipine 5mg tablets,0.005289469850749801
+Administration,0.005253090472110643
+Paracetamol 500mg tablets,0.005224359022389712
+Medication review done by pharmacist,0.0051868522280862075
+Simvastatin 40mg tablets,0.004530287112578833
+SMS text message sent to patient,0.00438310158972792
+Medication requested,0.004275571884168046
+Seen in hospital casualty,0.004215180955495261
+O/E - blood pressure reading,0.004121651189559895
+O/E - weight,0.0041115650841429445
+Informing patient of named accountable general practitioner,0.004057339349938887
+Result,0.00395371902598178
+BP Systolic,0.003880332236234461
+BP Diastolic,0.003855811473102228
+Letter encounter,0.003846857451664284
+Patient allocated named accountable general practitioner,0.0038190438004522815
+Atorvastatin 20mg tablets,0.0036696485139323357
+Bendroflumethiazide 2.5mg tablets,0.003576712708510024
+O/E - pulse rate,0.003504553544938008
+[V]Other specified administrative encounter,0.0033009886434385216
+Atorvastatin 10mg tablets,0.0032416761567965655
+Informed consent for procedure,0.0032166797187420004
+Amlodipine 10mg tablets,0.003182317568909913
+BMI,0.003163882719236846
+Zapain 30mg/500mg tablets (AMCo),0.0031391293834156096
+Lisinopril 10mg tablets,0.003076926207040142
+Aspirin 75mg dispersible tablets,0.0028937945207956305
+BCSP faecal occult blood test normal,0.002840858932841217
+Scanned document,0.002828421851613606
+Simvastatin 20mg tablets,0.002792112797954672
+Amitriptyline 10mg tablets,0.002786623897471188
+Discharge summary report,0.0027670555900658387
+Levothyroxine sodium 100microgram tablets,0.0027565194334751237
+Zapain 30mg/500mg capsules (AMCo),0.002730869179324893
+Ventolin 100micrograms/dose Evohaler (GlaxoSmithKline UK ...,0.002603874160251155
+Naproxen 500mg tablets,0.002583017013007774
+No response to bowel cancer screening programme invitation,0.0025262516150525768
+Test Request : Liver Function Tests*,0.002423105692129577
+Alendronic acid 70mg tablets,0.0024099511672704917
+Ex smoker,0.0023993553320959694
+Lisinopril 20mg tablets,0.002377867385906705
+Home visit,0.0023652572654268723
+Discharge summary,0.002358017571313509
+Telephone triage encounter,0.002347070586423204
+Seen in ophthalmology clinic,0.002324690965106755
+Medication review,0.00232184627784617
+Influenza vaccination invitation first letter sent,0.0023106889728743583
+Non-smoker,0.0023011353985755295
+Smoking cessation advice,0.002289271250597043
+Had a chat to patient,0.002276553346602658
+Seen in orthopaedic clinic,0.0022537538481925885
+Levothyroxine sodium 25microgram tablets,0.0022269707272124556
+Metformin 500mg tablets,0.002197579358252828
+Height (cm),0.002175291447222431
+Amoxicillin 500mg capsules,0.002173246719670331
+Levothyroxine sodium 50microgram tablets,0.0021434149129947798
+Choice and booking - enhanced services administration,0.00212514510514687
+Naproxen 500mg gastro-resistant tablets,0.0021186823550607206
+Lisinopril 5mg tablets,0.002083244691328042
+Tamsulosin 400microgram modified-release capsules,0.0020768018831730114
+Other medication review,0.002072534154320235
+Chr dis monitor - 1st recall,0.002027360327932801
+Ramipril 10mg capsules,0.0020106203494308955
+Adcal-D3 750mg/200unit caplets (Kyowa Kirin Ltd),0.0019961684539945477
+Letter received,0.0019817059048320078
+WHO performance status grade 2,0.0019458905660540622
+Atorvastatin 40mg tablets,0.0019309538936842104
+Seen in urology clinic,0.0019155179791878415
+Allopurinol 100mg tablets,0.0018960050993665164
+Seen in cardiac clinic,0.0018924718219393904
+Naproxen 250mg gastro-resistant tablets,0.0018834520817933992
+Tramadol 50mg capsules,0.0018826904490525705
+Chr dis monitor - 2nd recall,0.0018512781100287561
+Knee pain,0.001842967589040129
+Influenza imm.advised in surg.,0.0018125693547497248
+Hypertens.monitor.1st letter,0.0017962496158515555
+Failed encounter,0.0017426110159852626
+Cough,0.001698803765478722
+Atenolol 50mg tablets,0.0016951573530256045
+Discharged from hospital,0.0016930493576476394
+Seasonal influenza vaccination,0.0016909428351547075
+SMS message sent to patient,0.0016822610000129259
+Letter sent to patient,0.0016756445898071372
+Fenbid 5% gel (AMCo),0.001659122414233537
+Beconase Aqueous 50micrograms/dose nasal spray (GlaxoSmit...,0.0016518777130006082
+Ibuprofen 400mg tablets,0.0016438166941330616
+Advice given about bowel cancer screening programme,0.0016365298337188377
+A&E report,0.0016213043346440569
+Co-codamol 8mg/500mg tablets,0.0016072310430921923
+Clopidogrel 75mg tablets,0.0016032966025613883
+Seen in rheumatology clinic,0.0016016140231450116
+Ramipril 5mg capsules,0.0016013261654047606
+Repeat treatment NOS,0.0016010535326114591
+Alcohol consumption,0.0015967891525665893
+Naproxen 250mg tablets,0.001591051589636765
+Encounter administration,0.0015528838523505327
+[V]Administrative encounters,0.0015413263540269904
+Seasonal influenza vaccination declined,0.0015208433435856532
+Gabapentin 300mg capsules,0.001467374798347145
+Influenza vacc consent given,0.0014613699010520983
+Atenolol 25mg tablets,0.0014585434071335904
+Latanoprost 50micrograms/ml eye drops,0.00145788700330737
+High blood pressure,0.0014562541454958373
+Urine protein/creatinine ratio,0.001450270662914635
+Ultrasound scan,0.0014329951713464705
+Allopurinol 300mg tablets,0.0014197980499364785
+Chronic obstructive pulmonary disease monitoring 1st letter,0.0014123074890359274
+Patient asked to come in,0.001396744852544327
+Did not attend - no reason,0.0013794194248917565
+Alcohol use disorder identificatn test consumptn questionnre,0.0013793576858712093
+Implied consent for core Summary Care Record dataset upload,0.0013774404118595213
+Diabetes monitoring 1st letter,0.001368090462955136
+Folic acid 5mg tablets,0.0013579394918303812
+Failed encounter NOS,0.0013486058802167778
+At risk of dementia,0.0013419435273748458
+QRISK2 cardiovascular disease 10 year risk score,0.0013386938180561334
+Gout,0.0013373294881064623
+Seen in radiology department,0.0013192803565413094
+Seen in dermatology clinic,0.0013114828055620935
+Warfarin 1mg tablets,0.0013085447466414434
+Laxido Orange oral powder sachets sugar free (Galen Ltd),0.0012893508911594675
+Pain in buttock,0.0012862212041754107
+Ramipril 2.5mg capsules,0.0012842215577170142
+Bisoprolol 2.5mg tablets,0.0012796290104293167
+Candesartan 8mg tablets,0.0012761042531025987
+Failed encounter - message left on answer machine,0.0012718501959422238
+Citalopram 20mg tablets,0.001262797082804624
+Methotrexate 2.5mg tablets,0.0012580547981020662
+Preferred method of contact: unknown,0.0012573169026088506
+Letter invite to screening,0.0012466676959593183
+Seen in gynaecology clinic,0.0012358991638587082
+Lactulose 3.1-3.7g/5ml oral solution,0.00122447266670429
+Tiotropium bromide 18microgram inhalation powder capsules,0.0012188930762906866
+Chronic disease annual review,0.0012145913694246299
+Betahistine 16mg tablets,0.0012126430441520256
+Seen in clinic,0.0012010241435734972
+Cetirizine 10mg tablets,0.0011919903802986814
+Adcal-D3 Lemon chewable tablets (ProStrakan Ltd),0.001172707505724633
+Aspirin 75mg gastro-resistant tablets,0.001156341993102423
+Orthopaedic referral,0.0011453513824559735
+Amitriptyline 25mg tablets,0.001136308503699552
+Advice about investigation results,0.0011294315089754967
+Back pain without radiation NOS,0.0011286199964486464
+Medication review of medical notes,0.0011256895211093395
+Finasteride 5mg tablets,0.0011218595764741106
+Intramuscular injection of vitamin B12,0.0011190028348481216
+Hydroxocobalamin 1mg/1ml solution for injection ampoules,0.0011119950620019114
+Doxazosin 4mg tablets,0.0011109735377123494
+Simvador 40mg tablets (Discovery Pharmaceuticals),0.0011057390529889799
+Candesartan 16mg tablets,0.0011022100966898729
+Seen in general surgery clinic,0.0011005032783519106
+O/E - pulse rhythm regular,0.001098436212286399
+Doxycycline 100mg capsules,0.0010894181512365747
+Hypromellose 0.3% eye drops,0.0010825581303383115
+Candesartan 4mg tablets,0.0010728780934769729
+Prednisolone 5mg tablets,0.0010668127864416701
+Metformin 500mg modified-release tablets,0.0010605040705579485
+Cervicalgia - pain in neck,0.0010516822865686952
+QAdmissions risk emergency hospital admission next 12 months,0.0010432491762210573
+Influenza vaccination invitation second letter sent,0.0010395058163069164
+Simvastatin 10mg tablets,0.0010392768557791364
+Consultation,0.0010324653328060898
+Seretide 500 Accuhaler (GlaxoSmithKline UK Ltd),0.0010302328713861597
+Repeat medication check,0.0010219717941514345
+Gabapentin 100mg capsules,0.0010180147594646678
+"Pro D3 20,000unit capsules (Synergy Biologics Ltd)",0.0010172824976241342
+Seen in gastroenterology clinic,0.0010087695764743718
+Seen in ENT clinic,0.0010008321390169992
+Diclofenac sodium 50mg gastro-resistant tablets,0.0009968425148192202
+Sertraline 100mg tablets,0.0009921357577607683
+Bowel cancer screening programme: faecal occult blood result,0.0009916876159148037
+Losartan 100mg tablets,0.000990301242193767
+Flucloxacillin 500mg capsules,0.0009887983614809367
+Sertraline 50mg tablets,0.0009849965198570447
+Education about lifestyle for risk of diabetes,0.000983931737380832
+Chronic dis care arrangmnt NOS,0.0009823259034160156
+Drug changed to cost effective alternative,0.0009792332833415756
+Spinal stenosis,0.0009764530079676824
+Bisoprolol 5mg tablets,0.0009686465965135526
+DNA hospital appointment,0.0009663809313813659
+Lercanidipine 10mg tablets,0.000960610494877675
+Docusate 100mg capsules,0.0009546808675882662
+Fluoxetine 20mg capsules,0.0009546675942992062
+Viscotears 2mg/g liquid gel (Bausch & Lomb UK Ltd),0.0009521685894916234
+Bisoprolol 1.25mg tablets,0.0009517581086017909
+Chronic kidney disease monitoring first letter,0.0009397246282929024
+Citalopram 10mg tablets,0.0009246149939607536
+Medication review with patient,0.0009225774238245382
+Backache,0.0009167709043343927
+Medication review done,0.0009142227299167954
+Losartan 50mg tablets,0.0009084186048899834
+Atenolol 100mg tablets,0.0009041005848038115
+Furosemide 40mg tablets,0.000898449779174357
+Quinine sulfate 200mg tablets,0.0008983955060818369
+Loperamide 2mg capsules,0.000894761718969933
+Indapamide 2.5mg tablets,0.0008784585101819734
+Mirtazapine 15mg tablets,0.0008743671775782683
+Seen in oncology clinic,0.000873789219467704
+Spiriva 18microgram inhalation powder capsules (Boehringe...,0.0008715038308930694
+Prochlorperazine 5mg tablets,0.0008699008565621239
+Clinical document,0.0008655513787735407
+Seen by optician,0.0008584070586998731
+Medication review due,0.0008389910746986739
+Seen by respiratory physician,0.0008383650392778353
+Waist circumference,0.0008381130389208848
+Sildenafil 100mg tablets,0.0008371474977196894
+Seen in musculoskeletal clinic,0.0008290059546459158
+OOH report,0.0008276621407615736
+Prednisolone 5mg gastro-resistant tablets,0.0008227785385830331
+Health education offered,0.0008215214921704745
+Paracetamol 500mg capsules,0.0008194630699677862
+Seen in diabetic clinic,0.0008189986681749198
+Image (document),0.0008178204367212708
+Influenza vaccination invitation 2nd SMS text message sent,0.000814608051371084
+Anastrozole 1mg tablets,0.0008143685351040902
+Lercanidipine 20mg tablets,0.0008139044079563618
+Ibuprofen 5% gel,0.0008115585566803797
+Voltarol 12 Hour Emulgel P 2.32% gel (Novartis Consumer H...,0.0008107463642334445
+Clinical management plan agreed,0.0008094032218435164
+Research administration,0.0008071855191203858
+Bumetanide 1mg tablets,0.0008070148157594091
+Candesartan 32mg tablets,0.0008068475289763875
+Document Image letter,0.0008042859155247456
+Doublebase gel (Dermal Laboratories Ltd),0.0008008840910423217
+Adcal-D3 chewable tablets tutti frutti (Kyowa Kirin Ltd),0.0007993162875205606
+CHADS2 risk score,0.0007989245387902068
+Message from patient,0.0007944103325143538
+Loratadine 10mg tablets,0.0007925068566412284
+ARTHRITIS,0.000787063308377484
+Seen in general medical clinic,0.0007838191872033556
+Codeine 15mg tablets,0.0007833559254018854
+Viral upper respiratory tract infection NOS,0.0007828653823268696
+Next appointment,0.0007806326146459854
+Otomize ear spray (Teva UK Ltd),0.0007796986206505647
+Standard chest X-ray,0.0007773842112384972
+Attended extended hours clinic - ESA,0.0007743075294227593
+Chest infection NOS,0.0007723776058457394
+Seretide 250 Evohaler (GlaxoSmithKline UK Ltd),0.0007698258131890661
+Nasonex 50micrograms/dose nasal spray (Merck Sharp & Dohm...,0.0007668577338810437
+Seen in respiratory clinic,0.0007664345193266663
+Has authorisation for medication under PSD,0.0007663081831470193
+Ventolin 100micrograms/dose Evohaler (GlaxoSmithKline UK Ltd),0.0007640545174336623
+Pravastatin 40mg tablets,0.0007587835748277432
+Refer for X-Ray,0.000754890683347547
+Diabetic retinopathy screening,0.000752823537537356
+Zopiclone 7.5mg tablets,0.0007524181915225924
+Suspected UTI,0.0007456817435304832
+Did not attend,0.0007450141755238971
+Ibuprofen 10% gel,0.0007447154352583679
+Foot pain,0.0007431305091516244
+Hydrocortisone 1% cream,0.0007416152143378059
+Simvador 20mg tablets (Discovery Pharmaceuticals),0.0007380186765972722
+Failed encounter - no answer when rang back,0.0007371734403105212
+Diazepam 2mg tablets,0.0007330766356579874
+Chronic obstructive pulmonary disease monitoring 2nd letter,0.0007272494884015848
+Admission avoidance care plan agreed,0.0007240327103874623
+Chloramphenicol 1% eye ointment,0.000722037998233814
+Trimethoprim 200mg tablets,0.0007204256746570136
+Seen by podiatrist,0.0007163664954606559
+Clarithromycin 500mg tablets,0.0007153251939247921
+"CHA2DS2 - vascular disease, age, sex category score",0.0007130399827751303
+Patient registration data verified,0.000712552320517592
+Low back pain,0.0007105840255332511
+MSG:Referral to musculoskeletal clinic,0.0007103791437351629
+Hydroxychloroquine 200mg tablets,0.0007102104325520338
+Lifestyle counselling,0.0007088693648561284
+Cholelithiasis,0.0007073361517709375
+Not a carer,0.0007071089021079215
+Cigarette smoker,0.0007067065314954995
+Propranolol 80mg modified-release capsules,0.0006998715500385615
+Atorvastatin 80mg tablets,0.0006976453853860599
+Mebeverine 135mg tablets,0.0006923216647566301
+Sciatica,0.000686103717255594
+Osteoarthritis and allied disorders,0.0006834267469604056
+Co-dydramol 10mg/500mg tablets,0.0006765140526987139
+Tabphyn MR 400microgram capsules (ProStrakan Ltd),0.0006757353583368251
+Carbocisteine 375mg capsules,0.0006755852732922746
+Pain in leg,0.0006750604999697198
+Codeine 15mg/5ml linctus,0.0006713303920382408
+Lacidipine 2mg tablets,0.0006713244602626438
+Medication monitoring administration,0.0006668741826322557
+Admission to accident and emergency department,0.0006622809237796702
+Paracetamol 500mg soluble tablets,0.0006622130651098802
+Impaired glucose regulation,0.0006610541207430842
+Xray Wrist Left,0.0006607974116789921
+X-ray report received,0.0006580305735393437
+Drinks rarely,0.0006537538741672315
+Report of clinical encounter,0.000647991138869741
+Piriton 4mg tablets (GlaxoSmithKline Consumer Healthcare),0.0006463994189720331
+Mirtazapine 45mg tablets,0.0006445859925357224
+Solifenacin 5mg tablets,0.0006443170609201876
+Ibuprofen 200mg tablets,0.0006436397476835753
+Doxazosin 1mg tablets,0.0006429954082096472
+Seen in neurology clinic,0.0006426141539067311
+Lacri-lube eye ointment (Allergan Ltd),0.0006425122533849875
+Salamol 100micrograms/dose Easi-Breathe inhaler (Teva UK ...,0.0006421204044542117
+Co-codamol 15mg/500mg tablets,0.0006413420080755617
+Seen in haematology clinic,0.0006362997915342922
+Lisinopril 2.5mg tablets,0.0006361733229681444
+Salamol 100micrograms/dose inhaler CFC free (Teva UK Ltd),0.0006359978798106907
+GelTears 0.2% gel (Bausch & Lomb UK Ltd),0.0006344010106121649
+Mammography normal,0.0006333425185375652
+Shingles vaccination invitation,0.0006291101889686779
+Quinine sulfate 300mg tablets,0.0006283763576781432
+Aspirin 75mg tablets,0.0006277809586926606
+Follow-up clinic letter sent to general practitioner,0.0006273822921179336
+Bowel cancer screening programme administration,0.0006268303962429063
+Diet - patient initiated,0.000625052966620044
+Ramipril 1.25mg capsules,0.0006244666020331874
+Nitrofurantoin 100mg modified-release capsules,0.0006218547162357597
+Movicol oral powder 13.8g sachets lemon & lime (Norgine Phar,0.0006203591503866976
+Dorzolamide 2% / Timolol 0.5% eye drops,0.000614995388158958
+Furosemide 20mg tablets,0.0006129256036504868
+Citalopram 40mg tablets,0.000611824812939729
+Zopiclone 3.75mg tablets,0.0006113902167279981
+Initial patient call,0.0006105524825264267
+Indometacin 50mg capsules,0.0006094437062963333
+Chemydur 60XL tablets (AMCo),0.0006080182000567986
+Co-codamol 8mg/500mg capsules,0.0006049805724833723
+Clobetasol 0.05% cream,0.000604890821289634
+Herpes zoster vaccination invitation first letter,0.0006020621877810752
+Co-codamol 8mg/500mg effervescent tablets,0.000599841860018686
+Seen in endocrine clinic,0.0005977373062869623
+Exercise grading,0.0005970301981019439
+Nefopam 30mg tablets,0.0005928065603186712
+H/O: drug allergy,0.0005926060537702794
+MSG:Form GOS18 Ophthalmic referral,0.000589738972709436
+Anusol cream (McNeil Products Ltd),0.0005896238569121289
+Sore throat symptom,0.0005868588362782792
+Seen in neurosurgery clinic,0.0005864738131460985
+Seen in breast clinic,0.0005828717124299422
+Abdominal pain,0.0005827282669981103
+Standard ECG,0.0005822741578898131
+Quinine bisulfate 300mg tablets,0.0005779998203041661
+Celluvisc 0.5% eye drops 0.4ml unit dose (Allergan Ltd),0.0005778294879218693
+Amlostin 10mg tablets (Discovery Pharmaceuticals Ltd),0.0005748080822097725
+Hip pain,0.0005706975534828053
+Hypertens.monitor 3rd letter,0.0005703515775826486
+Chronic obstructive pulmonary disease assessment test,0.0005689338992343403
+Clinic A monitoring 2nd letter,0.0005687748076843567
+FI - Frailty Index,0.0005668850070869847
+Patient advised re diet,0.0005646090812000011
+Accrete D3 tablets (Internis Pharmaceuticals Ltd),0.000562074172128683
+Mometasone 50micrograms/dose nasal spray,0.0005604199155549718
+Propranolol 10mg tablets,0.0005585471312963459
+Refer for ultrasound investign,0.0005572712562933841
+Mirtazapine 30mg tablets,0.0005570390822841203
+Diclofenac 1.16% gel,0.0005559288107190074
+Gliclazide 80mg tablets,0.0005545701409658227
+Fax sent to:,0.0005516764576599928
+Paracetamol Caplets 500 mg,0.0005505285940998345
+O/E - temperature level,0.000550373729042794
+No known allergies,0.0005481346774864406
+Diabetic monitoring,0.0005465316059707207
+Fenbid Forte 10% gel (AMCo),0.000545869132521748
+Perindopril erbumine 8mg tablets,0.0005455899897440546
+Chr.dis.- follow up assessment,0.000540422903266985
+Seen in audiology clinic,0.0005383609416732787
+C/O - a headache,0.0005375258546064708
+Lloyd George record received,0.0005371826057750361
+Easyhaler Salbutamol sulfate 100micrograms/dose dry powde...,0.000534942898839048
+Sno Tears 1.4% eye drops (Bausch & Lomb UK Ltd),0.0005348382498235267
+Reports - administration,0.0005281664905055991
+Oramorph 10mg/5ml oral solution (Boehringer Ingelheim Ltd),0.0005255705600494623
+Diabetes management plan given,0.0005254972199499458
+Bisoprolol 10mg tablets,0.0005249670190126707
+Fall - accidental,0.0005227180345634268
+Full consent for immunisation,0.0005226597838016196
+Nitrofurantoin 100mg tablets,0.0005214311106549964
+Chr dis monitor - 3rd recall,0.0005213608450738475
+Patient health questionnaire (PHQ-9) score,0.000520731271777205
+Co-codamol 30mg/500mg effervescent tablets,0.0005198375649238209
+Teetotaller,0.0005193544855274767
+Irbesartan 150mg / Hydrochlorothiazide 12.5mg tablets,0.0005192206779016787
+Rivaroxaban 20mg tablets,0.0005183864187530035
+Rheumatoid arthritis annual review,0.000517789583006594
+Diet good,0.0005175125199592083
+MSG:Referral to community diabetes specialist nurse,0.0005173544910826977
+Emergency hospital admission,0.0005144989250368612
+Hypertension annual review,0.000514493744161313
+Excepted from hypertension qual indicators: Informed dissent,0.0005137258710349203
+C/O - low back pain,0.0005127191955437972
+Adalat LA 20 tablets (Bayer Plc),0.0005119658005717557
+Shingles,0.0005099662269949249
+Hearing difficulty,0.0005097810226801691
+Buscopan 10mg tablets (Boehringer Ingelheim Ltd),0.0005067720749516022
+MSG:ENT referral,0.0005054192783124048
+Urinary frequency,0.0005043299388240743
+AeroChamber Plus (GlaxoSmithKline UK Ltd),0.0005018608464876873
+Tramadol 50mg modified-release capsules,0.0005017784348378335
+Hylo-Forte 0.2% eye drops preservative free (Scope Ophtha...,0.000501040927628348
+Oilatum Emollient (GlaxoSmithKline Consumer Healthcare),0.00050079046069008
+Amitriptyline 50mg tablets,0.000498821115419273
+Examination of patient,0.0004965203729937894
+Breast screening declined,0.0004955874888434781
+Discussion,0.0004953150306295715
+Consent status for immunisats.,0.0004923848645601131
+Prostap 3 DCS 11.25mg powder and solvent for suspension f...,0.0004898905728001026
+Cetraben cream (Thornton & Ross Ltd),0.0004891659153238838
+Coronary heart disease monitoring 1st letter,0.0004867219498064716
+Message given to patient,0.0004840489119076007
+Senna 7.5mg tablets,0.0004821973747384093
+Appt cancelled by patient,0.00048014460089796605
+Hylo-Forte 0.2% eye drops preservative free (Scope Ophthalmics Ltd),0.0004789956369204344
+Letrozole 2.5mg tablets,0.000478314257376744
+Creon 25000 gastro-resistant capsules (BGP Products Ltd),0.0004761493768484495
+C/O: a rash,0.0004760397297623598
+Administration NOS,0.00047407766032340126
+Memantine 20mg tablets,0.0004740052229421482
+US scan of shoulder,0.0004732858326834651
+At risk of acute kidney injury,0.00047249614893195486
+Extended hours access - enhanced services administration,0.00047248341503892385
+Hylo-Tear 0.1% eye drops preservative free (Scope Ophthal...,0.00047237104629484385
+Lyrica 50mg capsules (Pfizer Ltd),0.000471213655304933
+Tramadol 100mg modified-release capsules,0.0004698199833870107
+Seen by accident and emergency doctor,0.0004687512073003357
+Ankle pain,0.0004684549037299155
+Cancer care review,0.0004679876721096427
+Bisoprolol 3.75mg tablets,0.0004671782130830412
+Medication changed,0.00046560254524211255
+Notes summary on computer,0.00046553424518509524
+Hand X-ray,0.00046527263716016965
+Warfarin 3mg tablets,0.0004634966912603547
+Interpreter booked,0.00046303488821245766
+Celecoxib 200mg capsules,0.00046167254659891207
+Electronic record notes summary verified,0.000461362276662963
+Losartan 25mg tablets,0.000461001730173837
+Sildenafil 50mg tablets,0.00046082574378168413
+Fluconazole 50mg capsules,0.0004599761418115802
+Moderate smoker - 10-19 cigs/d,0.0004580416630442903
+Otomize ear spray (Forest Laboratories UK Ltd),0.0004579324342381102
+Mammography - X-ray,0.0004569163807947938
+Pravastatin 20mg tablets,0.00045657381934980246
+Brief intervention for excessive alcohol consumptn completed,0.0004557464851935802
+Zomorph 10mg modified-release capsules (Archimedes Pharma...,0.00045551268946664647
+Bill/fee sent,0.00045408465013989504
+Adcal-D3 750mg/200unit caplets (ProStrakan Ltd),0.00045343808408758045
+Oxycodone 5mg/5ml oral solution sugar free,0.0004529500516388639
+Sumatriptan 50mg tablets,0.00045102879377095285
+"Urinary tract infection, site not specified",0.0004507786108644681
+Diet average,0.0004485916260792596
+Hypothyroidism monitoring first letter,0.00044632730849535106
+Avamys 27.5micrograms/dose nasal spray (GlaxoSmithKline U...,0.00044486425041436595
+Cryotherapy - physiotherapeutic,0.00044485313190239384
+Cefalexin 250mg capsules,0.00044472009646145315
+Pneumococcal vaccination given,0.0004429571114044783
+Hypertens.monitor 2nd letter,0.00044266384330759567
+Zolpidem 10mg tablets,0.0004424842769488301
+Doxazosin 2mg tablets,0.0004421671269739959
+Qvar 100 inhaler (Teva UK Ltd),0.00044188184455728693
+"Influenza vaccine (split virion, inactivated) suspension ...",0.0004412065653147238
+Co-amilozide 2.5mg/25mg tablets,0.00044094403722352144
+Metronidazole 400mg tablets,0.00044072459668705564
+Relvar Ellipta 92micrograms/dose / 22micrograms/dose dry ...,0.0004399192716619473
+Review of admission avoidance care plan,0.0004394176792363731
+Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets,0.0004385058758165173
+Rib pain,0.00043848416153399706
+Cataract,0.0004383271395630942
+Patient given advice NOS,0.0004378222315401794
+Needs influenza immunisation,0.00043677883468970686
+Ibugel Forte 10% gel (Dermal Laboratories Ltd),0.00043649791798933683
+Pulse oximetry,0.00043569831675959055
+Mebeverine 200mg modified-release capsules,0.00043516985035042203
+Letter encounter to patient,0.0004336257657917021
+Medical reports sent,0.00043292329052964737
+Patient feels well,0.0004324210958394278
+Indapamide 1.5mg modified-release tablets,0.000431748633738138
+Felodipine 5mg modified-release tablets,0.0004317323160351051
+NHS Health Check invitation second letter,0.00043067588891516857
+Movicol Plain oral powder 13.7g sachets (Norgine Pharmace...,0.00043024446738751214
+Candesartan 2mg tablets,0.0004295036666319991
+Refer to podiatry,0.00042947723056609497
+Patient given advice about bowel cancer,0.0004279201514572724
+"Out of hours, practice note",0.00042714254319932643
+Seen in spinal clinic,0.00042604728797651187
+Betahistine 8mg tablets,0.0004256534982674995
+Asthma monitor 1st letter,0.00042478792476791327
+Plain X-ray pelvis,0.0004239808207660951
+Wax in ear,0.00042388150582531406
+Orahesive powder S106 (ConvaTec Ltd),0.0004237361218228534
+Dermol 500 lotion (Dermal Laboratories Ltd),0.0004228291869151538
+Chronic obstructive pulmonary disease annual review,0.00042264680021195214
+Consent given for blood test,0.0004225229121491735
+Ditropan 2.5mg tablets (Sanofi),0.0004219607689466243
+Forced expired volume in 1 second,0.00041995758287186123
+GPPAQ physical activity index: inactive,0.00041740807919375726
+Ambulatory blood pressure recording,0.0004167880505853167
+Seen in pain clinic,0.0004159213110940959
+Did not attend breast screening clinic,0.00041574666338416264
+Stroke/transient ischaemic attack monitoring first letter,0.00041488896706840835
+[RFC] Total knee replacement,0.000411631971571712
+MSG:Hip joint pain,0.0004116063347008087
+Co-codamol 30mg/500mg caplets (A A H Pharmaceuticals Ltd),0.0004086553400816437
+Sumatriptan 6mg/0.5ml solution for injection pre-filled syringes with device,0.00040852365750478596
+Nifedipine 5mg capsules,0.00040760454787445587
+Ferrous fumarate 210mg tablets,0.00040746057995862383
+Referral for further care,0.00040734165951637703
+Co-codamol 30mg/500mg tablets,0.00040733245515386826
+Prescription collected by neighbour,0.0004071209465066329
+Ferrous fumarate 305mg capsules,0.00040354800225420577
+Felodipine 2.5mg modified-release tablets,0.0004012497316026452
+Referral,0.0004009776908835064
+E-mail sent to patient,0.00040095910598739437
+MSG:Ophthalmological referral,0.00040041571792652947
+Choose and book electronic referral letter sent,0.000399712648622249
+Cardiovascular disease annual review,0.00039969654526954783
+Glaucoma,0.0003988655455962948
+Seen in fracture clinic,0.0003981843443097325
+Pioglitazone 30mg tablets,0.00039771721658029137
+Estradiol 10microgram pessaries,0.0003962170505718176
+Intramuscular injection,0.00039467872588067526
+Metoclopramide 10mg tablets,0.0003945744873930731
+Recall letter,0.0003940558628281938
+Seen in nephrology clinic,0.0003927635174006812
+History / symptoms,0.00039220960849462017
+Influenza vaccination telephone invite,0.0003911901730235064
+Qvar 50 inhaler (Teva UK Ltd),0.0003905260570143698
+Fundoscopy,0.0003902954750275636
+Referral to rheumatologist,0.00038994928808669724
+Co-codamol 30mg/500mg capsules,0.0003895996672195764
+Ketoprofen 2.5% gel,0.0003895085666207739
+Fully mobile,0.00038902443457232845
+Alverine 60mg capsules,0.0003888904256623274
+X-rays,0.0003882797879118734
+"eMED3 (2010) new statement issued, not fit for work",0.00038784851370658594
+MSG:Neurological referral,0.00038781280053320176
+Fax received,0.0003872347213645201
+Dihydrocodeine 30mg tablets,0.0003872248705261787
+Gliclazide 40mg tablets,0.00038715406184704383
+Dizziness symptom,0.00038702318656199606
+Adverse reaction to Codeine Phosphate,0.00038669995560842177
+Fostair 100micrograms/dose / 6micrograms/dose inhaler (Ch...,0.00038577790834230785
+Seen in out of hours centre,0.0003847118688306135
+Serevent 25micrograms/dose Evohaler (GlaxoSmithKline UK Ltd),0.0003842903465142088
+Cyclizine 50mg tablets,0.0003842124245473701
+Chronic obstructive pulmonary disease monitoring admin,0.0003840996971339265
+Pioglitazone 45mg tablets,0.00038407960700279255
+Arthrotec 50 gastro-resistant tablets (Pfizer Ltd),0.00038371848033744334
+ENT symptoms,0.0003835857015792026
+Aciclovir 800mg tablets,0.0003833637993656638
+Magnetic resonance imaging,0.0003827996779138652
+Meloxicam 7.5mg tablets,0.0003826753213968898
+Seen in colorectal clinic,0.0003825907645659192
+Algesal cream (Thornton & Ross Ltd),0.00037920935469245583
+Metformin 850mg tablets,0.00037840310355194895
+Diabetic annual review,0.00037809011804526804
+Salazopyrin EN-Tabs 500mg (Pfizer Ltd),0.00037674397447287703
+Amorolfine 5% medicated nail lacquer,0.0003761946392413179
+Wasp sting,0.00037596490668435873
+Pentasa 500mg modified-release tablets (Ferring Pharmaceu...,0.0003758044754850676
+Onychomycosis,0.0003750319950475919
+Telephone call to a patient,0.000374622871055705
+No H/O vaccine allergy,0.0003727400116760134
+Nursing care blood sample taken,0.00037270579290389535
+[X]Osteopenia,0.00037159030315917944
+Infective otitis externa,0.0003712769564059034
+Tendonitis NOS,0.00037095694276023444
+Colchicine 500microgram tablets,0.00037045322051451943
+Azelaic acid 15% gel,0.00036922954021949517
+Glyceryl trinitrate 400micrograms/dose pump sublingual spray,0.0003683487246535225
+Encounter report,0.000368140165613628
+Blood withdrawal,0.0003677617223602888
+O/E - Left diabetic foot at low risk,0.0003668267876650915
+Nursing care,0.0003654594143967333
+Seebri Breezhaler 44microgram inhalation powder capsules ...,0.0003647545082467301
+MSG:Dermatological referral,0.0003636953922719168
+Ditropan 5mg tablets (Sanofi),0.00036366028926401625
+O/E - tympanic temperature,0.000362580963151432
+Cellulitis NOS,0.0003612448809826795
+Consent given for seasonal influenza vaccination,0.0003612189561347297
+Tear-Lac Hypromellose 0.3% eye drops preservative free (S...,0.00036092274774235687
+Alcohol intake within recommended sensible limits,0.0003604936771014852
+Nausea,0.00036019934164329754
+MSG:Referral for dual energy X-ray photon absorptiometry sca,0.00035859531860557223
+Did not attend abdominal aortic aneurysm screening,0.00035829346039509583
+Seen in physiotherapy department,0.00035795022754423405
+O/E - skin cyst,0.0003575985942353992
+C/O - catarrh,0.00035754961955818777
+GOS18 report,0.000357390893057477
+Upper abdominal pain,0.0003572785868925584
+Weight management plan started,0.00035677100461281147
+Abdominal aortic aneurysm screening offered,0.0003566822965870696
+Ophthalmology,0.0003559867403504408
+Plain X-ray knee,0.0003555915930878652
+Dry eyes,0.0003550897342931924
+Did not attend blood test,0.0003544510662802208
+MSG:Referral to audiology clinic,0.0003540302646901083
+Declines to give mobile telephone number,0.0003534715804179604
+Metformin 1g modified-release tablets,0.00035304700592970025
+Sitting blood pressure reading,0.00035168941628016347
+O/E - Right diabetic foot at low risk,0.00035132587731865754
+Losartan 12.5mg tablets,0.0003512293128554735
+Dermol 200 shower emollient (Dermal Laboratories Ltd),0.00035096241011679585
+Falls risk assessment complete,0.00035080891237978986
+Ganfort 0.3mg/ml / 5mg/ml eye drops (Allergan Ltd),0.0003504315018585398
+Ropinirole 500microgram tablets,0.000350153398756806
+Total prosthetic replacement of knee joint using cement OS,0.00034962651029384414
+Hyabak 0.15% eye drops preservative free (Thea Pharmaceut...,0.00034938686263471396
+Maxitram SR 50mg capsules (Chiesi Ltd),0.0003489718460864596
+General symptoms,0.00034745860920401447
+Acute exacerbation of asthma,0.0003474392533099452
+GPCOG (GP assessment of cognition) patient examination,0.00034713147674520997
+Consent given for sharing EoLCC record,0.0003462884682446523
+Herpes zoster vacc invit SMS (shrt messge serv) text message,0.0003457712699897126
+Perindopril erbumine 2mg tablets,0.0003451801104850143
+O/E - Right diabetic foot at increased risk,0.0003446214064826316
+NHS Health Check completed,0.00034457338749034226
+Dapsone 50mg tablets,0.00034446955241872277
+Chronic disease management annual review invitation,0.0003444357139768798
+Peripheral neuropathy,0.00034418601374396654
+Influenza vaccination invitation 3rd SMS text message sent,0.00034418236341573566
+Daktacort 2%/1% cream (Janssen-Cilag Ltd),0.00034198590440545846
+Ankle X-ray,0.00034180831663410926
+Ezetimibe 10mg tablets,0.0003393203074699912
+Discussion about treatment,0.00033911631348277753
+Admission by accident and emergency doctor,0.0003382457125878934
+Picato 150micrograms/g gel (LEO Pharma),0.00033655813947514604
+Darifenacin 15mg modified-release tablets,0.0003361017853117549
+Dysuria,0.0003354646774051603
+Total prosthetic replacement of knee joint using cement - Ma,0.00033433556507259424
+Polyvinyl alcohol 1.4% eye drops,0.00033305903571302707
+Synalar 0.025% cream (Derma UK Ltd),0.0003322036092326462
+Liquifilm Tears 1.4% eye drops (Allergan Ltd),0.00033167681919406587
+Referral to fracture clinic,0.0003295357090120674
+Pravastatin 10mg tablets,0.00032934114065022663
+Medicals/reports NOS,0.00032846879256252917
+Throat symptom NOS,0.00032827693928895403
+Letter sent to outside agency,0.0003281249757102648
+Lidocaine 20mg/2ml (1%) solution for injection ampoules,0.0003279101504581946
+WHO performance status grade 4,0.0003275460257415417
+Brinzolamide 10mg/ml eye drops,0.00032672730569348004
+CosmoCol Plain oral powder sachets (Stirling Anglian Pharmaceuticals Ltd),0.00032565858357031896
+White British,0.0003247086107326032
+Depo-Medrone 40mg/1ml suspension for injection vials (Pfi...,0.000323895480022058
+WHO performance status grade 3,0.0003232682353464903
+Betnovate 0.1% cream (GlaxoSmithKline UK Ltd),0.00032209189236007493
+Azopt 10mg/ml eye drops (Alcon Laboratories (UK) Ltd),0.0003210134536588535
+O/E - stoma,0.0003207961257626425
+Lorazepam 1mg tablets,0.0003207693221240625
+Olive oil ear drops,0.0003206988233724075
+Second patient call,0.0003201188305933123
+Elbow pain,0.0003198454420332026
+Acute sinusitis,0.0003186859233926789
+Subclinical hypothyroidism,0.0003186202471175365
+Carpal tunnel syndrome,0.0003185220252596974
+Erdosteine 300mg capsules,0.0003183149650456617
+GPPAQ physical activity index: moderately active,0.0003181144535578672
+Atrovent 20micrograms/dose inhaler CFC free (Boehringer I...,0.0003175374847108998
+Seretide 125 Evohaler (GlaxoSmithKline UK Ltd),0.0003168647337631193
+Vagifem 10microgram vaginal tablets (Novo Nordisk Ltd),0.0003167993648063083
+Lumbar spine X-ray,0.0003166805615402755
+Clotrimazole 1% cream,0.00031621856419401806
+Gaviscon Advance oral suspension aniseed (Reckitt Benckis...,0.00031586464368075747
+Sharpsafe Container 1 litre,0.00031556690111250914
+Irbesartan 300mg / Hydrochlorothiazide 12.5mg tablets,0.00031476741657939156
+Seen in walk in centre,0.0003143272829974181
+Patient reviewed at hospital,0.0003141259008934337
+MSG:Referral to podiatrist,0.00031371209684701544
+Minims artificial tears 0.44% eye drops 0.5ml unit dose (...,0.0003132617158966886
+Accident & emergency,0.00031293357373144733
+Cefalexin 500mg capsules,0.0003128892754290035
+Tapentadol 50mg modified-release tablets,0.0003121348677154833
+Perindopril erbumine 4mg tablets,0.0003116045617021377
+Diprobase ointment (Bayer Plc),0.0003102835972897583
+Olecranon bursitis,0.0003082844372381974
+Hydrocortisone 1% / Miconazole 2% cream,0.0003081543327199799
+Seen in vascular clinic,0.0003080170738618641
+Vitamin B compound strong tablets,0.0003077094022148391
+Skin lesion,0.0003054260580671742
+Carbomer '980' 0.2% eye drops,0.0003052006620946407
+Emergency appointment,0.00030519651737237604
+Diarrhoea,0.0003051928756974509
+Bimatoprost 300micrograms/ml / Timolol 5mg/ml eye drops,0.00030358642378358413
+Donepezil 5mg tablets,0.00030352839098206856
+MSG:Refer to dietician,0.0003030862499185055
+Nose symptoms,0.00030163401284841917
+Adcal-D3 Dissolve 1500mg/400unit effervescent tablets (Ky...,0.0003015666517853864
+Special patient note,0.0003015059002233848
+Visual disturbances,0.00030114109117876576
+Dosulepin 25mg capsules,0.00030106821139568165
+QRISK2 calculated heart age,0.00030068546265802845
+Hydrocortisone 1% / Miconazole 2% ointment,0.00030058875664145074
+Diazepam 5mg tablets,0.0002999678145680459
+Asthma annual review,0.0002999034845755664
+Meloxicam 15mg tablets,0.0002995478848275692
+Patient asked to make telephone consultation appointment,0.0002994989847047336
+Rheumatoid arthritis monitoring invitation second letter,0.00029911636512665573
+White soft paraffin 50% / Liquid paraffin 50% ointment,0.0002985801528793181
+Gastroscopy NEC,0.00029789603520317183
+ActiLymph class 2 (23-32mmHg) below knee closed toe lymph...,0.00029776400285677645
+MSG:Finger pain,0.0002975613831065497
+Fybogel Orange 3.5g effervescent granules sachets SF (Reckitt Benckiser Healthcare (UK) Ltd),0.0002974603658928721
+Travoprost 40micrograms/ml eye drops,0.0002964271867800019
+Hypertensive disease,0.00029581674332792955
+MSG:Seen by GP locum,0.00029543096595234796
+Letter sent to consultant,0.0002949846706145099
+Bowel cancer screening programme,0.00029437981548941194
+Simvastatin 80mg tablets,0.0002943408873596045
+Percent predicted FEV1,0.0002943242355796254
+O/E - Left diabetic foot at increased risk,0.0002942919352890953
+Bezafibrate 400mg modified-release tablets,0.0002940694859031352
+Seen by own GP,0.0002939502846084232
+Sumatriptan 100mg tablets,0.00029328615066804366
+Trazodone 50mg capsules,0.0002930797692671895
+Stopped drinking alcohol,0.0002930008620572716
+Co-beneldopa 25mg/100mg capsules,0.00029246373739832753
+Abdominal aortic aneurysm screening,0.00029237511206497274
+Pregabalin 150mg capsules,0.0002921623555103934
+Communication from:,0.0002920960635092944
+Error entry deleted,0.0002911521483665363
+O/E - wax in ear,0.00029028955416029366
+Ideal weight,0.00028934910594638735
+Naseptin nasal cream (Alliance Pharmaceuticals Ltd),0.00028917875006122983
+GPPAQ physical activity index: active,0.00028817130348225147
+Morphine 10mg modified-release tablets,0.00028789745089358425
+Phacoemulsification of lens,0.0002872358811735129
+Nausea present,0.0002871528514907338
+Co-Diovan 80mg/12.5mg tablets (Novartis Pharmaceuticals UK Ltd),0.0002856706794718416
+Review of dementia advance care plan,0.00028547005563045257
+Non-alcoholic fatty liver,0.0002848032331277687
+Efudix 5% cream (Meda Pharmaceuticals Ltd),0.0002845230718685219
+Occupations,0.00028423554294242185
+Prednisolone 2.5mg gastro-resistant tablets,0.00028409966955529885
+Adalat LA 60 tablets (Bayer Plc),0.00028383301300477027
+Seen in emergency clinic,0.00028368836972182665
+Oilatum scalp treatment shampoo (GlaxoSmithKline Consumer Healthcare),0.00028358573060386624
+Contour Next testing strips (Bayer Diagnostics Manufactur...,0.0002825479343217124
+Sodium cromoglicate 2% eye drops,0.00028200710802534553
+Airomir 100micrograms/dose Autohaler (Teva UK Ltd),0.00028140409583866797
+MST Continus 10mg tablets (Napp Pharmaceuticals Ltd),0.00028040101830722287
+Diverticulosis,0.0002802358419989019
+Patient offered choice of provider,0.0002799259483973443
+Lyrica 25mg capsules (Pfizer Ltd),0.000279420410063636
+Qvar 50 Autohaler (Teva UK Ltd),0.0002790299902043275
+Warfarin 5mg tablets,0.00027865783766921885
+Medication review without patient,0.00027829474342815395
+Systane Balance eye drops (Alcon Laboratories (UK) Ltd),0.000278238187670139
+Hydrocortisone 1% ointment,0.0002775166814153941
+Seretide 250 Accuhaler (GlaxoSmithKline UK Ltd),0.0002772402574837125
+Salmeterol 25micrograms/dose inhaler CFC free,0.0002771402010908805
+Chronic kidney disease stage 3,0.0002764754140137072
+Prescription collected by patient,0.0002763401876514148
+Muscle pain,0.0002762514022195909
+Regurin XL 60mg capsules (Speciality European Pharma Ltd),0.00027620695156585457
+Betamethasone valerate 0.1% cream,0.0002760417061815047
+Malnutrition universal screening tool score,0.00027554148207061506
+Admission avoidance care started,0.0002745433448494621
+Fenofibrate micronised 160mg tablets,0.00027444148461770545
+Provision of written information about acute kidney injury,0.00027425595223964065
+Light drinker,0.00027414597487561925
+In employment,0.0002741377634589851
+Medication commenced,0.00027330105734836503
+Alcohol use disorders identification test,0.00027260662626620567
+MRC Breathlessness Scale: grade 2,0.00027240414667080605
+Valsartan 80mg capsules,0.000272196631873595
+Radiology result,0.00027207320270436795
+Fucidin H cream (LEO Pharma),0.00027113503371492114
+Fybogel Hi-Fibre Orange 3.5g effervescent granules sachet...,0.0002709123247534882
+O/E - visual acuity L-eye,0.00026994297357518007
+Urinary symptoms,0.0002697774484524255
+Fracture of unspecified bones,0.00026969551358233847
+Pizotifen 500microgram tablets,0.0002692361567081045
+Asthma not disturbing sleep,0.0002686008987931217
+Seen by neurologist,0.0002685414313356175
+FEV1/FVC percent,0.0002682464357915044
+[D]Musculoskeletal pain,0.0002680229202799717
+[D]Facial pain,0.0002674977755166583
+Read code administration,0.00026686041184733125
+Rheumatol. disorder monitoring,0.0002665507722750999
+Ipratropium bromide 20micrograms/dose inhaler CFC free,0.00026612028179329904
+Sirdupla 25micrograms/dose / 125micrograms/dose inhaler (Mylan),0.00026570744788664824
+Standing blood pressure reading,0.0002649480854315961
+Home visit planned by doctor,0.00026453546501870474
+Prescription collected by pharmacy,0.0002640603849598032
+Sitagliptin 100mg tablets,0.00026365924753162597
+Fybogel Orange 3.5g effervescent granules sachets SF (Rec...,0.00026237367767215764
+Osteoarthritis NOS,0.000261896478673722
+MSG:Referral to urology special interest general practitione,0.0002615554036508001
+Aciclovir 400mg tablets,0.00026095021515973955
+Chronic obstructive pulmonary disease monitoring 3rd letter,0.000260889724073516
+Current smoker,0.0002605842387056561
+O/E - a lump,0.00026057210931964533
+NHS Health Check verbal invitation,0.00026029052205459925
+Main spoken language English,0.0002600549406233421
+Tiredness symptom,0.0002595164110122394
+Seborrhoeic keratosis,0.0002591765546795943
+Standard chest X-ray abnormal,0.00025895004062064344
+Gabapentin 600mg tablets,0.00025872997602809935
+Seen by dietician,0.00025776393369731775
+Seen by ophthalmologist,0.0002577565772183865
+Phenobarbital 15mg tablets,0.0002577028641137333
+H/O: Clostridium difficile infection,0.00025748483913823285
+Paroxetine 20mg tablets,0.00025745890379029566
+New patient consultation,0.0002573393012098038
+MSG:Referred to urologist,0.0002573066869333096
+Baclofen 10mg tablets,0.00025682988683804156
+Pt advised re low fat diet,0.00025592836192546615
+Celecoxib 100mg capsules,0.00025572019546600647
+Escitalopram 10mg tablets,0.00025547285715221593
+O/E - visual acuity R-eye,0.00025545879310939876
+NHS Health Check telephone invitation,0.0002554301339807976
+"Pelican Select convex ileostomy bag with filter, standard...",0.00025526760199583734
+Incoming mail,0.00025525847286392604
+Shortness of breath,0.0002552494470446751
+Pain in arm,0.0002550581474310678
+FEV1 after bronchodilation,0.00025482340671389243
+Inguinal hernia NOS,0.0002546487761899891
+Carer,0.00025440149560184355
+Sevredol 10mg tablets (Napp Pharmaceuticals Ltd),0.00025433766139139666
+Fybogel 3.5g effervescent granules sachets plain SF (Foru...,0.00025427621637303456
+Rosuvastatin 10mg tablets,0.00025405524512529424
+CosmoCol Orange Flavour oral powder sachets (Stirling Ang...,0.0002538107369511222
+Asacol 800mg MR gastro-resistant tablets (Warner Chilcott...,0.00025339403867538515
+Beconase Aqueous 50micrograms/dose nasal spray (GlaxoSmithKline UK Ltd),0.0002533237319869492
+Vencarm XL 37.5mg capsules (Aspire Pharma Ltd),0.00025284045932518124
+Fucidin 20mg/g cream (LEO Pharma),0.0002522947630748562
+Injection into joint NEC,0.00025225439440807894
+Ultrasound scan report received,0.0002514369335034077
+Light smoker - 1-9 cigs/day,0.0002511807362946516
+Seen by urologist,0.0002509081085490888
+Brief intervention for physical activity completed,0.0002501651213768417
+Clinical trial administration,0.00025005506755002715
+ASTHMA,0.0002499892292097375
+Coracten XL 30mg capsules (UCB Pharma Ltd),0.00024939661928434124
+Corns,0.0002483718689529694
+Hip arthritis NOS,0.00024763621699894905
+Nizoral 2% shampoo (Janssen-Cilag Ltd),0.00024756414822521187
+Medication reconciliation,0.0002472573117558201
+Hyoscine butylbromide 10mg tablets,0.00024702033863714944
+NovaLife Active colostomy bag with filter 807-20 Cut to f...,0.0002470122392079627
+Elleste Solo 2mg tablets (Meda Pharmaceuticals Ltd),0.00024691251336520474
+Knee X-ray,0.00024672760523453575
+Propranolol 40mg tablets,0.00024655716402017397
+Excepted from CHD quality indicators: Informed dissent,0.00024643420339491687
+Nova colostomy bag 801-35 35mm Opaque (Dansac Ltd),0.0002463396003563152
+Influenza vaccination invitation letter sent,0.0002463235986690873
+Eprosartan 400mg tablets,0.00024631197991915166
+Shoulder pain,0.0002460359834372726
+BuTrans 10micrograms/hour transdermal patches (Napp Pharm...,0.00024579641044454885
+Throat examination - normal,0.00024463754818396314
+Fracture of metatarsal bone,0.0002432477231088464
+O/E - heart sounds normal,0.0002431196731111701
+Letter from outside agency,0.00024295312484795274
+Ferrous sulfate 200mg tablets,0.00024264525468855515
+GPPAQ physical activity index: moderately inactive,0.0002419022742621569
+Fast track cancer referral,0.00024157578837838756
+Bisacodyl 5mg gastro-resistant tablets,0.00024144771172572528
+Loceryl 5% medicated nail lacquer (Galderma (UK) Ltd),0.00024129652317647336
+Mild frailty,0.00024107647125462008
+O/E - retina normal,0.0002404723886132425
+Initial memory assessment,0.00024028945912115204
+Daktacort ointment (Janssen-Cilag Ltd),0.0002402189354019521
+Short of breath on exertion,0.0002400383834951251
+"Influenza vaccine (split virion, inactivated) suspension for injection 0.5ml pre-filled syringes",0.0002397694906807096
+"Back pain, unspecified",0.00023925792331722537
+Chesty cough,0.00023903972958557313
+Injection given,0.0002384965081650255
+Orlistat 120mg capsules,0.00023831853630647165
+Stop smoking invitation first SMS text message,0.00023822344622058929
+Doxazosin 8mg modified-release tablets,0.0002379191685099164
+Viazem XL 180mg capsules (Thornton & Ross Ltd),0.00023719972064543366
+Compression hosiery class I below knee stocking circular knit made to measure,0.0002371791919216216
+Lyrica 150mg capsules (Pfizer Ltd),0.00023669171152598708
+Seen in oral surgery clinic,0.00023654876081830045
+Chest clear,0.00023646366301688729
+Multidisciplinary assessment,0.0002362227600028303
+Punch biopsy of skin,0.00023616711463479365
+Ciprofloxacin 500mg tablets,0.00023491411203221496
+Polymyalgia rheumatica,0.00023489921742136897
+Nocturia,0.00023426416588326202
+Volumatic (GlaxoSmithKline UK Ltd),0.00023420831383588994
+Over the counter aspirin therapy,0.00023367179995816047
+Promazine 25mg/5ml oral solution,0.00023306169276777713
+Pioglitazone 15mg / Metformin 850mg tablets,0.00023301625641500734
+Optive Plus 0.5% eye drops (Allergan Ltd),0.00023293059462942316
+MSG:Gynaecological referral,0.00023271210497478203
+Beclometasone 50micrograms/dose nasal spray,0.00023213658900301997
+Phlebitis and thrombophlebitis,0.00023208245999949557
+Tabphyn MR 400microgram capsules (Kyowa Kirin Ltd),0.00023096612948949672
+Oedema - symptom,0.00023078255368690672
+Oxycodone 10mg modified-release tablets,0.00023073086991018879
+Degenerative disc disease NOS,0.0002306765212206973
+Desunin 800unit tablets (Meda Pharmaceuticals Ltd),0.0002303765033075849
+Unsuccessful attempt to contact patient by telephone,0.00023020465737388652
+Tamsulosin 400microgram modified-release tablets,0.00022947441259331397
+Co-tenidone 100mg/25mg tablets,0.00022938400329193393
+Disease modifying antirheumatic drug monitoring,0.00022915312791467227
+E45 cream (Forum Health Products Ltd),0.00022832129983375892
+Diclofenac sodium 50mg gastro-resistant / Misoprostol 200...,0.0002279065640409538
+Zomorph 30mg modified-release capsules (Archimedes Pharma...,0.00022775262711004373
+Depo-Medrone with Lidocaine suspension for injection 2ml ...,0.00022675456896535854
+Prochlorperazine 3mg buccal tablets,0.0002267319114236069
+Co-amoxiclav 500mg/125mg tablets,0.00022661440481640794
+Tamoxifen 20mg tablets,0.00022619392655424017
+Asthma not limiting activities,0.00022610901378220148
+Hypertension monitoring,0.0002256840680483749
+Lymecycline 408mg capsules,0.00022527588430794448
+Locoid 0.1% ointment (LEO Pharma),0.00022513941022154872
+Spinal plexus injury,0.00022486202928439415
+Influenza vaccination declined,0.00022449555914934663
+Relvar Ellipta 184micrograms/dose / 22micrograms/dose dry powder inhaler (GlaxoSmithKline UK Ltd),0.00022405443777625975
+Lidocaine 100mg/10ml (1%) solution for injection ampoules,0.00022401799790270504
+Recall administration-general,0.00022329400329120438
+Primary total knee replacement NEC,0.00022323270575579625
+Seen by consultant,0.00022276728422655304
+Telephone consultation,0.0002226708529505907
+MST Continus 60mg tablets (Napp Pharmaceuticals Ltd),0.00022224899722212744
+"Nystatin 100,000units/ml oral suspension",0.00022224162293053753
+Type 2 diabetes mellitus,0.00022213600511786103
+Seen by gastroenterologist,0.00022200068129686317
+Salofalk 2g/59ml enema (Dr. Falk Pharma UK Ltd),0.00022162912036311722
+Patient advised about alcohol,0.00022159014183124705
+12 lead ECG,0.0002213485762242514
+Prescription by another organisation,0.000221094100528748
+Enalapril 20mg / Hydrochlorothiazide 12.5mg tablets,0.0002209425777492868
+[X]Other chronic pain,0.0002203201922615311
+Lyrica 300mg capsules (Pfizer Ltd),0.00022021931933730645
+Dihydrocodeine 60mg modified-release tablets,0.0002192824795696753
+Imuran 50mg tablets (Aspen Pharma Trading Ltd),0.00021852446157318231
+Diabetes self-management plan agreed,0.00021832366714471285
+Gaviscon Peppermint Liquid Relief (Reckitt Benckiser Heal...,0.00021806323692710522
+NovaLife 1 soft convex colostomy bag midi 971-34 Cut to f...,0.0002179277839942474
+Morphgesic SR 10mg tablets (AMCo),0.00021755536888687138
+Diabetes monitor.verbal invite,0.00021747664836355867
+Peptac liquid peppermint (Teva UK Ltd),0.00021738885200483824
+Voltarol 1.16% Emulgel P (Novartis Consumer Health UK Ltd),0.00021719538627179306
+Bezalip Mono 400mg modified-release tablets (Teva UK Ltd),0.0002171433367806979
+Seborrhoeic dermatitis,0.00021706810813845227
+[M]Meningioma NOS,0.0002165491520026946
+Dovobet gel (LEO Pharma),0.00021601599128106996
+Asthma never causes daytime symptoms,0.00021590375483886119
+Shortness of breath symptom,0.00021566704646016482
+Phenytoin sodium 100mg capsules,0.00021563847501667767
+Canesten Combi 500mg pessary and 2% cream (Bayer Plc),0.00021495962706670317
+Morphine 30mg modified-release tablets,0.00021444227733361185
+Excepted from COPD quality indicators: Informed dissent,0.0002143833048347968
+Moderate frailty,0.00021373313841462784
+Hypothyroidism,0.00021344967716229737
+Referral to gastroenterologist,0.00021314535080408026
+Manevac granules (Meda Pharmaceuticals Ltd),0.0002125286175156043
+VitA-POS eye ointment preservative free (Scope Ophthalmic...,0.00021247734893259745
+Fesoterodine 4mg modified-release tablets,0.00021242096645098513
+Sustanon 250mg/1ml solution for injection ampoules (Aspen...,0.00021238428595498284
+Vasovagal symptom,0.00021227224579747523
+Amoxicillin 250mg capsules,0.00021195005606033755
+Voltarol 1.16% Emulgel (Novartis Consumer Health UK Ltd),0.000211619131312475
+Caverject 40microgram powder and solvent for solution for...,0.00021138590289959618
+Pain in wrist,0.0002112018563738572
+Clinical management plan review,0.00021113541929896213
+Referral letter,0.0002108693436280039
+Flecainide 100mg tablets,0.00021059155160103762
+Patient address ? correct,0.00021045457319787887
+Mobility fair,0.00021019287484258574
+Anusol HC ointment (McNeil Products Ltd),0.00021002034497185707
+Irbesartan 150mg tablets,0.00020963724452402203
+Forced vital capacity - FVC,0.000209277652920223
+Breast neoplasm screen normal,0.000208956459575082
+Impaired glucose regulation monitoring invitation 1st letter,0.00020884432716648089
+H/O: operation,0.00020852296327692775
+Lumigan 100micrograms/ml eye drops (Allergan Ltd),0.00020851755711561885
+Bisoprolol 7.5mg tablets,0.0002085144009325135
+Lumigan 300micrograms/ml eye drops (Allergan Ltd),0.00020838032389135211
+Mild cognitive impairment,0.00020834879131977752
+Bimatoprost 100micrograms/ml eye drops,0.00020825506909710132
+OxyContin 15mg modified-release tablets (Napp Pharmaceuti...,0.00020812421871899456
+Planned telephone contact,0.0002080798511966995
+Hydroxyzine 25mg tablets,0.00020778871958555397
+Chest pain,0.00020723466462089165
+Gaviscon Advance Mint chewable tablets (Reckitt Benckiser Healthcare (UK) Ltd),0.000206560515024391
+Out of hours consultation at surgery,0.00020619909683043623
+Venlalic XL 150mg tablets (Ethypharm UK Ltd),0.00020614838101724143
+C/O: a pain,0.00020571276123253928
+Conotrane cream (LEO Pharma),0.0002056492767299052
+H/O: fracture,0.00020555705417629912
+Foot X-ray,0.00020523613102176088
+Screening status,0.0002050772327862391
+Arthralgia of knee,0.00020436716428773696
+Renal colic - acute,0.00020426439417959753
+Haemorrhoids,0.00020415452286922444
+Hip osteoarthritis NOS,0.0002039192575757019
+Actinic keratosis,0.0002038765368267102
+Seen by dentist,0.0002038002825027899
+TIA/ ? stroke,0.0002033410004954017
+Paronychia,0.00020293861631031008
+Dermol cream (Dermal Laboratories Ltd),0.00020253829503164887
+Eye symptoms,0.0002024514781208092
+Glucophage SR 500mg tablets (Merck Serono Ltd),0.00020244863655503162
+Lyrica 75mg capsules (Pfizer Ltd),0.00020243150187552436
+Diphenhydramine 50mg tablets,0.00020240379005870745
+Patient's next of kin,0.0002022799829610728
+Opticians,0.0002014897082156765
+Diclofenac 2.32% gel,0.0002001816931708684
+Tadalafil 20mg tablets,0.00019989479074605953
+Hypertension monitor.chck done,0.00019982532900524177
+Oxycodone 20mg modified-release tablets,0.00019919230062050858
+Spironolactone 25mg tablets,0.00019890490422828786
+No relevant FH: family history,0.00019874664515631604
+Hyperlipidaemia NOS,0.00019869517145417836
+MSG:Eye care,0.0001983070567924999
+Mammography - screening,0.00019764415164717636
+Statin prophylaxis,0.0001976181152135505
+Duloxetine 60mg gastro-resistant capsules,0.00019759201283146093
+Cyanocobalamin 50microgram tablets,0.00019706171636325832
+Referral for echocardiography,0.00019691064447611536
+Failed encounter - SMS text message delivery failure,0.00019617794871966296
+NHS Diabetes Prevention Programme completed,0.00019562906740946796
+Venaxx XL 75mg capsules (AMCo),0.00019551784064063916
+Other reconstruction of joint,0.000195029811406166
+Co-tenidone 50mg/12.5mg tablets,0.00019458963209592948
+Home visit request by relative,0.0001945080721777437
+MSG:Referral to upper gastrointestinal surgeon,0.0001944484578638439
+Patient de-registration,0.00019411628424897105
+Referral to surgeon,0.00019403796959344957
+Canesten HC cream (Bayer Plc),0.000193898609012322
+Coronary heart disease monitoring 2nd letter,0.0001938810155527244
+Adverse reaction to Colchicine,0.00019374758340571932
+ECG,0.00019351378519713043
+Chest infection,0.00019324947532535928
+Scheriproct ointment (Bayer Plc),0.0001931357053924388
+Dexamethasone 2mg tablets,0.00019303842189064173
+[V]Person consulting for explanatn of investigation findings,0.00019289362604220893
+First outpatient appointment date,0.00019288513377006635
+CosmoCol Lemon and Lime Flavour oral powder sachets (Stir...,0.00019268212138035074
+Tiotropium bromide 18microgram inhalation powder capsules...,0.0001922387583517593
+Simple mastectomy,0.00019201034241721088
+Venlafaxine 75mg tablets,0.00019191736728245068
+Diclofenac sodium 25mg gastro-resistant tablets,0.00019191029121231004
+Otitis externa NOS,0.00019183458062033297
+Patient looks well,0.000191819130060337
+Ispaghula husk 3.5g effervescent granules sachets gluten free sugar free,0.00019170696127858737
+Ear pain,0.0001915668717216388
+Drug compliance good,0.00019119656411851474
+Minor surgery done - injection,0.00019048380161667972
+Interpreter not needed,0.0001902450269515631
+Paracetamol 250mg/5ml oral suspension,0.00018997346749935248
+Computer summary updated,0.0001891560836641888
+Asthma monitor phone invite,0.0001890053933342949
+O/E - rate of respiration,0.0001888831327855291
+Ciprofloxacin 250mg tablets,0.0001886366915006605
+Goserelin 10.8mg implant pre-filled syringes,0.00018834532703202716
+Donepezil 10mg tablets,0.00018777550374988742
+Betamethasone valerate 0.1% / Fusidic acid 2% cream,0.00018754514075160106
+Qvar 100micrograms/dose Easi-Breathe inhaler (Teva UK Ltd),0.00018728676890040542
+Oxybutynin 5mg modified-release tablets,0.00018662041855592917
+Irbesartan 75mg tablets,0.0001864665762887984
+Carpal tunnel release,0.0001863628728757057
+Phenoxymethylpenicillin 250mg tablets,0.0001863607861292444
+Coracten XL 60mg capsules (UCB Pharma Ltd),0.00018606302552923396
+Referral to prostate assessment clinic,0.00018576923601457045
+Olanzapine 5mg tablets,0.00018545693194221724
+Does not have a carer,0.00018538584752050878
+Seasickness,0.00018519055022464748
+JBS cardiovascular disease risk >20% up to 30% ov next 10 yr,0.00018508040414333537
+Salbutamol 5mg/2.5ml nebuliser liquid unit dose Steripoul...,0.0001850278427918027
+Smoking cessation milestones,0.00018499882864295923
+Cardiological referral,0.00018489150029655837
+SpeediCath Compact catheter female 12Ch 28582 (Coloplast Ltd),0.00018468275412010534
+Pain,0.00018442695468973426
+Hydro-Caine Gel (CliniSupplies Ltd),0.00018409786197623752
+Choose and book referral,0.00018407247038272628
+Spironolactone 100mg tablets,0.00018356848349484388
+Levothyroxine sodium 50microgram capsules,0.00018338979876499154
+Simpla S2 non-drainable night drainage bag 320902 2litre ...,0.0001832329492104219
+Hydrocortisone 0.5% cream,0.00018312341494433273
+MSG:Referral to orthopaedic surgeon,0.00018279724418207406
+Trazodone 50mg/5ml oral solution sugar free,0.00018269318560634168
+Moxonidine 300microgram tablets,0.00018265808741358918
+Dansac GX-tra Seals 725-20/30 20mm (Dansac Ltd),0.00018014346963817773
+Easyhaler Salbutamol sulfate 200micrograms/dose dry powde...,0.00017937365095782338
+Latanoprost 50micrograms/ml / Timolol 5mg/ml eye drops,0.00017927824376217803
+"Chron obstruct pulmonary dis wth acute exacerbation, unspec",0.0001792309960376084
+DMARD information leaflet given - enhanced services administ,0.0001791539486180862
+Nova Mini colostomy bag 803-25 25mm Opaque (Dansac Ltd),0.00017909963702946523
+Hypertens.monitor phone invite,0.00017854182692407503
+Digoxin 125microgram tablets,0.00017842786416450384
+Tiotropium bromide 2.5micrograms/dose solution for inhala...,0.00017810308984249462
+British or mixed British - ethnic category 2001 census,0.00017809391971571043
+[V]Issue of medical certificate,0.00017795132729816462
+Pioglitazone 15mg tablets,0.00017773896584401117
+NovaLife 1 colostomy bag midi 901-35 Cut to fit 35mm-55mm...,0.0001774124134601408
+Adalat LA 30 tablets (Bayer Plc),0.00017741075610353693
+Assessment for dementia,0.0001773032745153453
+Linagliptin 5mg tablets,0.0001764134771729722
+Clonidine 25microgram tablets,0.00017635112129765838
+Impression urostomy bag 1483 22mm Transparent (Hollister ...,0.00017617391957400322
+Calcichew D3 Forte chewable tablets (Takeda UK Ltd),0.00017599269983461369
+Adizem-XL 180mg capsules (Napp Pharmaceuticals Ltd),0.00017582750216199082
+Shave excision of lesion of skin NEC,0.00017577822452857254
+Adalat retard 10mg tablets (Bayer Plc),0.00017543160947358245
+Dovobet ointment (LEO Pharma),0.00017516435319669477
+IHD - Ischaemic heart disease,0.00017500442636154146
+Advice to GP to start patient medication,0.00017492333553747184
+Coronary heart disease annual review,0.0001747922905126719
+NHS Health Check invitation third letter,0.0001747607254521692
+Decompression of spine NOS,0.00017401456131591026
+Sulfasalazine 500mg gastro-resistant tablets,0.00017389807681267815
+Rosuvastatin 5mg tablets,0.00017386142881487397
+Quetiapine 25mg tablets,0.00017335160870980663
+Calcipotriol 50micrograms/ml scalp solution,0.00017323626610558693
+Temazepam 10mg tablets,0.00017295821605990203
+Urine looks normal,0.0001726825609194239
+Palliative care plan review,0.00017248791244873785
+Suppurative and unspecified otitis media,0.0001724666828440177
+Nose bleed symptom,0.00017236634439676192
+Aviva testing strips (Roche Diabetes Care Ltd),0.00017209325699492163
+Doublebase Gel (Pump Dispenser),0.0001719365550872899
+Seasonal influenza vaccination given by pharmacist,0.00017180401881648294
+Acute exacerbation of chronic obstructive airways disease,0.00017125346102554801
+Marital state unknown,0.00017086572465211934
+Montelukast 10mg tablets,0.0001708650472215703
+Migraine,0.0001703281913416614
+Timolol 0.25% eye drops,0.00017006914446525547
+Peptac liquid aniseed (Teva UK Ltd),0.00017001766399747146
+Spondylosis NOS,0.00016994512878001572
+Chronic kidney disease monitoring administration,0.00016984212657554734
+Psoriasis NOS,0.00016977254226866373
+Stemetil 5mg tablets (Sanofi),0.0001696485201611075
+"Nystan 100,000units/ml oral suspension (ready mixed) (Bri...",0.00016957334707249212
+Hypertension screen admin.,0.0001694827652506376
+MSG:[D]Abdominal pain,0.00016935989788740633
+Shoulder X-ray,0.00016933258150279702
+Magnetic resonance imaging of lumbar spine,0.0001693254183394987
+Wears glasses,0.00016929985810013954
+Priadel 400mg modified-release tablets (Sanofi),0.0001690572739734355
+Nebivolol 2.5mg tablets,0.0001688584174293394
+Gaviscon Advance oral suspension peppermint (Reckitt Benc...,0.00016864365072455075
+DuoTrav 40micrograms/ml / 5mg/ml eye drops (Alcon Laborat...,0.00016804519808458259
+Betnovate 0.1% ointment (GlaxoSmithKline UK Ltd),0.00016801098792425552
+Health ed. - diet,0.00016784028892062624
+Expected FEV1,0.00016765861895416657
+Clinitas Carbomer 0.2% eye gel (Altacor Ltd),0.00016757754974287305
+OOH attendance note,0.0001670812555549222
+Atrial fibrillation and flutter,0.00016685744331328492
+Fucibet cream (LEO Pharma),0.00016657916292768592
+Aveeno cream (Johnson & Johnson Ltd),0.00016651573432204417
+Paroxetine 10mg tablets,0.00016645334216305982
+Gastroenterology,0.00016636987352666708
+Bicalutamide 50mg tablets,0.00016636557951541327
+MSG:Referral to diabetes structured education programme,0.000165795929558623
+Herpes zoster vaccination,0.00016569225689070158
+Easyhaler Beclometasone 200micrograms/dose dry powder inh...,0.00016555155199052168
+Clinic B monitoring 1st letter,0.00016545664986705256
+Aceclofenac 100mg tablets,0.00016532657567386677
+Corsodyl 0.2% mouthwash alcohol free (GlaxoSmithKline Con...,0.00016528650972667716
+Ibuleve Maximum Strength 10% gel (Dendron Ltd),0.0001652378445937543
+Discharged from accident and emergency,0.00016477830866826578
+Ventolin 200micrograms/dose Accuhaler (GlaxoSmithKline UK...,0.0001647330993049667
+Herpes zoster vaccination offered,0.00016468862613486248
+Tiotropium bromide 18microgram inhalation powder capsules with device,0.0001644442392297985
+Discharge from dietetics service,0.00016413600128189834
+Lumecare Hypromellose 0.3% eye drops 0.5ml unit dose (Med...,0.00016410651793455241
+White British - ethnic category 2001 census,0.00016410147909878784
+Evacal D3 1500mg/400unit chewable tablets (Teva UK Ltd),0.00016406967639216757
+Timoptol 0.5% eye drops (Santen UK Ltd),0.00016386847236738434
+Nifedipine 10mg modified-release capsules,0.0001637616579077513
+Diabetic on oral treatment,0.00016350434075045753
+Medical report received from hospital,0.0001633542670288045
+Chaperone offered,0.00016333145208104053
+O/E - L.dorsalis pedis present,0.00016325746383570003
+Calcium lactate 300mg tablets,0.00016300295410316373
+Carmellose 0.5% eye drops 0.4ml unit dose preservative free,0.00016278497479914314
+Biceps tendinitis,0.0001625400465415003
+Pregabalin 75mg capsules,0.00016241527789052635
+Systane Gel eye drops (Alcon Laboratories (UK) Ltd),0.00016236029125307554
+Ibuprofen 600mg tablets,0.000162337371700069
+High risk drug monitoring,0.00016210093573601361
+Long term condition care planning invitation,0.0001615171799391162
+B12 injections - at surgery,0.00016111844652825306
+Canagliflozin 300mg tablets,0.00016109427338879993
+Lidocaine 100mg/5ml (2%) solution for injection ampoules,0.00016107023327853584
+Trusopt 20mg/ml eye drops (Santen UK Ltd),0.00016092777836360114
+Smoking cessation advice declined,0.00016090034682403608
+Inhaler technique - good,0.0001608032351601932
+Primary cemented total knee replacement,0.00016080009110198298
+DEXA - Dual energy X-ray photon absorptiometry,0.00016072091123362249
+Adcal-D3 Lemon chewable tablets (Kyowa Kirin Ltd),0.000160697010797456
+Alcohol intake above recommended sensible limits,0.00016041230530702483
+Capsaicin 0.025% cream,0.00016033288216152236
+Hand pain,0.0001602308271485871
+Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials,0.0001599451139924727
+Senile macular degeneration,0.0001598843308760267
+Angitil XL 240 capsules (Ethypharm UK Ltd),0.00015954218560020633
+Phenergan 25mg tablets (Sanofi),0.00015933041566361473
+On gold standards palliative care framework,0.00015929011176272318
+Neuropathic pain,0.0001592117099448831
+Fluticasone Propionate Aqueous nasal spray 0.05 % (150 dose spray),0.00015911786572017628
+Predsol 0.5% ear/eye drops (Focus Pharmaceuticals Ltd),0.00015897663233255317
+New patient screen done,0.00015851180390684738
+"Osteoarthritis NOS, of knee",0.00015818207161562138
+Hospital inpatient,0.00015799292413617026
+Moderate drinker,0.00015791355207497358
+BuTrans 20micrograms/hour transdermal patches (Napp Pharm...,0.00015769455387378497
+Physiotherapist,0.00015750693830806148
+Patient on maximal tolerated therapy for diabetes,0.00015726144595011466
+Medication recommenced,0.00015718821726000214
+Advice,0.00015697615918106858
+Tegretol Prolonged Release 200mg tablets (Novartis Pharmaceuticals UK Ltd),0.0001567500198189095
+CAT scan,0.00015671007610074667
+Matrifen 12micrograms/hour transdermal patches (Teva UK Ltd),0.00015658986091089252
+Diet poor,0.0001565430590988881
+Hypertension six month review,0.00015626352121832357
+Valsartan 160mg capsules,0.00015603613429481433
+Asthma medication review,0.00015586113846315682
+Lichen planus,0.00015584363422618854
+OxyContin 10mg modified-release tablets (Napp Pharmaceuti...,0.0001551008605084427
+Co-careldopa 12.5mg/50mg tablets,0.000154927305363181
+Cardiovascular disease risk assessment first letter,0.00015489146927550077
+BCSP faecal occult blood testing incomplete participation,0.00015487136690762017
+OxyNorm 5mg capsules (Napp Pharmaceuticals Ltd),0.00015429559823971705
+Glaucoma NOS,0.00015424994129932158
+Ankle swelling symptom,0.0001541964682471568
+Rheumatology drug monitoring,0.00015414182362350043
+[D]Clicking thumb,0.00015405222490254644
+O/E - R.post.tib.pulse present,0.00015403642520565348
+Timoptol-LA 0.25% ophthalmic gel-forming solution (Santen...,0.00015315151946050293
+Asthma control step 3,0.000152747333197686
+Senna 7.5mg/5ml oral solution sugar free,0.00015271588393247563
+MSG:Referral to vascular surgeon,0.00015204749998426383
+O/E - Right diabetic foot at moderate risk,0.00015156748923908026
+Cannulation site irritation,0.00015104251693785872
+Patient advised about cardiovascular disorder,0.0001509782247683989
+Statin declined,0.0001509681068844131
+Takes inadequate exercise,0.00015090116088454117
+Bonjela Original gel (Reckitt Benckiser Healthcare (UK) Ltd),0.0001507709707593786
+Mirabegron 50mg modified-release tablets,0.00015059630743926956
+Loss of taste,0.00015037636788212542
+[SO]Rotator cuff,0.0001502030066569061
+Prednisolone acetate 1% eye drops,0.00014996935302947343
+Golfer's elbow,0.0001499492719474416
+Genius gluten free white bread sliced (Genius Foods Ltd),0.0001499349012945456
+Nortriptyline 25mg tablets,0.00014957542923102506
+Not interested in stopping smoking,0.00014952426394566402
+O/E - Left diabetic foot at high risk,0.00014940189045939222
+Temazepam 20mg tablets,0.0001491825454758282
+Thiamine 100mg tablets,0.00014900759797144308
+General surgery,0.00014898878599477693
+Advice about weight,0.00014871442533739618
+Terbinafine 250mg tablets,0.00014863691621262387
+Lamotrigine 50mg tablets,0.00014786135358971713
+Omeprazole 20mg gastro-resistant capsules,0.0001478484147083789
+Lifestyle advice regarding diet,0.00014784339022139267
+Heart rate,0.00014737527273621842
+Hydromoor 0.3% eye drops 0.4ml unit dose preservative free (Moorfields Pharmaceuticals),0.00014736843882568167
+"Complete tear, shoulder joint",0.0001473546840472745
+Self-referral to accident and emergency department,0.00014722739945086094
+Diclofenac sodium 3% gel,0.00014722297258188715
+Fluticasone propionate 50micrograms/dose nasal spray,0.0001470179137926434
+Impingement syndrome of shoulder,0.00014688852430020942
+Diprobase cream (Bayer Plc),0.0001466249531228241
+Paracetamol 250mg/5ml oral suspension sugar free,0.0001465663953895257
+Blepharitis,0.00014645581933588655
+O/E - L.post.tib.pulse present,0.0001463411396828145
+Spirometry screening,0.00014619750191162983
+Referral to cataract clinic,0.0001461866128891721
+Digoxin 62.5microgram tablets,0.000145963904467469
+Fexofenadine 120mg tablets,0.00014588062035274978
+Doxazosin 4mg modified-release tablets,0.00014585749832742663
+Timolol 0.25% eye gel,0.00014580691284532036
+Plain X-ray hip joint,0.00014580125187931654
+No consent for seasonal influenza vaccination,0.00014576121581042422
+Nocturnal cough / wheeze,0.00014573103758573405
+Kliofem tablets (Novo Nordisk Ltd),0.00014565862617600233
+Ultrasound scan requested,0.0001451658612479028
+23-12-15: Craniotomy and Evacuation of Right Frontal ICH. 26-12-15: Tracheostomy,0.00014514978943939988
+Viazem XL 240mg capsules (Thornton & Ross Ltd),0.00014498894740242818
+Nitrofurantoin 100mg capsules,0.00014490251003832129
+Hypromellose 0.5% eye drops,0.0001447290893118244
+Travoprost 40micrograms/ml / Timolol 5mg/ml eye drops,0.00014472810973190775
+Colecalciferol 400unit / Calcium carbonate 1.5g chewable tablets,0.00014463267444060282
+Speedicath catheter male 16Ch 28416 (Coloplast Ltd),0.00014454778021552969
+Excepted from COPD quality indicators: Patient unsuitable,0.00014429473347007878
+Erythrocin 250 tablets (AMCo),0.00014419827878710446
+Ankylosing spondylitis,0.00014346869266501657
+Provision written information abt diabetes & high HbA1c levl,0.00014330120318328105
+Abdomen examined - NAD,0.0001428692645582482
+Naproxen 375mg gastro-resistant tablets,0.000142510679090745
+FVC after bronchodilation,0.000142264471925045
+Caverject 20microgram powder and solvent for solution for...,0.00014221521181438312
+Oxycodone 10mg capsules,0.00014217820911108041
+Referral to smoking cessation service declined,0.00014201091950919587
+Nifedipine 20mg modified-release capsules,0.00014190129175193486
+Spiriva Respimat 2.5micrograms/dose solution for inhalati...,0.00014172334982786593
+Ramipril 10mg tablets,0.0001416879513077313
+Thumb pain,0.00014159148384725026
+Fybogel Lemon 3.5g effervescent granules sachets SF (Reck...,0.0001415084470276393
+Unilet ComforTouch lancets 0.375mm/28gauge (Owen Mumford Ltd),0.00014111783742999344
+Brief intervention for physical activity offered,0.00014107520260295422
+Ketoprofen 200mg modified-release capsules,0.00014099952583187186
+Movelat gel (Genus Pharmaceuticals Ltd),0.00014099746237788825
+Refer for imaging,0.00014090629264228063
+Resp. system examined - NAD,0.0001400649438797421
+Stress at home,0.0001397952089566525
+Feels unwell,0.00013956876508401702
+Calceos 500mg/400unit chewable tablets (Galen Ltd),0.00013940644545269314
+Fexofenadine 180mg tablets,0.00013932964968616911
+Appointment date,0.00013922167032347286
+GSF supportive care stage 1 - advancing disease,0.00013897180981329592
+Flu like illness,0.00013886205904273428
+Matrifen 75micrograms/hour transdermal patches (Teva UK Ltd),0.0001387181393896166
+Asthma management plan given,0.0001386479493508323
+Epididymitis,0.00013842478791337354
+FEV1/FVC ratio after bronchodilator,0.00013839682293362497
+Leg swelling symptom,0.00013828940536459008
+Pathology,0.00013813608456680781
+Cellulitis of leg,0.00013807508734985574
+Carer health check offered,0.0001377260211444809
+Physical activity,0.0001376984324686813
+Trandolapril 2mg capsules,0.0001373671384824288
+"SenSura Mio ileostomy bag with filter, maxi 10421 Cut to ...",0.00013712725377293077
+Salbutamol 100micrograms/dose breath actuated inhaler CFC free,0.000137036732490616
+Metformin 750mg modified-release tablets,0.00013664322961847388
+Tensipine MR 20 tablets (Thornton & Ross Ltd),0.00013660968761658777
+Test request : Stool culture,0.00013657105908993403
+Blood pressure recorded by patient at home,0.00013635796121700796
+Inhaler technique observed,0.00013598550063673935
+Irbesartan 300mg tablets,0.00013595666032816003
+Mirtazapine 45mg orodispersible tablets,0.00013585021442565
+Partial thickness rotator cuff tear,0.00013559733077325476
+Injection of therapeutic substance into joint,0.0001354194662354107
+Cohort screening,0.00013534821200414696
+MSG:Referral for DXA scan of hip and spine,0.00013486045183656647
+TRUEyou testing strips (Nipro Diagnostics (UK) Ltd),0.0001343395991781434
+Chlorhexidine gluconate 0.2% mouthwash,0.00013430396263520192
+Non-diabetic hyperglycaemia,0.00013425613508670535
+Almotriptan 12.5mg tablets,0.00013421440989643872
+Cinnarizine 15mg tablets,0.000134047645150082
+Pizotifen 1.5mg tablets,0.00013382625768336627
+Propranolol 160mg modified-release capsules,0.00013371787533935622
+O/E - Left diabetic foot at moderate risk,0.00013365870733200995
+Blephasol lotion (Thea Pharmaceuticals Ltd),0.00013354357908677142
+Movicol oral powder 13.8g sachets lemon & lime (Norgine Pharmaceuticals Ltd),0.0001333593572195843
+Lumbar DXA scan result osteoporotic,0.0001333223413213782
+O/E - R.dorsalis pedis present,0.00013320123411842777
+Topiramate 25mg tablets,0.00013313132517552936
+O/E - general breast exam. NAD,0.00013304368611120358
+MSG:Keratosis,0.0001330356515312918
+Tizanidine 2mg tablets,0.00013291392281125118
+Ibuprofen 800mg modified-release tablets,0.00013286937712789492
+24 hr blood pressure monitoring,0.00013286199150342023
+Had a collapse,0.00013282183451063484
+Sterimar 31.8% isotonic nasal spray (Church & Dwight UK Ltd),0.0001327353307256835
+Blocked ear,0.00013273140357802682
+Systane Ultra eye drops (Alcon Laboratories (UK) Ltd),0.00013261054740150162
+Mechanical low back pain,0.00013234053681931737
+Health education - diabetes,0.00013212162046900535
+Zeroderm ointment (Thornton & Ross Ltd),0.00013186149475598438
+Trosyl 283mg/ml nail solution (Pfizer Ltd),0.00013179546725338454
+Levothyroxine sodium 50micrograms/5ml oral solution sugar...,0.00013172683991301406
+Emulsifying ointment,0.00013158998914160734
+Diabetic foot screen,0.00013152165366221808
+Lifestyle advice regarding exercise,0.00013139558557813418
+Isosorbide mononitrate 20mg tablets,0.00013096214374543218
+Hearing problem,0.00013076402207660106
+Follow-up diabetic assessment,0.0001306347334894802
+Procyclidine 5mg tablets,0.00013055770601036427
+Minor head injury,0.0001301923522304301
+Tinnitus,0.0001301725411949971
+Alcohol screen - AUDIT completed,0.00013016742015959645
+Pt advised re diabetic diet,0.00013005644991288264
+Medication discussed with pharmacist,0.00012961000152960346
+Acute non-ST segment elevation myocardial infarction,0.00012960598763821384
+EarCalm 2% spray (Forest Laboratories UK Ltd),0.000129574147620225
+Clinitas 0.4% eye drops 0.5ml unit dose (Altacor Ltd),0.0001295631077547983
+Monofilament foot sensation test,0.00012952651521413867
+Tizanidine 4mg tablets,0.00012948739095385313
+Lentigo,0.00012945923922069022
+Consent given to share patient data with specified 3rd party,0.00012943414741047225
+Pelican Release non-sting adhesive remover aerosol 130460...,0.00012901520804233343
+Co-amilofruse 5mg/40mg tablets,0.00012899474293906655
+Adipine XL 60mg tablets (Chiesi Ltd),0.00012884552672388317
+"Allergy, unspecified",0.00012880915021599678
+Macrogol compound oral powder sachets NPF sugar free,0.00012876204933540237
+Skinoren 20% cream (Bayer Plc),0.00012819524732020124
+Frozen shoulder,0.00012818113193368164
+Seroquel 25mg tablets (AstraZeneca UK Ltd),0.00012808973070420178
+History of headache,0.00012803415446722085
+Fracture of neck of femur,0.00012786986921459274
+Consent given for minor surgery procedure,0.00012786202309214068
+Enalapril 5mg tablets,0.00012775244004499067
+Dymista 137micrograms/dose / 50micrograms/dose nasal spra...,0.00012767109418703986
+Ramipril 5mg tablets,0.00012765751083772256
+Vitamin D deficiency,0.000127117620938334
+Diarrhoea symptoms,0.00012690562488230323
+NHS Health Check indicated,0.00012653486431877834
+Pregabalin 25mg capsules,0.00012645698543996907
+Seen by community falls team,0.00012617867393264505
+Fesoterodine 8mg modified-release tablets,0.00012603547942518622
+Cutimed Protect cream (BSN medical Ltd),0.00012595175179666544
+Climaval 1mg tablets (Novartis Pharmaceuticals UK Ltd),0.00012584708803445947
+Nitrofurantoin 50mg tablets,0.00012559689647781343
+Fultium-D3 800unit capsules (Internis Pharmaceuticals Ltd),0.00012554957924976152
+Capasal Therapeutic shampoo (Dermal Laboratories Ltd),0.0001254321191526665
+MSG:Referral to audiological scientist,0.00012542785962667418
+Patient on maximal tolerated antihypertensive therapy,0.00012541760509400933
+Simple eye ointment,0.0001254097406398338
+Paroxetine 30mg tablets,0.00012494663041382273
+Relvar Ellipta 184micrograms/dose / 22micrograms/dose dry...,0.0001245978965011829
+Rozex 0.75% cream (Galderma (UK) Ltd),0.00012459197685757843
+Depo-Medrone with Lidocaine suspension for injection 1ml vials (Pfizer Ltd),0.0001243739324017875
+Rizatriptan 10mg oral lyophilisates sugar free,0.00012434890137890886
+Peak exp. flow rate: PEFR/PFR,0.00012421809347134454
+Therapeutic epidural injection,0.00012410965319700103
+Epilepsy medication review,0.00012408206017097044
+Asthma causes daytime symptoms 1 to 2 times per week,0.00012395189988165099
+Basal cell carcinoma,0.00012383492473059667
+Patient on maximal tolerated lipid lowering therapy,0.00012373665360978665
+Symbicort 400/12 Turbohaler (AstraZeneca UK Ltd),0.0001237246334873061
+Health educn - back problems,0.00012357704699459117
+Timoptol-LA 0.25% ophthalmic gel-forming solution (Santen UK Ltd),0.00012355662160082247
+Cystitis,0.00012307162663386027
+Blood pressure monitoring,0.00012299897381138952
+C/O: a swelling,0.0001228363406122069
+Champix 1mg tablets (Pfizer Ltd),0.00012277163414141723
+Cozaar-Comp 50mg/12.5mg tablets (Merck Sharp & Dohme Ltd),0.00012259943249390366
+Advice given about weight management,0.0001225375041600776
+"Simpla Plus sterile leg bag 21572 500ml bag, 25cm tube (C...",0.00012252793547584085
+Chronic kidney disease monitoring,0.00012235335824135134
+Calf pain,0.00012215518843207077
+Memantine 10mg tablets,0.00012192920350311734
+Initial memory assessment declined,0.00012187103137650776
+THR - Other total prosthetic replacement of hip joint,0.0001217890519252682
+111 contact disposition,0.00012138910672739617
+Trazodone 100mg capsules,0.00012134808519829071
+District nurse visit,0.00012115936050875044
+Terbinafine 1% cream,0.00012105314558329814
+Hirudoid 0.3% cream (Genus Pharmaceuticals Ltd),0.00012094928076190798
+Diamicron 80mg tablets (Servier Laboratories Ltd),0.00012078800162967863
+[D]Groin pain,0.00012076089648879485
+Fenofibrate micronised 67mg capsules,0.00012001492747909009
+Capsulotomy of eye lens,0.00011971696525509321
+Depo-Medrone 80mg/2ml suspension for injection vials (Pfi...,0.0001194259083804069
+Ensure Plus milkshake style liquid banana (Abbott Laborat...,0.00011939410552561456
+History obtained from third party,0.00011934220586019786
+Flecainide 50mg tablets,0.00011932630741975147
+Predicted peak expiratory flow rate using EN 13826 standard,0.00011932254275395667
+OxyContin 20mg modified-release tablets (Napp Pharmaceuti...,0.00011930969490607823
+Dutasteride 500microgram capsules,0.00011926307871934562
+Injection therapeutic substance posterior segment of eye NEC,0.00011924982178729041
+Bimatoprost 300micrograms/ml eye drops,0.00011910557019575423
+Clindamycin 150mg capsules,0.00011907375591330663
+Seen in diabetic eye clinic,0.0001189981003267234
+Diethylamine salicylate 10% cream,0.00011883499897204017
+Codipar 15mg/500mg tablets (AMCo),0.00011848519809796608
+Clenil Modulite 100micrograms/dose inhaler (Chiesi Ltd),0.00011842333803541348
+Elocon 0.1% cream (Merck Sharp & Dohme Ltd),0.00011828500301245741
+Trospium chloride 20mg tablets,0.00011826998328629432
+"eMED3 (2010) new statement issued, may be fit for work",0.00011797646446233937
+[X]Assault,0.00011776188822879158
+Dermatitis NOS,0.00011753949001950724
+Amlodipine 5mg / Valsartan 80mg tablets,0.00011748045334023275
+Chaperone present,0.00011740878593280734
+Asthma never disturbs sleep,0.00011722544461866226
+Buccastem M 3mg tablets (Alliance Pharmaceuticals Ltd),0.00011705873401756911
+Chronic obstructive pulmonary disease monitoring,0.00011673057844272975
+Simpla S2 non-drainable night drainage bag 320902 2litre (Coloplast Ltd),0.00011672277104316477
+Seen in psychiatry clinic,0.00011665234204007986
+Chloromycetin Redidrops 0.5% (AMCo),0.00011654351416983076
+New medication commenced,0.00011641724666577994
+Referral to respiratory physician,0.00011606419369039289
+Other referral,0.00011588929672653508
+Betamethasone 0.1% / Neomycin 0.5% ear/eye/nose drops,0.00011552236013350857
+Incruse Ellipta 55micrograms/dose dry powder inhaler (Gla...,0.00011533217705458142
+Nicotine 21mg/24hours transdermal patches,0.00011528879470174964
+Urine dipstick leucocytes positive,0.00011527081384689452
+Acenocoumarol 1mg tablets,0.00011511546863697467
+Advice to patient - subject,0.00011508118130068683
+YAG laser capsulotomy of lens,0.00011504798718365834
+Refer to audiologist,0.0001148732333237326
+Transient ischaemic attack,0.00011475538642868886
+Wound observation,0.00011464295235795632
+Varenicline 500microgram tablets,0.00011463398380925539
+MigraMax oral powder sachets (Zentiva),0.00011448744297313126
+TRUEplus lancets 0.36mm/28gauge (Nipro Diagnostics (UK) Ltd),0.00011426086338211588
+Xalatan 50micrograms/ml eye drops (Pfizer Ltd),0.00011411040183924241
+Asthma causes daytime symptoms 1 to 2 times per month,0.00011406942046545059
+Erythromycin 250mg gastro-resistant capsules,0.0001140300229837871
+Ropinirole 8mg modified-release tablets,0.00011401664617885389
+Procoralan 7.5mg tablets (Servier Laboratories Ltd),0.00011398052416540283
+Hydrocortisone 0.1% cream,0.00011345282153331585
+Dementia care plan,0.00011338372382440513
+Current smoker annual review,0.00011297011783368195
+Atopic dermatitis/eczema,0.00011294099672062604
+Drug therapy,0.00011292498975037658
+Pyridoxine 50mg tablets,0.00011290798224006781
+Qvar 100 Autohaler (Teva UK Ltd),0.0001128531647460767
+Referral to stop-smoking clinic,0.00011265266603287943
+Mammography not attended,0.0001126182649646583
+Normal fluid intake,0.00011253271849788795
+Temgesic 200microgram sublingual tablets (RB Pharmaceuticals Ltd),0.00011243823609131417
+Etoricoxib 120mg tablets,0.00011241573061507812
+Adalat LA 60mg tablets (Bayer Plc),0.00011241047549731123
+Humulin I 100units/ml suspension for injection 3ml cartri...,0.00011231101433177638
+Obesity,0.00011224713174017896
+Restandol 40mg Testocaps (Merck Sharp & Dohme Ltd),0.0001119843020687267
+Co-beneldopa 50mg/200mg capsules,0.00011198180630806826
+Medication decreased,0.000111867677082438
+Eprosartan 600mg tablets,0.00011175269604335962
+Polyfax ointment (Teva UK Ltd),0.00011173988090397225
+Leg cramps,0.0001117254001213594
+Sitting diastolic blood pressure,0.00011155282608457294
+Rheumatoid arthritis of shoulder,0.00011139946755114233
+Myalgia unspecified,0.00011130531510946008
+CoAprovel 300mg/12.5mg tablets (Sanofi),0.00011124523635683452
+Rep.presc. treatment changed,0.00011123961204004435
+Paroxysmal supraventricular tachycardia,0.00011049809680990236
+Backache symptom,0.0001104781198234251
+Folic acid 400microgram tablets,0.00011039333177149703
+Zostavax vaccine powder and solvent for suspension for injection 0.65ml pre-filled syringes (sanofi pasteur MSD Ltd),0.00011031939023337789
+Epilim 200 gastro-resistant tablets (Sanofi),0.00011018151855519987
+Co-careldopa 25mg/100mg tablets,0.00011007843169714725
+MRC Breathlessness Scale: grade 1,0.00010998635688123901
+Enalapril 10mg tablets,0.00010974644636181288
+Private referral,0.00010957750959293042
+Clotrimazole 2% cream,0.0001095356324118377
+Sitting systolic blood pressure,0.00010950432893807506
+Influenza vaccination second telephone invitation,0.00010940062840591551
+Methotrexate 10mg tablets,0.00010925601200448122
+Discussion about procedure,0.00010914263704785157
+Nitrazepam 5mg tablets,0.00010896112669795337
+Cervical spondylosis,0.00010876076604189155
+Azathioprine 50mg tablets,0.00010870057487011
+Kolanticon gel (Peckforton Pharmaceuticals Ltd),0.00010845237145425348
+GSF supportive care stage 2 - increasing decline,0.00010844426282873442
+Symbicort 200/6 Turbohaler (AstraZeneca UK Ltd),0.00010833327709221936
+Levetiracetam 250mg tablets,0.00010823142006177536
+"MSG:Refer, diabetic liaison nurse",0.00010823039259468346
+Discharged from inpatient care,0.00010819184567908651
+Advised to contact surgery for test result,0.000108050370702757
+Betamethasone valerate 0.025% ointment,0.00010803910611731632
+Drugs and other substances-adverse effects in theraputic use,0.00010788022525756544
+Stilnoct 10mg tablets (Sanofi),0.00010779637868614658
+Raloxifene 60mg tablets,0.00010768362360079504
+Chlorpromazine 100mg tablets,0.00010767112445806539
+Omeprazole 10mg gastro-resistant capsules,0.00010758492359524193
+Chlorphenamine 4mg tablets,0.00010748702765359345
+Vertigo,0.00010710542855622103
+Motifene 75mg modified-release capsules (Daiichi Sankyo UK Ltd),0.0001070984560528763
+Flurbiprofen 50mg tablets,0.00010702935892065807
+Waist measurement declined,0.00010687383111174677
+CAT scan - brain,0.00010686073569647301
+CHD monitoring,0.00010681119500356289
+Referral for spirometry,0.0001067806896292475
+Peak expiratory flow rate measured using EN 13826 device,0.00010660840663069668
+Bronchodilators used a maximum of once daily,0.00010655001450874445
+Dansac GX-tra Seals 725-30/30 30mm (Dansac Ltd),0.00010642206322735223
+Influenza vaccination invitation 1st SMS text message sent,0.00010641769754702143
+Modrasone 0.05% cream (Teva UK Ltd),0.00010640467732397644
+MucoClear 6% inhalation solution 4ml ampoules (Pari Medic...,0.00010638983435565637
+Vardenafil 20mg tablets,0.00010636775278570846
+Fluocinolone acetonide 0.025% gel,0.00010632875746994875
+Mirabegron 25mg modified-release tablets,0.0001061298841246203
+Presence of chaperone,0.00010608558841252115
+Tolterodine 2mg tablets,0.00010590263208961604
+Glipizide 5mg tablets,0.00010568207788732033
+Alphosyl 2 in 1 shampoo (Omega Pharma Ltd),0.00010556206893764787
+Insulatard InnoLet 100units/ml suspension for injection 3...,0.00010546475443599322
+Betaxolol 0.25% eye drops,0.00010535566691898153
+Toe pain,0.00010523566722047423
+MSG:Referral to colorectal surgeon,0.00010491181417283
+Sustanon 250mg/1ml solution for injection ampoules (Aspen Pharma Trading Ltd),0.00010488196667644018
+LimbO limb protector adult half leg normal build standard...,0.00010473350928756002
+Other otitis externa,0.00010471394737807159
+Refer to physiotherapist,0.00010465899055261025
+Provision of NHS Scotland Medicine Sick Day Rules card,0.00010427951884298927
+O/E - vibration sense normal,0.00010427041503112555
+O/E - Right diabetic foot at high risk,0.00010420522505450885
+Hydroxyzine 10mg tablets,0.00010401993477672222
+Recurrence of problem,0.0001039560090411208
+C/O erectile dysfunction,0.00010395526234989156
+Canesten 1% cream (Bayer Plc),0.00010381190784648877
+Risperidone 500microgram orodispersible tablets sugar free,0.0001037577220483583
+Eplerenone 25mg tablets,0.00010373191407660526
+Health ed. - alcohol,0.00010368933714578853
+E45 Itch Relief cream (Forum Health Products Ltd),0.00010364028388246337
+Prednisolone 2.5mg tablets,0.00010351446706843135
+Patient given advice,0.0001032900361828771
+Benzydamine 3% cream,0.00010328432036060764
+Unstable angina,0.00010322064741100552
+Nitrofurantoin 50mg capsules,0.00010321434814406611
+Haematuria,0.00010297848192879485
+Co-codamol 15mg/500mg capsules,0.00010287410232967854
+MRI scan abnormal,0.00010231604709306904
+Referral to liver unit,0.00010224397960563377
+Advice to GP to change patient medication,0.00010217382950116152
+Referral to improving access to psychological therapies prog,0.00010214889594222494
+Influenza vaccination invitation short message service text message sent,0.00010207402255487035
+Glyceryl trinitrate 300microgram sublingual tablets,0.00010207270529337066
+Secondary malignant neoplasm of lung,0.00010195039019383616
+Minor surgery done + claimable,0.00010133883514434563
+Bill/fee paid,0.00010120244521195018
+Anbesol Adult Strength gel (Alliance Pharmaceuticals Ltd),0.00010100672282268987
+Psychological counselling,0.00010093387356875908
+Oxycodone 5mg modified-release tablets,0.00010068951752428295
+Chaperone refused,0.00010043709835187261
+Asthma self-management plan agreed,0.0001002351564929296
+Olmesartan medoxomil 20mg tablets,0.00010014625491477115
+Ketoconazole 2% shampoo,0.00010014483730266237
+Prostate specific antigen monitoring first letter,9.995147730074575e-05
+Brava elastic tape 12070 (Coloplast Ltd),9.988882096338759e-05
+Epilim 500 gastro-resistant tablets (Sanofi),9.988697860867353e-05
+Patient advised to bring sample to surgery,9.98104673127582e-05
+Hand joint pain,9.960716104960194e-05
+Closed reduction of fracture of wrist,9.960435924367533e-05
+Uvistat sun cream SPF 50 (Boston Healthcare Ltd),9.935660626571622e-05
+Lisinopril 10mg / Hydrochlorothiazide 12.5mg tablets,9.93352615765167e-05
+Advice given about breast screening programme,9.90968475855821e-05
+Apixaban 5mg tablets,9.897085012604193e-05
+Dislocation of radius - distal,9.885225408866263e-05
+Humulin I KwikPen 100units/ml suspension for injection 3ml pre-filled pen (Eli Lilly and Company Ltd),9.879642382140544e-05
+Falls risk assessment tool,9.867241394173874e-05
+Diabetic dietary review,9.862068836182432e-05
+Calcichew D3 Forte chewable tablets (Forum Health Product...,9.84535136691962e-05
+Echocardiogram,9.811673735040086e-05
+Out of hours patient call detail received,9.805849166051008e-05
+Peak flow rate before bronchodilation,9.785708713417453e-05
+Referred for hepatology,9.782263454219521e-05
+Moxonidine 200microgram tablets,9.771689478242567e-05
+Except rheumatoid arthritis quality indicator: pt unsuitable,9.755664713264523e-05
+Acute gingivitis,9.737515284463775e-05
+Chronic kidney disease stage 3B without proteinuria,9.734273660478142e-05
+Diabetes structured education programme declined,9.72147119271079e-05
+Magnetic resonance imaging of brain normal,9.7119264893995e-05
+Chronic rhinitis,9.696155115390796e-05
+Xailin Night eye ointment preservative free (Nicox Pharma),9.686923114789727e-05
+[SO]Buttock NEC,9.684511921960782e-05
+Sirdupla 25micrograms/dose / 125micrograms/dose inhaler (...,9.668523158997711e-05
+Advice to GP to stop patient medication,9.661479496250519e-05
+Pt advised re wt reducing diet,9.655644857106411e-05
+Dipyridamole 200mg modified-release capsules,9.655172641646588e-05
+MRI of cervical spine,9.612817860191138e-05
+Phenobarbital 60mg tablets,9.605915817154168e-05
+Atropine 1% eye drops,9.602557487290343e-05
+Suspected condition,9.599788445138334e-05
+Preferred method of contact: no preference,9.59858043178125e-05
+Ganfort 0.3mg/ml / 5mg/ml eye drops 0.4ml unit dose (Alle...,9.588729072140486e-05
+Plantar fasciitis,9.584578117215389e-05
+Prescription not collected,9.580507920538969e-05
+Zolmitriptan 5mg orodispersible tablets sugar free,9.577930632987342e-05
+Asthma sometimes restricts exercise,9.559991920730836e-05
+Gliclazide 30mg modified-release tablets,9.553910634906025e-05
+Trospium chloride 60mg modified-release capsules,9.541473972048893e-05
+Medication monitoring,9.504861415393566e-05
+Avamys 27.5micrograms/dose nasal spray (GlaxoSmithKline UK Ltd),9.500687101357331e-05
+Metformin 1g / Sitagliptin 50mg tablets,9.48131619038586e-05
+Clarithromycin 250mg tablets,9.464378292478755e-05
+MSG:General surgical referral,9.460394222639543e-05
+Lichen sclerosus et atrophicus,9.446954394665624e-05
+Meniere's disease,9.44040764985159e-05
+Referral for smoking cessation service offered,9.433688305994736e-05
+Arthralgia of multiple joints,9.423974252192585e-05
+Bruising symptom,9.41881834154137e-05
+Skin tag,9.401805030215438e-05
+MSG:Refer to physiotherapist,9.395978198584118e-05
+Capsaicin 0.075% cream,9.381552567499416e-05
+Dabigatran etexilate 150mg capsules,9.372717794412362e-05
+Chronic kidney disease monitoring second letter,9.361037626112167e-05
+MSG:Referral for minor surgery,9.352670396555103e-05
+Tildiem LA 300 capsules (Sanofi),9.344726496516163e-05
+Primary open reduction fracture bone & intramedull fixation,9.342881435440837e-05
+Exercise tolerance test,9.33027001916991e-05
+Medication given,9.306975671659192e-05
+MST Continus 15mg tablets (Napp Pharmaceuticals Ltd),9.286979974208843e-05
+Diabetic on diet only,9.286324861737424e-05
+Theophylline 300mg modified-release tablets,9.285458025560828e-05
+Diffuse idiopathic skeletal hyperostosis,9.262957746487257e-05
+BuTrans 5micrograms/hour transdermal patches (Napp Pharma...,9.261773588067576e-05
+Diagnostic colonoscopy,9.229373654814275e-05
+Cialis 20mg tablets (Eli Lilly and Company Ltd),9.223606331048415e-05
+Estraderm MX 25 patches (Novartis Pharmaceuticals UK Ltd),9.221604042994563e-05
+Seen by chiropracter,9.213229051623508e-05
+O/E - Vibration sense of right foot normal,9.203329756840082e-05
+NovoRapid Penfill 100units/ml solution for injection 3ml ...,9.195946921607499e-05
+Excepted from diabetes quality indicators: Informed dissent,9.191304481142082e-05
+Secondary malignant neoplasm of liver,9.158694358035495e-05
+O/E - cataract present,9.152798268930765e-05
+Diagnostic fibreoptic gastroscopy,9.135905149119682e-05
+Itraconazole 100mg capsules,9.132012876096784e-05
+Aripiprazole 5mg tablets,9.130609851970734e-05
+Apixaban 2.5mg tablets,9.126846527200091e-05
+MSG:Referral to gynaecology special interest GP,9.125994887116888e-05
+Multiclix lancets 0.3mm/30gauge (Roche Diagnostics Ltd),9.12526080718773e-05
+Urgent referral,9.123681601173497e-05
+Mole of skin,9.104977990142402e-05
+Tadalafil 10mg tablets,9.101204535410104e-05
+Amlostin 5mg tablets (Discovery Pharmaceuticals),9.099401961638975e-05
+Ropinirole 250microgram tablets,9.098587471264257e-05
+Counselled by a doctor,9.096512392410467e-05
+Standard chest X-ray normal,9.095196459902078e-05
+Replacement of aortic valve,9.088545454751849e-05
+Fluticasone propionate 500micrograms/dose / Salmeterol 50...,9.077214750814845e-05
+Ibuprofen 400mg capsules,9.053751371810143e-05
+Refer to counsellor,9.052084750919305e-05
+Nasonex 50micrograms/dose nasal spray (Merck Sharp & Dohme Ltd),9.046940553566403e-05
+Oilatum shower gel fragrance free (GlaxoSmithKline Consum...,9.036256019605906e-05
+Skin and subcutaneous tissue diseases,9.030811149044803e-05
+Cholurso 250mg tablets (HFA Healthcare Products Ltd),9.027864827826412e-05
+Arthralgia of acromioclavicular joint,9.02780298249293e-05
+Acute right otitis media,9.022849582392481e-05
+English - ethnic category 2001 census,9.020413421190211e-05
+Pityriasis versicolor,9.007076031165024e-05
+Lantus 100units/ml solution for injection 3ml pre-filled ...,9.003474878920878e-05
+Alogliptin 12.5mg tablets,8.98555861251207e-05
+Using inhaled steroids - normal dose,8.977963819816585e-05
+Sharpsafe disposal unit Yellow (Frontier Medical Products Ltd),8.968977969784554e-05
+MSG:Osteoporosis,8.968219345157404e-05
+Oilatum cream (GlaxoSmithKline Consumer Healthcare),8.956733274016754e-05
+O/E - Vibration sense of left foot normal,8.954565072905857e-05
+US scan of breast,8.95367261496541e-05
+Right Foot Pulse,8.952824851864012e-05
+Senna 15mg tablets,8.951901340100366e-05
+Tolterodine 1mg tablets,8.944013186170158e-05
+Prescription of respiratory disease rescue medication,8.933061862058958e-05
+Mometasone 0.1% ointment,8.929664906394668e-05
+Glucose intolerance,8.91844586149455e-05
+Nicorandil 10mg tablets,8.911536812359553e-05
+Superficial vessel phlebitis and/or thrombophlebitis of leg,8.910157309298245e-05
+Trimethoprim 100mg tablets,8.847119237953827e-05
+"Mitochondrial myopathy, not elsewhere classified",8.823632512137588e-05
+TKR - Other total prosthetic replacement of knee joint,8.821036821287405e-05
+Weakness symptoms,8.806902089185002e-05
+Vildagliptin 50mg / Metformin 1g tablets,8.800132080369208e-05
+Zacin 0.025% cream (Teva UK Ltd),8.788478719999653e-05
+Humulin I KwikPen 100units/ml suspension for injection 3m...,8.776282594674643e-05
+MSG:Refer to hospital OPD,8.774697091768833e-05
+Anoro Ellipta 55micrograms/dose / 22micrograms/dose dry p...,8.772207980692993e-05
+Clinical chronic obstructive pulmonary disease questionnaire,8.769016162894639e-05
+Pregabalin 300mg capsules,8.756061795025266e-05
+Psoriasis unspecified,8.746867514485204e-05
+Letter sent to solicitor,8.746734214940606e-05
+Asthma causes daytime symptoms most days,8.746240611799103e-05
+Suspected diabetes mellitus,8.743189471430149e-05
+At risk of falls,8.711525357182185e-05
+Budesonide 200micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler,8.70794837481157e-05
+Asthma control test,8.706191377570251e-05
+Simvador 10mg tablets (Discovery Pharmaceuticals),8.69425714394393e-05
+Moxonidine 400microgram tablets,8.692835985445886e-05
+Solifenacin 10mg tablets,8.691176979634899e-05
+Lamotrigine 25mg tablets,8.677163239363555e-05
+Resource ThickenUp Clear powder (Nestle Health Science),8.672311972350048e-05
+MSG:Referral to breast surgeon,8.66667596809813e-05
+Dicycloverine 20mg tablets,8.66405275912089e-05
+Does not complain of erectile dysfunction,8.657562824382776e-05
+Boil of gluteal region,8.644477252168867e-05
+Saxagliptin 2.5mg tablets,8.633836897618213e-05
+[D]Chest mass,8.633271673772596e-05
+Oilatum Plus bath additive (GlaxoSmithKline Consumer Heal...,8.623458905832257e-05
+Tramadol 200mg modified-release tablets,8.613727599850437e-05
+Fybogel Mebeverine effervescent granules sachets orange (...,8.609446402131954e-05
+Constipation NOS,8.60175038093036e-05
+Ingrowing great toe nail,8.599855390733777e-05
+10g monofilament sensation L foot normal,8.589584368290299e-05
+ECG monitoring,8.564923419319409e-05
+Levemir FlexPen 100units/ml solution for injection 3ml pr...,8.561480140057491e-05
+Hypromellose 0.3% eye drops 0.5ml unit dose preservative ...,8.551127863253317e-05
+Constipation,8.544528894657162e-05
+Tegretol Prolonged Release 400mg tablets (Novartis Pharmaceuticals UK Ltd),8.543061239171106e-05
+Infected insect bite,8.527860205381004e-05
+Thiamine 50mg tablets,8.50295391042309e-05
+Promazine 50mg/5ml oral solution,8.468795429520733e-05
+Ex-cigarette smoker,8.456900879964078e-05
+Fracture at wrist and hand level,8.448027417798006e-05
+Plain X-ray shoulder joint,8.446453713948675e-05
+Aqueous cream,8.43616095777246e-05
+Hypromellose 0.3% eye drops 0.5ml unit dose preservative free,8.41668599434459e-05
+Isotard 40XL tablets (Kyowa Kirin Ltd),8.411625146276083e-05
+Frailty,8.408513544690055e-05
+Enjoys moderate exercise,8.408421960023634e-05
+Diclofenac sodium 75mg gastro-resistant / Misoprostol 200...,8.406207522239789e-05
+Nortriptyline 10mg tablets,8.395489001385155e-05
+Plain x-ray of joint,8.392280049049197e-05
+Syringe ear to remove wax,8.391831688096566e-05
+Losartan 100mg / Hydrochlorothiazide 12.5mg tablets,8.381579376023066e-05
+GP out of hours service administration,8.372536480871304e-05
+Influenza vaccination invitation third letter sent,8.370270902901765e-05
+Alogliptin 25mg tablets,8.357614494927348e-05
+Cervical smear refused,8.354277779506334e-05
+Musculoskeletal examination,8.344066742599201e-05
+Test strip urinalysis,8.336761176280897e-05
+Fluconazole 150mg capsules,8.336058162080203e-05
+Gynaecology referral,8.322734714375793e-05
+Diagnostic procedures,8.319229106003504e-05
+Cervical spine X-ray,8.309331770878591e-05
+Fusidic acid 2% cream,8.29956634999884e-05
+Juvela gluten free fresh white loaf sliced (Hero UK Ltd),8.282418898197337e-05
+Uniroid HC ointment (Chemidex Pharma Ltd),8.282316819165698e-05
+Tildiem LA 200 capsules (Sanofi),8.280853682812375e-05
+Atarax 25mg tablets (Alliance Pharmaceuticals Ltd),8.265110528574375e-05
+Quetiapine 200mg tablets,8.262172872985399e-05
+Left Foot Pulse,8.259818125639697e-05
+Pramipexole 180microgram tablets,8.257891122299538e-05
+Fluticasone propionate 500micrograms/dose dry powder inhaler,8.248091855566813e-05
+Ultrasound scan of foot,8.2311049362515e-05
+Maxidex 0.1% eye drops (Alcon Laboratories (UK) Ltd),8.227329915045826e-05
+Clindamycin 75mg capsules,8.221657645483994e-05
+Erythromycin ethyl succinate 250mg/5ml oral suspension,8.216920608149465e-05
+Immunological referral,8.21601452089334e-05
+Palliative medicine,8.191186155827695e-05
+Monomil XL 60mg tablets (Teva UK Ltd),8.188182912081763e-05
+Benign neoplasm soft tissue of cervical spine,8.185980045633925e-05
+Carvedilol 3.125mg tablets,8.180722218946463e-05
+Phenytoin sodium 50mg capsules (Flynn Pharma Ltd),8.166975067195982e-05
+Issue of chronic obstructive pulmonary disease rescue pack,8.139905027000733e-05
+Introduction of supporting pessary into vagina,8.138619470895252e-05
+O/E - dry skin,8.131693126130995e-05
+C/O - loin pain,8.115389296470923e-05
+ZAFIRLUKAST 20mg tablets,8.095820432817903e-05
+Number of COPD exacerbations in past year,8.090594045448206e-05
+Influenza vaccination,8.086085671777255e-05
+Sebco ointment (Derma UK Ltd),8.083675867618645e-05
+Diazepam 10mg tablets,8.079406915479955e-05
+Budesonide 400micrograms/dose / Formoterol 12micrograms/d...,8.074318465258295e-05
+FEV1/FVC ratio,8.072468325737466e-05
+Felodipine 10mg modified-release tablets,8.070415197065021e-05
+Timodine cream (Alliance Pharmaceuticals Ltd),8.05051264228445e-05
+MSG:Acquired renal cystic disease,8.04534399170078e-05
+Cutaneous horn,8.043825285765569e-05
+Imuvac vaccine suspension for injection 0.5ml pre-filled syringes (Mylan Ltd),8.031130976374913e-05
+Possible coronary artery disease/heart failure but seems unlikely,8.030991627773433e-05
+Inpatient discharge summary received,8.023523846835137e-05
+Rhinitis - acute,8.022468855858139e-05
+Drug Rx stopped-medical advice,8.00621227842661e-05
+Herpes zoster vaccination contraindicated,7.994380764532745e-05
+Prescription sent to patient,7.985202086728854e-05
+Hydromol Intensive 10% cream (Alliance Pharmaceuticals Ltd),7.972834021350879e-05
+Dry cough,7.97038673518202e-05
+OxyContin 5mg modified-release tablets (Napp Pharmaceutic...,7.963148766869827e-05
+Spirometry screening invitation,7.96308571973069e-05
+Neditol XL 4mg capsules (Aspire Pharma Ltd),7.955399241935771e-05
+Allergic reaction,7.939006953810525e-05
+Fast track referral for suspected lower GI cancer,7.934417462393961e-05
+Buprenorphine 5micrograms/hour transdermal patches,7.933130307998361e-05
+Lipitor 40mg tablets (Pfizer Ltd),7.929282912126566e-05
+Telmisartan 20mg tablets,7.912305413711194e-05
+Pathological myopia,7.901742580135474e-05
+Bacterial conjunctivitis,7.890949139744024e-05
+[V]Issue of repeat prescription for medication,7.88672429530837e-05
+Propranolol 80mg tablets,7.883076476742883e-05
+Pneumonia or influenza NOS,7.87335080686597e-05
+Pregabalin 200mg capsules,7.867058979536344e-05
+Asthma control step 2,7.86627077616225e-05
+Priority cancer referral,7.866244026096224e-05
+Betamethasone valerate 0.1% scalp application,7.865982025619818e-05
+Venlalic XL 75mg tablets (DB Ashbourne Ltd),7.83867611482643e-05
+Vildagliptin 50mg / Metformin 850mg tablets,7.837137239455687e-05
+Prov of info about abdo aortic aneurysm screening programme,7.835960652658372e-05
+Pneumococcal vaccination invitation letter sent,7.794941925162098e-05
+Gaviscon Double Action Liquid peppermint (Reckitt Benckis...,7.79405964978573e-05
+Pentoxifylline 400mg modified-release tablets,7.78616994666945e-05
+Consent given for herpes zoster vaccination,7.775706095374686e-05
+Referral to NHS stop smoking service,7.774313695211059e-05
+Plain X-ray thoracic spine,7.771595081982283e-05
+NovoRapid FlexPen 100units/ml solution for injection 3ml ...,7.768607729894094e-05
+Aortic aneurysm screening normal,7.756549762417377e-05
+Saphenous vein graft replacement of four+ coronary arteries,7.750781820814371e-05
+Clenil Modulite 200micrograms/dose inhaler (Chiesi Ltd),7.733704368999102e-05
+O/E - visual acuity R-eye =6/5,7.718117417558001e-05
+Uniphyllin Continus 400mg tablets (Napp Pharmaceuticals Ltd),7.71806480785184e-05
+Salamol 100micrograms/dose Easi-Breathe inhaler (Teva UK Ltd),7.71028348361172e-05
+Diclomax SR 75mg capsules (Galen Ltd),7.697515494459843e-05
+Viazem XL 360mg capsules (Thornton & Ross Ltd),7.657175428855018e-05
+Radiology requested,7.642700398729303e-05
+Quinapril 20mg tablets,7.625575406785801e-05
+Estriol 0.01% cream with applicator,7.610062879235727e-05
+Neck sprain,7.605601712299961e-05
+Gastritis unspecified,7.600645952490836e-05
+Seen by optometrist,7.598271463617912e-05
+Febuxostat 80mg tablets,7.564857441500569e-05
+Dermacool 1% cream (Pern Consumer Products Ltd),7.564064909976207e-05
+Verapamil 120mg modified-release tablets,7.563921749528522e-05
+Acute bronchitis,7.561602670351196e-05
+ECG: atrial fibrillation,7.55796012887035e-05
+Chronic disease - general NOS,7.556418363165968e-05
+Betamethasone 0.1% foam,7.54827028296132e-05
+Excepted from diabetes qual indicators: Patient unsuitable,7.544207146441192e-05
+Acarbose 50mg tablets,7.52486495525821e-05
+Anusol cream (Church & Dwight UK Ltd),7.524121001748529e-05
+Neutrogena T/Gel shampoo for greasy hair (Johnson & Johnson Ltd),7.523003733242716e-05
+Chalazion (meibomian cyst),7.512945587515562e-05
+Low mood,7.51063599546275e-05
+Primary mesh repair of inguinal hernia,7.492908831488814e-05
+Cancer information offered,7.489175075560235e-05
+Alcohol Use Disorders Identification Test declined,7.48172001808465e-05
+Calcipotriol 0.005% / Betamethasone dipropionate 0.05% ointment,7.478716837452481e-05
+Daktarin 2% cream (Janssen-Cilag Ltd),7.473517142118653e-05
+Admin reason for encounter,7.465607851025106e-05
+White coat hypertension,7.461475937761137e-05
+Venlalic XL 225mg tablets (DB Ashbourne Ltd),7.461391735454325e-05
+Palpitations,7.460013672491226e-05
+Proctosedyl suppositories (Sanofi),7.458298334792851e-05
+Seen by breast surgeon,7.453566884220314e-05
+[D]Vertigo NOS,7.453521004599934e-05
+Candidal intertrigo,7.451690439647194e-05
+Movelat cream (Genus Pharmaceuticals Ltd),7.441332638418832e-05
+Abdominal aortic aneurysm screening declined,7.437062238471383e-05
+Salmeterol 50micrograms/dose dry powder inhaler,7.431221266148388e-05
+Chlordiazepoxide 5mg capsules,7.409774683506674e-05
+Patient advised re low cholesterol diet,7.40292746810783e-05
+Optive 0.5% eye drops (Allergan Ltd),7.399186574648922e-05
+Athlete's foot,7.371485844799594e-05
+Advised to attend for retinal screening,7.365610026482555e-05
+Venlalic XL 75mg tablets (Ethypharm UK Ltd),7.365066758176502e-05
+Allevyn Adhesive dressing 10cm x 10cm square (Smith & Nep...,7.364892952345718e-05
+Appetite loss - anorexia,7.362977065796206e-05
+Venesection,7.35605587532769e-05
+Odaban 20% spray (Bracey's Pharmaceuticals Ltd),7.349847563200776e-05
+FP/MS - minor surgery claim,7.346360597241322e-05
+Diabetes monitoring 2nd letter,7.341470877774716e-05
+Referral to optometrist,7.312580798001216e-05
+Clarithromycin 250mg/5ml oral suspension,7.29956081623476e-05
+Diabetic retinopathy screening refused,7.297116599353529e-05
+Xyloproct 5%/0.275% ointment (Aspen Pharma Trading Ltd),7.294288664895216e-05
+Flexitol Heel Balm (Thornton & Ross Ltd),7.284577954507852e-05
+[D] Urgency of micturition,7.281059286186812e-05
+Venous ulcer of leg,7.278138015473458e-05
+Morphine sulfate 10mg/5ml oral solution,7.274811815104152e-05
+Insertion of ring pessary into vagina,7.27318703530545e-05
+Procedure declined,7.255634332137197e-05
+Frequency of micturition,7.254869027359033e-05
+Ex-smoker - amount unknown,7.252499721835294e-05
+Depakote 500mg gastro-resistant tablets (Sanofi),7.243419343952013e-05
+Dansac EasiSpray adhesive remover 083-01 (Dansac Ltd),7.235827029558445e-05
+Standing systolic blood pressure,7.229310744016608e-05
+Productive cough -green sputum,7.222542213832173e-05
+Vancomycin 125mg capsules,7.22100999071353e-05
+Azithromycin 500mg tablets,7.218337129040186e-05
+Care plan,7.217354003779488e-05
+Flare of rheumatoid arthritis,7.204222820596999e-05
+Change of vaginal pessary,7.199914253873639e-05
+Fluticasone 50micrograms/dose / Salmeterol 25micrograms/d...,7.193952762499813e-05
+Rosuvastatin 20mg tablets,7.18562697710687e-05
+Miconazole 2% powder,7.183944196366776e-05
+O/E - painful ear,7.175381128231401e-05
+Betamethasone valerate 0.025% cream,7.171815458631638e-05
+Co-amilofruse 2.5mg/20mg tablets,7.169242788331159e-05
+Zolmitriptan 5mg/0.1ml nasal spray unit dose,7.134922900190007e-05
+JBS cardiovascular disease risk 10-20% over next 10 years,7.134022055642896e-05
+Diabetes care plan agreed,7.128295090801056e-05
+,7.123167907095314e-05
+Cardicor 1.25mg tablets (Merck Serono Ltd),7.121203040462635e-05
+Dosulepin 75mg tablets,7.120842004508499e-05
+Seen in other clinic,7.114148830468025e-05
+Sprain wrist ligament,7.090757982551616e-05
+Neoclarityn 5mg tablets (Merck Sharp & Dohme Ltd),7.08119204268744e-05
+Gastrointestinal haemorrhage,7.075632887761993e-05
+Tremor symptom,7.074635811927881e-05
+Telmisartan 80mg / Hydrochlorothiazide 12.5mg tablets,7.057594171359288e-05
+Salofalk 1.5g gastro-resistant modified-release granules ...,7.049870622037152e-05
+CKD with GFR category G3a & albuminuria category A2,7.047695862189052e-05
+[D]Epistaxis,7.046993285676053e-05
+Chronic disease monitoring telephone invite,7.044703558437053e-05
+Co-beneldopa 12.5mg/50mg capsules,7.04302795418432e-05
+Eucerin Intensive 10% cream (Beiersdorf UK Ltd),7.039574082602961e-05
+Phacoemulsification lens insertion prosthetic replacement,7.034970804159203e-05
+Swollen hand,7.034555882442039e-05
+Pityriasis capitis - dandruff,7.029038397430123e-05
+Prescription collected by family member,7.028855890644748e-05
+Sodium clodronate 800mg tablets,7.026312824019817e-05
+Third party encounter,7.021322260219967e-05
+Acute conjunctivitis,7.00730636424848e-05
+Medication review done by pharmacy technician,7.002377172206111e-05
+Splenectomy NEC,7.000422389990478e-05
+Viagra 100mg tablets (Pfizer Ltd),6.999970577008718e-05
+Choroidal neovascular membrane,6.973033461905527e-05
+Colecalciferol 400unit / Calcium carbonate 1.5g chewable ...,6.972757602681942e-05
+Computer record NOS,6.972518887077754e-05
+Atrial fibrillation monitoring first letter,6.965941451596001e-05
+Lipid disorder monitoring,6.965876921507085e-05
+GPCOG - general practitioner assessment of cognition,6.961187085288687e-05
+Peppermint oil 0.2ml gastro-resistant modified-release ca...,6.960703802829205e-05
+Exenatide 5micrograms/0.02ml solution for injection 1.2ml pre-filled disposable devices,6.944257432285699e-05
+Ultrasound treatment to shoulder,6.932724487504461e-05
+"BD Safe-Clip needle clipping / chopping device (Becton, D...",6.930169398181812e-05
+O/E - poor venous access,6.929172487112314e-05
+Asthma treatment compliance satisfactory,6.918072458098079e-05
+Lower urinary tract symptoms,6.910405608093874e-05
+Cavilon No Sting barrier film foam 3ml applicator 3345P (...,6.898744373418238e-05
+Balneum Plus cream (Almirall Ltd),6.89321326778855e-05
+Stalevo 100mg/25mg/200mg tablets (Orion Pharma (UK) Ltd),6.886523624268778e-05
+Etoricoxib 90mg tablets,6.87884244152713e-05
+Seretide 100 Accuhaler (GlaxoSmithKline UK Ltd),6.875377277179599e-05
+Family history,6.86685834763966e-05
+Nuvelle Continuous tablets (Bayer Plc),6.865622110423639e-05
+Wet senile macular degeneration,6.858211289045072e-05
+Health ed. - exercise,6.850379312798575e-05
+Monomax XL 60mg tablets (Chiesi Ltd),6.844679555828112e-05
+Hydrocortisone acetate 1% / Fusidic acid 2% cream,6.84255700011189e-05
+Spirometry,6.834654563200694e-05
+24 Hour ECG,6.824564081458749e-05
+10g monofilament sensation present,6.800371315152627e-05
+O/E - left dorsalis pedis normal,6.799293684263606e-05
+Offer of statin therapy,6.782004357494506e-05
+Eprosartan 300mg tablets,6.778521432964763e-05
+OxyNorm 10mg capsules (Napp Pharmaceuticals Ltd),6.775495089159146e-05
+Acute cholecystitis,6.772709635596682e-05
+Smoking cessation programme declined,6.77190673535183e-05
+Diabetic 6 month review,6.764572860592672e-05
+Health education - asthma,6.762667380423592e-05
+Shingles vaccination invitation second letter,6.75281475305781e-05
+Mezavant XL 1200mg tablets (Shire Pharmaceuticals Ltd),6.744461269008413e-05
+Referral to weight management service declined,6.739805867872389e-05
+Seretide 50 Evohaler (GlaxoSmithKline UK Ltd),6.739328335421837e-05
+Erythromycin stearate 500mg tablets,6.739042516400713e-05
+Cerumol ear drops (Thornton & Ross Ltd),6.737108982788259e-05
+Isosorbide mononitrate 60mg modified-release capsules,6.736566558415526e-05
+Sylk vaginal moisturiser (Sylk Ltd),6.735329992145658e-05
+"BD Micro-Fine + lancets 0.3mm/30gauge (Becton, Dickinson ...",6.728497157888484e-05
+"Osteoporosis, unspecified",6.727277817375075e-05
+Health ed. - cervical cytology,6.723474840261833e-05
+Pregabalin 225mg capsules,6.716934415914436e-05
+Light drinker - 1-2u/day,6.707947694799088e-05
+Trazodone 150mg tablets,6.70753538618703e-05
+Neurology referral,6.699296265801946e-05
+Diabetes type 2 review,6.696707838106055e-05
+Tegretol 100mg tablets (Novartis Pharmaceuticals UK Ltd),6.692164754066279e-05
+Patient advised to rest,6.69108352219621e-05
+Cancer screening leaflet given,6.690662619382466e-05
+Standing diastolic blood pressure,6.683276314586261e-05
+ECG sinus rhythm,6.675281861286383e-05
+Minor surgery done - excision,6.663590987847556e-05
+Lifestyle advice regarding alcohol,6.662321658731442e-05
+Aerobic exercise 2 times/week,6.657117832408336e-05
+Breathless - moderate exertion,6.654930333467071e-05
+Theophylline 250mg modified-release capsules,6.635485722360487e-05
+Securon SR 240mg tablets (Abbott Laboratories Ltd),6.632847447897151e-05
+"Colecalciferol 1,000unit capsules",6.626749651468112e-05
+Stroke / transient ischaemic attack referral,6.625710212422337e-05
+Estradiol 0.06% gel (750microgram per actuation),6.623027402534152e-05
+Carbamazepine 200mg tablets,6.622676313624219e-05
+Levetiracetam 500mg tablets,6.604231885970183e-05
+Right inguinal hernia,6.600847323823045e-05
+Diabetes monitoring admin.,6.596088097964763e-05
+Co-amilozide 5mg/50mg tablets,6.591973388429634e-05
+Failed attempted procedure,6.591727014495423e-05
+Lamotrigine 100mg tablets,6.590164514831263e-05
+Forceval capsules (Alliance Pharmaceuticals Ltd),6.588377437926678e-05
+Primary prevention of ischaemic heart disease,6.583251672271777e-05
+Ivabradine 5mg tablets,6.574117879704757e-05
+Framingham 1991 cardiovascular disease 10 year risk score,6.572684743712552e-05
+Warfarin indicated,6.564742646226698e-05
+Risedronate sodium 35mg tablets,6.564084463334561e-05
+Fusion of joint NEC,6.548393863137485e-05
+Epaderm cream (Molnlycke Health Care Ltd),6.541949678729959e-05
+Acute ST segment elevation myocardial infarction,6.532308359424349e-05
+Clostridium difficile infection,6.528211418396472e-05
+Diabetic foot examination declined,6.52670157269163e-05
+Hydrocortisone 10mg tablets,6.522359724839598e-05
+Tenoretic 100mg/25mg tablets (AstraZeneca UK Ltd),6.51991015323997e-05
+Gaviscon Cool Liquid (Reckitt Benckiser Healthcare (UK) Ltd),6.51973415273676e-05
+[D]Headache,6.516236730135055e-05
+Rifaximin 550mg tablets,6.512308372009553e-05
+Ferrous fumarate 322mg tablets,6.51111246879313e-05
+Left Sensation,6.508965167695652e-05
+[D]Non-cardiac chest pain,6.489557705011933e-05
+"Simpla Plus sterile leg bag 21571 500ml bag, 6cm tube (Co...",6.487591331123924e-05
+Duloxetine 20mg gastro-resistant capsules,6.477452678479913e-05
+Swelling,6.475888564355591e-05
+Ataxia,6.475710501477124e-05
+No longer carer of patient with dementia,6.475492002316991e-05
+H/O knee replacement,6.454256709295905e-05
+Blood flow tests,6.437850218651045e-05
+Vaniqa 11.5% cream (Almirall Ltd),6.432575194224652e-05
+Agreeing on mental health care plan,6.428639492426301e-05
+Butec 20micrograms/hour transdermal patches (Qdem Pharmac...,6.42651625491093e-05
+SpeediCath catheter male 14Ch 28414 (Coloplast Ltd),6.408151950729122e-05
+Over 75 health check,6.398031202728557e-05
+Co-Codamol 30/500 Caplets,6.394421206143301e-05
+Non-infective gastritis NOS,6.389645152628304e-05
+Enjoys light exercise,6.377689757532167e-05
+[D]Loin pain,6.371506976716624e-05
+Venostasis retinopathy,6.35401198456875e-05
+Diabetic monitoring NOS,6.353432379738729e-05
+Matrifen 50micrograms/hour transdermal patches (Teva UK Ltd),6.345506817051305e-05
+Solaraze 3% gel (Almirall Ltd),6.343634546489106e-05
+Thick & Easy powder (Fresenius Kabi Ltd),6.338855651676306e-05
+Glytrin 400micrograms/dose aerosol sublingual spray (Aspi...,6.330623911909056e-05
+Oxerutins 250mg capsules,6.319646087493492e-05
+Genital prolapse,6.318328464021107e-05
+Betamethasone 0.1% ear/eye/nose drops,6.315988448546608e-05
+Lobar (pneumococcal) pneumonia,6.309715858060097e-05
+[RFC] Soft tissue injuries,6.303002724858116e-05
+FastClix lancets 0.3mm/30gauge (Roche Diabetes Care Ltd),6.29994733951352e-05
+Magnetic resonance imaging of brain,6.295979691036416e-05
+Otitis externa,6.291963719518382e-05
+C/O: itching,6.277910390886397e-05
+Trandolapril 4mg capsules,6.269975205145168e-05
+Difflam 0.15% spray (Meda Pharmaceuticals Ltd),6.243572771624044e-05
+Influenza imm.advised at home,6.226426751723861e-05
+Active monitoring,6.210100048359363e-05
+Referral Message Digest,6.192404957984156e-05
+O/E - vibration sense left foot reduced,6.191476563814722e-05
+Referral to memory clinic,6.190950479278345e-05
+"Colecalciferol 3,200unit capsules",6.190285858474503e-05
+Community acquired pneumonia,6.185698278121086e-05
+Carbimazole 20mg tablets,6.174259655929878e-05
+Indacaterol 150microgram inhalation powder capsules with ...,6.169254528581661e-05
+Methenamine hippurate 1g tablets,6.16862438612642e-05
+Left sided cerebral infarction,6.161473883995699e-05
+Rehabilitation for musculoskeletal disorders NOS,6.160952641086188e-05
+Glutafin gluten free pasta macaroni penne (Dr Schar UK Ltd),6.152218353223735e-05
+Canagliflozin 100mg tablets,6.150456242980462e-05
+Cardiovascular disease risk assessment declined,6.149922669502427e-05
+Foot Review,6.141618021245399e-05
+NHS Health Check invitation first letter,6.119600767613698e-05
+Baker's cyst,6.115170257708565e-05
+"Uterovaginal prolapse, unspecified",6.114084319264606e-05
+Dioralyte oral powder sachets blackcurrant (Sanofi),6.105601460926709e-05
+Aortic stenosis,6.085137113013613e-05
+Dementia screening declined,6.0817018240820107e-05
+Asbestosis,6.0645208450839915e-05
+Ebixa 20mg tablets (Lundbeck Ltd),6.03747722808167e-05
+NovaLife 1 ileostomy bag midi 923-10 Cut to fit 10mm-55mm/70mm Opaque (Dansac Ltd),6.036111679400148e-05
+Microlet lancets 0.5mm/28gauge (Bayer Diagnostics Manufac...,6.033233153282189e-05
+Cosopt eye drops (Santen UK Ltd),6.031700784153012e-05
+Micolette Micro-enema 5ml (Wockhardt UK Ltd),6.026691316680783e-05
+Review of mental health care plan,6.0243497563221506e-05
+Voice hoarseness,6.02406814582854e-05
+Phyllocontin Continus 225mg tablets (Napp Pharmaceuticals...,6.022767623287799e-05
+Church of England,6.007710388735326e-05
+Screening,6.004233226840751e-05
+Clobetasol 0.05% ointment,5.992145507606289e-05
+Laparoscopic cholecystectomy,5.9907162081217236e-05
+NHS Health Check declined,5.98022179469063e-05
+Minor surgery information leaflet given,5.9784631955517344e-05
+Hibiscrub 4% solution (Molnlycke Health Care Ltd),5.9768751523895565e-05
+Zemtard 120 XL capsules (Galen Ltd),5.969775831864034e-05
+Prepatellar bursitis,5.9619191691675025e-05
+Iopidine 5mg/ml eye drops (Novartis Pharmaceuticals UK Ltd),5.961027110190675e-05
+Under care of diabetic foot screener,5.947479740252182e-05
+Hydromol 2.5% cream (Alliance Pharmaceuticals Ltd),5.9441460393127534e-05
+Pneumococcal vaccination declined,5.9399168488597706e-05
+Out of hours non practice note,5.936892624455637e-05
+C/O - feeling depressed,5.928739981669627e-05
+Genius gluten free brown bread sliced (Genius Foods Ltd),5.924294660881017e-05
+Ispaghula Husk Sachets Sugar Free (Orange) 3.5 grams/sachet,5.9203370687243307e-05
+Computed tomography angiography of coronary arteries,5.91924394977448e-05
+Hospital prescription,5.9159142056190264e-05
+GPPAQ hours in last week spent cycling - none,5.903876121494382e-05
+Captopril 25mg tablets,5.901470905807181e-05
+Ibuprofen 600mg effervescent granules sachets,5.891991076658169e-05
+Verapamil 40mg tablets,5.890591638615137e-05
+Paracetamol 500mg / Dihydrocodeine 20mg tablets,5.8767977845222215e-05
+Enoxaparin sodium 100mg/1ml solution for injection pre-fi...,5.8573582009141215e-05
+Pack years,5.851320474223371e-05
+Patient recall admin. NOS,5.846627263531923e-05
+Ipratropium bromide 500micrograms/2ml nebuliser liquid un...,5.845942377317245e-05
+Sigmoidoscopy NEC,5.842464400748636e-05
+At risk of osteoporosis,5.824947259146122e-05
+Lacidipine 4mg tablets,5.799869848542199e-05
+Carbocisteine 250mg/5ml oral solution,5.7975511450540766e-05
+Voltarol 12 Hour Emulgel P 2.32% gel (GlaxoSmithKline Consumer Healthcare),5.7853987727665964e-05
+Hesitancy of micturition,5.7690227867962954e-05
+Doxadura XL 4mg tablets (Discovery Pharmaceuticals),5.7601302809985765e-05
+Pholcodine 10mg/5ml linctus strong,5.747620802843285e-05
+Fluvastatin 40mg capsules,5.7448289860994354e-05
+Aquacel dressing 5cm x 5cm square (ConvaTec Ltd),5.744276626891191e-05
+Methylprednisolone acetate 40mg/1ml suspension for injection vials,5.739238605781356e-05
+COPD self-management plan given,5.738750950184061e-05
+Zostavax vaccine powder and solvent for suspension for in...,5.730818603110991e-05
+Levomepromazine 25mg tablets,5.7281811381710256e-05
+Rivastigmine 1.5mg capsules,5.7249765896952346e-05
+Lives with relatives,5.7189539221907845e-05
+Bloating symptom,5.6896805506834186e-05
+Injection of steroid into carpometacarpal joint of thumb,5.6861991180748734e-05
+Zerobase 11% cream (Thornton & Ross Ltd),5.683932584754705e-05
+Leg ulcer NOS,5.674971890633444e-05
+Cilostazol 100mg tablets,5.669243350763764e-05
+Chronic kidney disease stage 1,5.66772082541054e-05
+Incision biopsy of skin,5.6634080804978296e-05
+Activa class II unisex ribbed sock standard stock size Me...,5.662699245483598e-05
+TRUEresult testing strips (Nipro Diagnostics (UK) Ltd),5.650291029424553e-05
+Diclofenac 100mg suppositories,5.638292690324679e-05
+[D]Impaired glucose tolerance,5.636477099040403e-05
+Betamethasone valerate 0.1% ointment,5.6303907639206245e-05
+Zerocream (Thornton & Ross Ltd),5.6291340853396364e-05
+Pulmonary rehabilitation offered,5.613006007869599e-05
+Refer for ECG recording,5.606025088579219e-05
+Seen by speech therapist,5.605160976180098e-05
+Tympanic membrane perforation,5.6049008236552965e-05
+Venlafaxine 37.5mg tablets,5.6038523788856175e-05
+DNA - Did not attend hypertension clinic,5.603696422718584e-05
+Prednisolone 1mg tablets,5.603101989226351e-05
+Oxazepam 15mg tablets,5.6026524763085445e-05
+Sinemet Plus 25mg/100mg tablets (Merck Sharp & Dohme Ltd),5.601998318823307e-05
+MSG:Referral to renal physician,5.5869685592901966e-05
+Bronchodilators used more than once daily,5.5793771627057896e-05
+Medication increased,5.5778533663217106e-05
+Erectile dysfunction,5.576906289878705e-05
+[V]Explanation of medication,5.568873595997411e-05
+Adcal 1500mg chewable tablets (Kyowa Kirin Ltd),5.560075206535498e-05
+Is a carer,5.558131664770453e-05
+Urology,5.550623696183147e-05
+Brillant AquaFlate all silicone catheter female 14Ch DA21...,5.542843299385111e-05
+Juvela gluten free crispy rice cereal (Hero UK Ltd),5.5342900939989814e-05
+Brinzolamide 10mg/ml / Brimonidine 2mg/ml eye drops,5.5291904550575254e-05
+Pitting oedema,5.525131120399893e-05
+Lesion,5.524416919095459e-05
+Omnican Fine hypodermic insulin needles for pre-filled / ...,5.5232866536516006e-05
+Zoladex 3.6mg implant SafeSystem pre-filled syringes (AstraZeneca UK Ltd),5.518394377884503e-05
+Chronic kidney disease annual review,5.501714138737314e-05
+Promethazine hydrochloride 10mg tablets,5.498988812267806e-05
+Investigation result,5.49687554612439e-05
+Asthma accident and emergency attendance since last visit,5.493889109507247e-05
+Diabetes mellitus,5.489478896301541e-05
+GPPAQ hrs in last wk spent gardening/DIY-1hr but less than 3hrs,5.487082642454436e-05
+GPPAQ not in employment,5.4764701105130684e-05
+Prostatism,5.4721711908690114e-05
+Ileodress ileostomy bag standard S833 32mm Opaque (ConvaT...,5.466898053497895e-05
+O/E - Right posterior tibial pulse normal,5.457211200977458e-05
+Insuman Basal 100units/ml suspension for injection 3ml pr...,5.4522830040759396e-05
+Pain relief,5.4452151389122124e-05
+Steroid injection of greater occipital nerve,5.445099021864267e-05
+Glimepiride 3mg tablets,5.4416271452109186e-05
+Digital mucous cyst,5.433334350809239e-05
+Oxactin 20mg capsules (Discovery Pharmaceuticals),5.433281949243715e-05
+DNA - Did not attend diabetic clinic,5.432318471444946e-05
+Ropinirole 2mg tablets,5.421269730575049e-05
+Frumil LS 20mg/2.5mg tablets (Sanofi),5.406698434741735e-05
+O/E - nose crusting,5.399451848974639e-05
+No consent - influenza imm.,5.383993040287082e-05
+Under care of chiropodist,5.382230215689227e-05
+Seen by cardiologist,5.376431187862722e-05
+Registration type,5.3736510999810833e-05
+Clonazepam 2mg tablets,5.3656281980760874e-05
+Perianal itch,5.35012999635051e-05
+Advice to start drug treatment,5.347333201883773e-05
+Solpadol 30mg/500mg effervescent tablets (Sanofi),5.335977477339815e-05
+Movicol Chocolate oral powder 13.9g sachets (Norgine Phar...,5.328853674488786e-05
+Hyperthyroidism,5.309254935846931e-05
+Sharpsguard disposal unit Orange (Daniels Healthcare Ltd),5.3055505752196246e-05
+Co-beneldopa 12.5mg/50mg dispersible tablets sugar free,5.303636671754826e-05
+Xalacom eye drops (Pfizer Ltd),5.302093969945254e-05
+Blood withdrawal for testing,5.299993307904958e-05
+Pilonidal sinus/cyst,5.297308864662471e-05
+Colecalciferol 400unit / Calcium carbonate 1.5g tablets,5.2949792588710305e-05
+C/O pelvic pain,5.291500601685101e-05
+Computed tomography of head,5.282834022227491e-05
+Mood swings,5.266904107696686e-05
+Dermovate 0.05% ointment (GlaxoSmithKline UK Ltd),5.24675870581493e-05
+CT scan brain - normal,5.239861752728128e-05
+O/E - Left posterior tibial pulse normal,5.228100783820227e-05
+Longtec 60mg modified-release tablets (Qdem Pharmaceuticals Ltd),5.226454556347666e-05
+Imiquimod 3.75% cream 250mg sachets,5.2260002229229196e-05
+Patient advised re bed rest,5.219747339749815e-05
+Fosinopril 20mg tablets,5.2057613969812884e-05
+Full thickness rotator cuff tear,5.205462883112885e-05
+Mild chronic obstructive pulmonary disease,5.202693317509807e-05
+Kyphoscoliosis or scoliosis NOS,5.2024290622956705e-05
+O/E - Right dorsalis pedis normal,5.196650936998238e-05
+U-S abdominal scan,5.196032350454561e-05
+Activa class I below knee stocking circular knit standard...,5.190108359484988e-05
+Insertion of gonadorelin analogue implant,5.177897466681864e-05
+Clotrimazole 500mg pessary and Clotrimazole 2% cream,5.176605294080429e-05
+Darifenacin 7.5mg modified-release tablets,5.174679226742043e-05
+Methyldopa 250mg tablets,5.160220101790904e-05
+COPD self-management plan review,5.142342302460214e-05
+Oxycodone 40mg modified-release tablets,5.141585818574445e-05
+Dementia annual review,5.1383222377967934e-05
+Viral gastroenteritis,5.136493846941831e-05
+Pulmonary rehabilitation declined,5.132074233097326e-05
+Tegretol Prolonged Release 200mg tablets (Novartis Pharma...,5.127540315381043e-05
+Diclofenac sodium 100mg modified-release tablets,5.1271682002524324e-05
+Parotitis,5.115492653956515e-05
+Earache symptoms,5.112316755127883e-05
+Fast track HF referral for transthoracic 2D echocardiogram,5.1080045422850714e-05
+Nitrolingual 400micrograms/dose pump sublingual spray (Me...,5.1047301336751e-05
+Lives with partner,5.104198191794728e-05
+AUDIT-C score - units of alcohol drunk on a typical day,5.100506132151221e-05
+Trochanteric bursitis,5.097842510211472e-05
+Return only if necessary,5.0954401432216766e-05
+Amias 32mg tablets (Takeda UK Ltd),5.0938653946960594e-05
+Rheumatology,5.081643740919876e-05
+Alcohol AUDIT score,5.079908617387074e-05
+Achilles tendinitis,5.073506283075134e-05
+Alendronic acid 70mg / Colecalciferol 70microgram tablets,5.0701734779512504e-05
+Theophylline 125mg modified-release capsules,5.0595547877220004e-05
+Decompensated cardiac failure,5.058303324812599e-05
+Bouchards' nodes,5.054637197040857e-05
+Injection sites,5.054184142413317e-05
+Beclometasone 100micrograms/dose / Formoterol 6micrograms/dose inhaler CFC free,5.0372596230111796e-05
+Fracture of humerus,5.035398086770771e-05
+Pramipexole 1.05mg modified-release tablets,5.024104004111243e-05
+Movicol-Half oral powder 6.9g sachets (Norgine Pharmaceut...,5.021125258014315e-05
+Triage,5.014112105966094e-05
+Rozex 0.75% gel (Galderma (UK) Ltd),5.0079256738800554e-05
+Did not attend GP chronic disease monitoring clinic,5.0076087658703775e-05
+Zolpidem 5mg tablets,5.0042277871908066e-05
+Erythroped A 500mg tablets (AMCo),4.999600049917141e-05
+Elocon 0.1% ointment (Merck Sharp & Dohme Ltd),4.999436101553024e-05
+Epilepsy,4.9906503774092415e-05
+Seasonal influenza vaccin given by other healthcare provider,4.9772547385623344e-05
+Tadalafil 5mg tablets,4.9749718298073725e-05
+Quetiapine 300mg tablets,4.970999269963552e-05
+Tears Naturale eye drops (Novartis Pharmaceuticals UK Ltd),4.9699395156523354e-05
+Dermatology referral,4.951679280113484e-05
+ProSys non-drainable night drainage bag P2 2litre (CliniS...,4.9358634234761915e-05
+Retired,4.9350431247340227e-05
+[RFC] Travel advice,4.933776972811307e-05
+Stage 1 hypertension,4.932652959407292e-05
+Salbutamol 100micrograms/dose breath actuated inhaler CFC...,4.9229350940161784e-05
+"Osteoarthritis NOS, of hip",4.9061374557679465e-05
+Under care of retinal screener,4.9041911995968484e-05
+Urology referral,4.90155164016508e-05
+Asthma limits walking up hills or stairs,4.900091016318146e-05
+H/O: glaucoma,4.898025373165661e-05
+Asthma monitoring by nurse,4.896981342554343e-05
+Gastroenteritis,4.888520986372615e-05
+Dorzolamide 20mg/ml / Timolol 5mg/ml eye drops,4.888365122472978e-05
+Pregabalin 100mg capsules,4.882836592321745e-05
+Lichenoid keratosis,4.8808342956576154e-05
+MRC Breathlessness Scale: grade 3,4.878430390155796e-05
+Generalised osteoarthritis - OA,4.8773545420558715e-05
+Transtec 70micrograms/hour transdermal patches (Napp Phar...,4.869190500154518e-05
+Tension headache,4.868786649112367e-05
+O/E visual acuity right eye = 6/7,4.868446960010462e-05
+Ranitidine 150mg tablets,4.863101591116058e-05
+Oxcarbazepine 300mg tablets,4.861550389269264e-05
+Difflam Oral Rinse 0.15% solution (Meda Pharmaceuticals Ltd),4.857936429958217e-05
+Rivaroxaban declined,4.847796155510953e-05
+Injection of steroid into trochanteric bursa,4.8470879572847806e-05
+Did not wait for treatment,4.845849236034904e-05
+Shortec 5mg capsules (Qdem Pharmaceuticals Ltd),4.842072668676205e-05
+Sildenafil 25mg tablets,4.829162814360863e-05
+Telmisartan 80mg tablets,4.8188503103930925e-05
+Activa class II below knee stocking circular knit standar...,4.817678609641145e-05
+Exemestane 25mg tablets,4.785382430810994e-05
+Salbutamol 100micrograms/dose inhaler CFC free,4.776981393773331e-05
+Co-careldopa 25mg/100mg modified-release tablets,4.765890888876859e-05
+Madopar 100mg/25mg capsules (Roche Products Ltd),4.761077486468665e-05
+Imdur 60mg modified-release tablets (AstraZeneca UK Ltd),4.758870606844302e-05
+[D]Rash and other nonspecific skin eruption,4.755358361621751e-05
+Referral to neurology special interest general practitioner,4.7467356242614e-05
+Dietary advice,4.746667366098279e-05
+Nitrolingual 400micrograms/dose pump sublingual spray (Merck Serono Ltd),4.7398115913801116e-05
+African - ethnic category 2001 census,4.7339752249241436e-05
+Dental abscess,4.7314112437252964e-05
+BPH - benign prostatic hypertrophy,4.725386480530907e-05
+Allevyn Adhesive dressing 7.5cm x 7.5cm square (Smith & Nephew Healthcare Ltd),4.723519256587909e-05
+Hydrocortisone 1% / Clotrimazole 1% cream,4.7174701130855745e-05
+Zomorph 30mg modified-release capsules (Ethypharm UK Ltd),4.717287124300359e-05
+Patient advised re exercise,4.711651011020389e-05
+Current non drinker,4.6971841390422593e-05
+Anxiety with depression,4.695183764079477e-05
+Revisional repair of rotator cuff NEC,4.694669433966048e-05
+Monopost 50micrograms/ml eye drops 0.2ml unit dose (Spect...,4.6933181075778936e-05
+"SenSura Mio ileostomy bag with filter, maxi 10424 40mm Neutral grey (Coloplast Ltd)",4.692482057677609e-05
+Oxybutynin 3mg tablets,4.6919458405138415e-05
+Alcohol intake,4.687352715863418e-05
+Referral to alcohol brief intervention service,4.676856636861226e-05
+Impaired glucose tolerance,4.674173986906954e-05
+Allergic rhinitis,4.674006199264405e-05
+Quetiapine 100mg tablets,4.6604795836958674e-05
+Daktarin Aktiv 0.16% spray powder (McNeil Products Ltd),4.652847792844269e-05
+Flucloxacillin 250mg capsules,4.651458595962818e-05
+Zanidip 20mg tablets (Recordati Pharmaceuticals Ltd),4.64555012940285e-05
+Outbound referral,4.645447477943921e-05
+Rosacea,4.6453132337787536e-05
+Ibuprofen 200mg capsules,4.642920595081678e-05
+Hazardous alcohol use,4.635761305967652e-05
+Vesicare 10mg tablets (Astellas Pharma Ltd),4.621563947573946e-05
+Hydrocele,4.6215300079615274e-05
+Neutrogena T/Gel Therapeutic shampoo (Johnson & Johnson Ltd),4.615915434958067e-05
+Madopar 50mg/12.5mg capsules (Roche Products Ltd),4.6075191287625613e-05
+Malignant neoplasm of ovary,4.602187726556595e-05
+Fostair 100micrograms/dose / 6micrograms/dose inhaler (Chiesi Ltd),4.602163736236696e-05
+Humalog KwikPen 100units/ml solution for injection 3ml pr...,4.582843033278992e-05
+Hydrea 500mg capsules (Bristol-Myers Squibb Pharmaceutica...,4.573694039409124e-05
+Intertrigo,4.562026589878103e-05
+Salbutamol 200micrograms/dose dry powder inhaler,4.5608964720784894e-05
+Did not attend - reason given,4.5581588204170866e-05
+Buprenorphine 200microgram sublingual tablets sugar free,4.5571373141428395e-05
+"SunVit-D3 1,000unit tablets (SunVit-D3 Ltd)",4.5553575050511064e-05
+Mupirocin 2% cream,4.545628122155312e-05
+Lantus 100units/ml solution for injection 3ml cartridges ...,4.541632464290058e-05
+Saliveze mouth spray (Wyvern Medical Ltd),4.540209416830145e-05
+Clinical Letter letter,4.529548699330803e-05
+Pholcodine 5mg/5ml linctus sugar free,4.528721957518868e-05
+Drug dosage altered,4.5272052278102396e-05
+BD Micro-Fine + hypodermic insulin needles for pre-filled...,4.51628041266781e-05
+Body mass index index 25-29 - overweight,4.489892481566268e-05
+No FH: Ischaemic heart disease,4.4857845803696566e-05
+"[D]Lump, localized and superficial",4.4801609851298415e-05
+Personal care plan declined,4.4747977687692046e-05
+Rasagiline 1mg tablets,4.4728941878979605e-05
+Refer to optician,4.4682838012892644e-05
+[M]Basal cell carcinoma NOS,4.4607316170610046e-05
+Piriformis syndrome,4.446818086686704e-05
+Refer to orthoptist,4.441404760823837e-05
+One-Alpha 1microgram capsules (LEO Pharma),4.421145249628098e-05
+"Pro D3 1,000unit capsules (Synergy Biologics Ltd)",4.410700679913128e-05
+Lansoprazole 15mg gastro-resistant capsules,4.4095182257098306e-05
+Pregabalin 50mg capsules,4.405730232982822e-05
+Gaviscon Advance oral suspension peppermint (Reckitt Benckiser Healthcare (UK) Ltd),4.4004520291522316e-05
+Optometrist,4.389033911487197e-05
+Costochondritis NOS,4.3862129460419186e-05
+"Closed fracture radius and ulna, distal",4.384858520061498e-05
+"Independant housing, not alone",4.3787650674918886e-05
+[M]Squamous cell carcinoma NOS,4.373046539168901e-05
+Maxitrol eye drops (Novartis Pharmaceuticals UK Ltd),4.36947255261818e-05
+Instillagel gel (CliniMed Ltd),4.358630855595161e-05
+No incoordination,4.352313145140913e-05
+Post bronchodilator spirometry,4.351362063786635e-05
+Erythematous conditions,4.3507498366244196e-05
+O/E - BP reading: no postural drop,4.349083534912341e-05
+Pathological fracture due to metastatic bone disease,4.340483067025321e-05
+Beer drinker,4.339592813940676e-05
+Exception reporting: diabetes quality indicators,4.334880753841228e-05
+Morton neuroma,4.330069560034621e-05
+Patient's condition the same,4.329841773975181e-05
+Orthostatic hypotension,4.3243505066197164e-05
+Leukomed T dressing 8cm x 10cm (BSN medical Ltd),4.3175217417278096e-05
+Apraclonidine 5mg/ml eye drops,4.309646725230632e-05
+Levemir Penfill 100units/ml solution for injection 3ml cartridges (Novo Nordisk Ltd),4.298453371649363e-05
+Vomiting,4.29482455501751e-05
+Memory loss symptom,4.2885893084489615e-05
+COPD self-management plan agreed,4.287419096078371e-05
+Discussed with pharmacist,4.281804651561241e-05
+Promethazine hydrochloride 25mg tablets,4.2815692207140134e-05
+Atrial fibrillation annual review,4.281030782023523e-05
+Referral to tissue viability nurse specialist,4.25318948937752e-05
+Dermol 600 bath emollient (Dermal Laboratories Ltd),4.2481361182578836e-05
+Adapt oval convex barrier ring 79601 22mm-38mm (Hollister...,4.246306407517305e-05
+Alfacalcidol 1microgram capsules,4.244305364805395e-05
+Coronary heart disease risk,4.241965495178174e-05
+Depression screening using questions,4.240673479112193e-05
+MST Continus 100mg tablets (Napp Pharmaceuticals Ltd),4.240440759196136e-05
+Asthma monitoring check done,4.2383161263878984e-05
+Loperamide 2mg tablets,4.233495233350969e-05
+Malignant neoplasm of female breast,4.233294056580664e-05
+Inhaler technique - poor,4.229412552525215e-05
+Has tingling sensation,4.228908970290373e-05
+Heavy drinker - 7-9u/day,4.215883518738788e-05
+Stoma care,4.2141842566943355e-05
+Recurrent UTI,4.2141639220255695e-05
+Suspected malignancy,4.212092687955636e-05
+Timolol 1mg/g gel eye drops 0.4g unit dose preservative free,4.204252428042324e-05
+Chronic duodenal ulcer with haemorrhage,4.199917904675165e-05
+Unilet General Purpose Superlite lancets 0.66mm/23gauge (...,4.193944749332745e-05
+Average home diastolic blood pressure,4.193241063870747e-05
+Imipramine 25mg tablets,4.1837637560185763e-05
+Discharge from intermediate care,4.178519320553081e-05
+Squamous cell carcinoma of skin NOS,4.177889587414274e-05
+Hycosan Extra 0.2% eye drops (Scope Ophthalmics Ltd),4.1702147628405345e-05
+GPPAQ hrs in last week spent walking-1hr but less than 3hrs,4.162897915175522e-05
+Falls,4.158988413824635e-05
+Failed encounter - message left with household member,4.156642958926102e-05
+Pramipexole 2.62mg modified-release tablets,4.143697651230941e-05
+H/O: fragility fracture,4.140665114696577e-05
+Indoramin 20mg tablets,4.126325383127731e-05
+Pholcodine 10mg/5ml linctus strong sugar free,4.124718818349153e-05
+MSG:H/O: abdominal hernia,4.1056913085163585e-05
+Referral to tissue viability service,4.1051525663098096e-05
+Endarterectomy of femoral artery NEC,4.0992970947051184e-05
+Influenza vaccination first telephone invitation,4.092070289540865e-05
+Comment note,4.090126622994604e-05
+Knee osteoarthritis NOS,4.087930196091907e-05
+O/E - visual acuity L-eye =6/6,4.0781206908498264e-05
+Boil NOS,4.074074794918559e-05
+Radiology referral,4.068021141321611e-05
+Kenalog Intra-articular / Intramuscular 40mg/1ml suspensi...,4.0673930271453405e-05
+Skin symptoms,4.064752311606375e-05
+Carpal tunnel decompression,4.060897261419212e-05
+Hypromellose 1% eye drops,4.057554619755632e-05
+Ultrabase cream (Derma UK Ltd),4.0546897269621315e-05
+Movicol Plain oral powder 13.7g sachets (Norgine Pharmaceuticals Ltd),4.048806484977439e-05
+Colecalciferol 800unit capsules,4.042959037055031e-05
+Repeat prescription reviewed by pharmacist,4.0388974692124565e-05
+Hospital admission note,4.0366448394809726e-05
+Cetraben Emollient Cream,4.034407200409131e-05
+GPPAQ usual level of walking pace - steady,4.031678387105573e-05
+GPPAQ hrs in last wk spent in physical exercise - 3hrs or more,4.031416220880559e-05
+Impaired fasting glycaemia,4.024032148474991e-05
+Nifedipine 10mg capsules,4.0234456914240135e-05
+Oilatum Plus bath additive (GlaxoSmithKline Consumer Healthcare),4.022143957779454e-05
+Glycopyrronium bromide 1mg tablets,4.0193042281884055e-05
+Fexofenadine 30mg tablets,4.01677725599576e-05
+Pentasa 2g modified-release granules sachets (Ferring Pha...,4.013281544810544e-05
+GPPAQ hrs in last wk spent on house work/child care-3hrs or more,4.0106848853444585e-05
+Metanium Nappy Rash ointment (Thornton & Ross Ltd),4.006420068591717e-05
+Vulnerable adult,4.0024973644552937e-05
+Epaderm ointment (Molnlycke Health Care Ltd),3.993884844673511e-05
+O/E - visual acuity R-eye =6/9,3.993635394185538e-05
+Blink Intensive Tears 0.2% eye drops (AMO UK Ltd),3.980468014777903e-05
+Percent predicted FEF 25-75,3.974849838713021e-05
+O/E - cranial nerves,3.9704435183525654e-05
+Medical report received,3.9670024458829884e-05
+Terbutaline 500micrograms/dose dry powder inhaler,3.955481441019935e-05
+Seen in geriatric clinic,3.9455537262611164e-05
+Seen in liver clinic,3.943778759828631e-05
+O/E - bowel sounds normal,3.935749209272338e-05
+Tinea,3.932537984628171e-05
+Tired all the time,3.930293821016749e-05
+O/E - L.leg pulses all present,3.92877016362579e-05
+[D]Abdominal cramps,3.9279301318813455e-05
+Myositis unspecified,3.920371346521809e-05
+Acute Appendicitis,3.910734568610454e-05
+H/O: hip fracture,3.9063873154422546e-05
+[D]Malaise,3.899454904958059e-05
+COPD follow-up,3.899415435946624e-05
+Dehydration,3.8894251757269095e-05
+AUDIT-C score - frequency of drinking alcohol,3.888725859599839e-05
+Fortisip Bottle strawberry (Nutricia Ltd),3.886843494902485e-05
+Lyrica 100mg capsules (Pfizer Ltd),3.8829373907901166e-05
+Oilatum Junior bath additive (GlaxoSmithKline Consumer He...,3.882412509431688e-05
+Total prosthetic replacement of hip joint NOS,3.8787976398108084e-05
+Referral to ophthalmologist,3.878673938606447e-05
+Mucogel oral suspension (Chemidex Pharma Ltd),3.877026924004498e-05
+"BD Micro-Fine + lancets 0.3mm/30gauge (Becton, Dickinson UK Ltd)",3.876505544850031e-05
+Patient on holiday,3.8710420056086696e-05
+Easyhaler Salbutamol sulfate 100micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd),3.869024890042675e-05
+Adipine MR 20 tablets (Chiesi Ltd),3.862373961158931e-05
+Zolmitriptan 2.5mg tablets,3.856954860916338e-05
+Lives alone,3.85226609360371e-05
+FreeStyle lancets 0.5mm/28gauge (Abbott Laboratories Ltd),3.848300011279472e-05
+Omnican Lance Soft lancets 0.3mm/30gauge (B.Braun Medical...,3.8458380205888105e-05
+Dysequilibrium syndrome,3.8440034645445554e-05
+Juvela gluten free part baked white bread rolls (Hero UK Ltd),3.840300945294173e-05
+Preferred place of death: care home,3.827819536031642e-05
+Not for attempted CPR (cardiopulmonary resuscitation),3.826099776188783e-05
+Nebido 1000mg/4ml solution for injection vials (Bayer Plc),3.8235233262810444e-05
+"Typhoid vaccine (live, oral, strain ty21a) gastro-resistant capsules",3.814259707523582e-05
+Herpes zoster vaccination declined,3.8136824611636436e-05
+Follow-up orthopaedic assessment,3.808265686832897e-05
+Breast screening administratn.,3.803435437650369e-05
+Lofepramine 70mg tablets,3.798573658109266e-05
+Carmellose 1% eye drops 0.4ml unit dose preservative free,3.789789352206956e-05
+Hormone replacement therapy,3.78840594837761e-05
+Under care of district nurse,3.7878697468225914e-05
+"Hux D3 20,000unit capsules (Huxley Europe Ltd)",3.7809047735081184e-05
+GlucoMen areo Sensor testing strips (A Menarini Diagnosti...,3.7790731502409206e-05
+Tostran 2% gel (Kyowa Kirin Ltd),3.77070944871401e-05
+Heparinoid 0.3% cream,3.770191389013303e-05
+Attended breast screening clinic,3.760045914653678e-05
+Number of times bronchodilator used in one week,3.759790088951313e-05
+Notification of disease NOS,3.75924968294607e-05
+"Acute meniscal tear, medial",3.751012190315504e-05
+Peristeen anal irrigation system accessory unit 29122 (Co...,3.749343574873241e-05
+Cefalexin 250mg tablets,3.747946016271542e-05
+Primary prevention of cardiovascular disease,3.7479134931786676e-05
+Test request : Urea and electrolytes,3.7471406321833826e-05
+Has pins and needles,3.746123526891412e-05
+Misoprostol 200microgram tablets,3.728740082193248e-05
+Etoricoxib 60mg tablets,3.727246009134784e-05
+Geriatric screening,3.725173957506293e-05
+Urine looks cloudy,3.7221285038240266e-05
+Olanzapine 2.5mg tablets,3.719110119309049e-05
+Plain wart,3.719036177144933e-05
+Referred to vascular surgeon,3.712883780770123e-05
+O/E - visual acuity L-eye =6/9,3.705297976346667e-05
+Seen in immunology clinic,3.705228876086955e-05
+Spasmodic torticollis,3.704598787642914e-05
+Elleste Solo 1mg tablets (Meda Pharmaceuticals Ltd),3.6926055203692385e-05
+Varicose veins of the legs,3.6893858062062817e-05
+Discharge by dietitian,3.686291800634096e-05
+Menopause,3.685460435432629e-05
+Asthma monitoring,3.681500481472192e-05
+Fast alcohol screening test,3.6781613019534215e-05
+Enalapril 20mg tablets,3.676705369583281e-05
+Dexamethasone 0.1% eye drops,3.673412893917176e-05
+Healthy diet,3.6709929611772086e-05
+Family aware of diagnosis,3.65847829787949e-05
+Benign paroxysmal positional vertigo or nystagmus,3.6523856512455534e-05
+General practice physical activity questionnaire,3.644433023115007e-05
+Average home systolic blood pressure,3.62865209962755e-05
+Pain in sinuses,3.626621102368172e-05
+Productive cough NOS,3.623371354791004e-05
+Alcohol screen - AUDIT C completed,3.621398523217341e-05
+Symptom control,3.620655069917596e-05
+Post-traumatic wound infection NEC,3.620432640480667e-05
+Minor surg done - cryotherapy,3.6167005189628324e-05
+"Seropositive rheumatoid arthritis, unspecified",3.61610398210482e-05
+Scabies,3.615361623612366e-05
+TrueTrack System testing strips (Nipro Diagnostics (UK) Ltd),3.612754644369061e-05
+Seen in diabetic foot clinic,3.608810044835079e-05
+Saxagliptin 5mg tablets,3.598606306541499e-05
+Lifestyle advice regarding hypertension,3.597545417507905e-05
+Hay fever - pollens,3.5910417812313406e-05
+Ophthalmology referral,3.588478263986708e-05
+Pulmonary embolism,3.576026150140315e-05
+Nova 1 Convex EasiFold ileostomy bag with filter 841-46 6...,3.575394180653102e-05
+Referral to stroke clinic,3.5747023131194986e-05
+FH: Ischaemic heart disease,3.5725813940232414e-05
+Supraspinatus tendonitis,3.5705816333548764e-05
+Sytron oral solution (Forum Health Products Ltd),3.567707647365253e-05
+"Hepatitis A vaccine (inactivated, adsorbed) emulsion for ...",3.567701416552942e-05
+Allevyn Adhesive dressing 12.5cm x 12.5cm square (Smith &...,3.5627399666461225e-05
+[V]Issue of repeat prescription,3.560131805853654e-05
+Agreeing on patient actions in care plan,3.557135578599823e-05
+Third party consultation,3.5512525474869355e-05
+MRC Breathlessness Scale: grade 4,3.549542717712841e-05
+Flixonase 50micrograms/dose aqueous nasal spray (GlaxoSmi...,3.548849222996598e-05
+Prescription by GP,3.544104756709181e-05
+Nifedipress MR 20 tablets (Dexcel-Pharma Ltd),3.5381572236524705e-05
+Brimonidine 0.2% eye drops,3.534280763325784e-05
+Referral to neurosurgeon,3.527318916567042e-05
+Spinal stenosis of unspecified region,3.5246175986335125e-05
+[D]Light-headedness,3.5226524337142055e-05
+Verbal invite to screening,3.5213030153840575e-05
+"Hepatitis A vaccine (inactivated, adsorbed) emulsion for injection 0.5ml pre-filled syringes",3.518138126758289e-05
+Nicorandil 20mg tablets,3.514893653469613e-05
+Nifedipine 30mg modified-release capsules,3.5078535331565384e-05
+O/E - no nystagmus,3.5038685326099126e-05
+Tafluprost 15micrograms/ml eye drops 0.3ml unit dose pres...,3.499634578700806e-05
+Complan Shake oral powder 57g sachets (Flavour Not Specif...,3.4992649723235845e-05
+Medicine use review done by community pharmacist,3.499194429972679e-05
+History of road traffic accident,3.494214383551612e-05
+Allevyn Gentle Border dressing 7.5cm x 7.5cm (Smith & Nep...,3.491117101362679e-05
+MicardisPlus 40mg/12.5mg tablets (Boehringer Ingelheim Ltd),3.4878636074013556e-05
+Verapamil 240mg modified-release capsules,3.487182550759016e-05
+Removed from waiting list,3.484226584961266e-05
+Wheezing,3.4831782411176394e-05
+Ambulatory systolic blood pressure,3.480541647412692e-05
+Rupture supraspinatus tendon,3.479488202725602e-05
+Allevyn Adhesive dressing 7.5cm x 7.5cm square (Smith & N...,3.4656856976289765e-05
+Diltiazem 90mg modified-release tablets,3.46256609717397e-05
+Adverse reaction to non steroidal anti inflammatory drugs,3.462386443437382e-05
+Bone density scan,3.461021509804558e-05
+Allevyn Gentle dressing 10cm x 10cm (Smith & Nephew Healt...,3.455860922494872e-05
+Asthma never restricts exercise,3.448866786492772e-05
+New patient screen,3.4397200967074047e-05
+Urgency,3.435524787317944e-05
+Referral to healthy lifestyle programme,3.435314358307927e-05
+Bisphosphonates not indicated,3.4320584208055545e-05
+Referral to smoking cessation advisor,3.4285765708366695e-05
+Premique Low Dose 0.3mg/1.5mg modified-release tablets (Pfizer Ltd),3.42774846827355e-05
+Atrial fibrillation,3.427618560844281e-05
+CAPTOPRIL 50mg tablets,3.4255946563962814e-05
+Spirometry not indicated,3.4236494391103294e-05
+Discharged from outpatients,3.4110538607518236e-05
+Eumovate 0.05% cream (GlaxoSmithKline UK Ltd),3.40918107284444e-05
+Ventolin 5mg Nebules (GlaxoSmithKline UK Ltd),3.403918760413283e-05
+ENT examination - NAD,3.400351903300779e-05
+FH: Asthma,3.400067804442024e-05
+DS 1500 Disability living allowance completed,3.389966647277798e-05
+Hearing normal,3.3871068932449736e-05
+O/E - coordination normal,3.3797062569621964e-05
+O/E -R.-leg pulses all present,3.3785393409621465e-05
+Acidex Advance oral suspension aniseed (Pinewood Healthcare),3.378203572128628e-05
+111 contact disposition to 999 transfer,3.3771449945359934e-05
+Rupture subscapularis tendon,3.376717434724326e-05
+ReplensMD vaginal moisturiser (Church & Dwight UK Ltd),3.362263823866875e-05
+Health ed. - breast exam.,3.358238957842432e-05
+"Typhoid vaccine (live, oral, strain ty21a) gastro-resista...",3.355333184288573e-05
+Brief intervention for physical activity declined,3.3531601537563956e-05
+Rolls own cigarettes,3.346319545733854e-05
+Cervical spondylosis with radiculopathy,3.3408726797478764e-05
+Injection of steroid into hip joint,3.33917633372478e-05
+Hip circumference,3.3221775439997884e-05
+Telmisartan 40mg tablets,3.315872375490827e-05
+[D]Loss of consciousness,3.307175807097967e-05
+Under care of dietitian,3.302544812001078e-05
+Malignant neoplasm of prostate,3.300209316404902e-05
+AUDIT-C score-freq drunk 6+units (fem)/8+units (male) last yr,3.287946343773318e-05
+SpeediCath Compact catheter male one size (12-18Ch) 28692...,3.283424749967409e-05
+Memory function normal,3.2817817994844556e-05
+Helicobacter pylori gastrointestinal tract infection,3.2806012286938086e-05
+Transient ischaemic attack clinical management plan,3.272330286866923e-05
+Did not attend retinal screening,3.265004701747659e-05
+Consent given for communication by email,3.2642901450066886e-05
+Patient record status,3.261145599902458e-05
+NHS Health Check annual review,3.2494426933737655e-05
+Carer aware of prognosis,3.247228076536163e-05
+Exception reporting: rheumatoid arthritis quality indicators,3.2289198004132786e-05
+O/E - normal respiration,3.228558234589317e-05
+"Option colostomy bag with filter, plus 0420K Starter hole...",3.2221107307904596e-05
+Metformin 500mg/5ml oral solution sugar free,3.213915677235968e-05
+Chronic infective otitis externa NOS,3.2105844083969805e-05
+Fast track referral for suspected lung cancer,3.207076917355413e-05
+Therapeutic prescription,3.201136236621231e-05
+Sinthrome 1mg tablets (Novartis Pharmaceuticals UK Ltd),3.193496985197257e-05
+"Closed fracture clavicle, shaft",3.192473033606371e-05
+Sepsis,3.191772452511377e-05
+Doxadura 2mg tablets (Discovery Pharmaceuticals),3.191702733425476e-05
+Lipodermatosclerosis,3.191442600526365e-05
+Pentasa 1g suppositories (Ferring Pharmaceuticals Ltd),3.1911686152801935e-05
+Degeneration of lumbar spine,3.181866562863477e-05
+Ear disorder monitoring,3.173121641202043e-05
+Ex-moderate smoker (10-19/day),3.1640764541729874e-05
+Waist/hip ratio,3.159918353602751e-05
+Aspirin 300mg gastro-resistant tablets,3.1548200156938865e-05
+Pramipexole 350microgram tablets,3.145899980835292e-05
+[V]Cardiac pacemaker in situ,3.137133848950835e-05
+Stopped smoking,3.1369546946713246e-05
+Fenofibrate micronised 267mg capsules,3.1308369658639845e-05
+Shared care prescribing,3.125312321496951e-05
+Chronic kidney disease stage 3A,3.124671369939896e-05
+H/O: haematuria,3.123201464788068e-05
+Verapamil 120mg tablets,3.116655478609604e-05
+Asthma monitor 2nd letter,3.115312569858673e-05
+Asthma daytime symptoms,3.114523716496093e-05
+VitA-POS eye ointment preservative free (Scope Ophthalmics Ltd),3.1141311232304156e-05
+Dermacool 5% cream (Pern Consumer Products Ltd),3.1099161772487985e-05
+Zomorph 60mg modified-release capsules (Archimedes Pharma...,3.101142697092695e-05
+Gliclazide 60mg modified-release tablets,3.09671039819472e-05
+Liquid paraffin light 85.09% bath oil,3.091049980201129e-05
+Patient aware of diagnosis,3.088438801289209e-05
+Ethnic category - 2001 census,3.0879748995447336e-05
+O/E - vibration sense right foot reduced,3.079739070639213e-05
+NovoFine hypodermic insulin needles for pre-filled / reusable pen injectors screw on 6mm/31gauge (Novo Nordisk Ltd),3.0748640517244994e-05
+Humulin I 100units/ml suspension for injection 3ml cartridges (Eli Lilly and Company Ltd),3.073180878699063e-05
+Opticrom Aqueous 2% eye drops (Sanofi),3.071728634873498e-05
+Calculus of kidney,3.071430199328646e-05
+Pruritus NOS,3.0682882547164576e-05
+Transtec 52.5micrograms/hour transdermal patches (Napp Ph...,3.053935805294084e-05
+Clonazepam 500microgram tablets,3.0533939110536996e-05
+Other abnormal uterine and vaginal bleeding,3.046424614220682e-05
+O/E - tactile sensation normal,3.0393842052764988e-05
+Coccygodynia,3.0389001791659564e-05
+Nabumetone 500mg tablets,3.037281492270591e-05
+Calcichew D3 1000mg/800unit Once Daily chewable tablets (...,3.0368179523720072e-05
+Bronchoscopy NEC,3.0296769775663597e-05
+Lidocaine 40mg/2ml (2%) solution for injection ampoules,3.0281189075982746e-05
+Consent given for communication by SMS text messaging,3.0220922198537226e-05
+CT of thorax and abdomen,3.0176694619316476e-05
+Contour testing strips (Bayer Diagnostics Manufacturing Ltd),3.0159086323486577e-05
+FH: Stroke,3.0127114521780258e-05
+Sildenafil 20mg tablets,2.999971202582963e-05
+Does not have mobile telephone,2.9994706263384576e-05
+Does drive a car,2.9993234148816166e-05
+2 week rule referral - urology,2.9982145319103788e-05
+Rivastigmine 4.6mg/24hours transdermal patches,2.9886250845770382e-05
+Bronchopneumonia due to unspecified organism,2.9884075737779032e-05
+Hylo-Tear 0.1% eye drops preservative free (Scope Ophthalmics Ltd),2.98556030301857e-05
+Trusopt 2% eye drops (Santen UK Ltd),2.983887730783421e-05
+Motor neurone disease,2.9787399037076658e-05
+Verbal consent for examination,2.975103529561177e-05
+Gaviscon Advance oral suspension aniseed (Reckitt Benckiser Healthcare (UK) Ltd),2.974774084473551e-05
+Unifine Pentips hypodermic insulin needles for pre-filled...,2.9687190904328335e-05
+Verapamil 240mg modified-release tablets (Kent Pharmaceut...,2.9679938227207973e-05
+Polyuria,2.9661912223271062e-05
+District nurse attends,2.9575584414874672e-05
+Flip-Flo sterile catheter valve BFF5 (Bard Ltd),2.9565671729185214e-05
+Dog bite,2.95592236123026e-05
+Anxiety states,2.9516668104823225e-05
+Vitamins capsules,2.9496039217872287e-05
+Seborrhoeic wart,2.9470808649149633e-05
+Housebound,2.9469377421764484e-05
+Patient registration,2.9415776404976154e-05
+Admission to hospital,2.9390610317414342e-05
+Longtec 10mg modified-release tablets (Qdem Pharmaceuticals Ltd),2.9289846628922117e-05
+Non-woven fabric swab 4ply non-sterile 10cm x 10cm,2.927347301172445e-05
+GPPAQ hours in last week spent in physical exercise - none,2.924715321607418e-05
+Hydrous ointment,2.9222248752491894e-05
+Mobile cassette (Roche Diabetes Care Ltd),2.920626161794546e-05
+Folliculitis,2.9181163292809125e-05
+Follow up visit,2.9161113576024078e-05
+Moderate drinker - 3-6u/day,2.9034942976030607e-05
+Fracture of pubis,2.898401559897565e-05
+ECG - general,2.8980310448206893e-05
+Contour TS testing strips (Bayer Diagnostics Manufacturing Ltd),2.897165678939872e-05
+Avanafil 200mg tablets,2.895132634319219e-05
+Floaters seen,2.8909012135393968e-05
+Peak flow rate after bronchodilation,2.890764713430792e-05
+Nutilis Complete Stage 1 liquid (Flavour Not Specified),2.890507170265241e-05
+Doxadura 4mg tablets (Discovery Pharmaceuticals),2.8901939099654926e-05
+Pipe smoker,2.8818078932185496e-05
+O/E - touch sensation,2.8744546414046833e-05
+Avanafil 100mg tablets,2.8713094205652547e-05
+Persistent sinus bradycardia,2.871041244545715e-05
+Preferred method of communication: speech,2.8705961488383676e-05
+Tildiem Retard 120mg tablets (Sanofi),2.869796279683752e-05
+Psoriatic arthropathy NOS,2.8692986506822784e-05
+Referral to urologist,2.8647926041479896e-05
+Chronic rhinitis NOS,2.8630972601121452e-05
+Vagisil 2% medicated cream (Combe International Ltd),2.86136338149831e-05
+Hydromol ointment (Alliance Pharmaceuticals Ltd),2.8570208178125975e-05
+High risk drug monitoring - shared care,2.8559416056783354e-05
+NovoMix 30 FlexPen 100units/ml suspension for injection 3...,2.8519086377642898e-05
+Fostair 200micrograms/dose / 6micrograms/dose inhaler (Ch...,2.839723312078511e-05
+Royal College Physician asthma assessment 3 question score,2.8385239347197742e-05
+FEV1 before bronchodilation,2.8318508797631613e-05
+Spiriva 18microgram inhalation powder capsules (Boehringer Ingelheim Ltd),2.8305823467132852e-05
+Rotator cuff complete rupture,2.830351299078307e-05
+Microscopic haematuria,2.8173974043534197e-05
+Metronidazole 0.75% gel,2.815630392207842e-05
+Naprosyn EC 500mg tablets (Atnahs Pharma UK Ltd),2.8071965257191616e-05
+Pethidine 50mg tablets,2.8062751031448905e-05
+Prim revers polarity total prosth replac shoulder joint NEC,2.8057200070605925e-05
+Depo-Medrone with Lidocaine suspension for injection 1ml ...,2.8005117560250875e-05
+111 contact disposition to general practitioner,2.7990417725465425e-05
+Bisexual,2.7983095963392878e-05
+Ticagrelor 90mg tablets,2.797433027973621e-05
+Alfuzosin 10mg modified-release tablets,2.7914856916243686e-05
+Chronic low back pain,2.7885351625969198e-05
+Suspected chronic obstructive pulmonary disease,2.7850950936461264e-05
+Telmisartan 80mg / Hydrochlorothiazide 25mg tablets,2.7778253277488613e-05
+Consent for operation given,2.775093847790685e-05
+MSG:Has watering eyes,2.7674081315889534e-05
+Pneumococcal immunisation advised in surgery,2.7625160815157835e-05
+Cervical spine ankylosis,2.760539980352707e-05
+Viazem XL 120mg capsules (Thornton & Ross Ltd),2.7557119679072683e-05
+Plain X-ray sacro-iliac joint,2.7487491128542474e-05
+Health education - ear care,2.7465520252497528e-05
+Preferred place of care - discussed with family,2.7452545270704843e-05
+GlucoMen Visio testing strips (A. Menarini Diagnostics Ltd),2.741615519054099e-05
+Dental examination,2.7409887081335554e-05
+GPPAQ usual level of walking pace - slow,2.734735419677091e-05
+MSG:Referral to cardiologist,2.733458806135651e-05
+Wrist joint pain,2.7302145739192443e-05
+Cancer monitoring first letter,2.7296474512351135e-05
+Juvela gluten free fibre loaf sliced (Hero UK Ltd),2.720264871807635e-05
+Referral for bone density scan,2.720015671603731e-05
+Asthma review using Roy Colleg of Physicians three questions,2.7178589022085308e-05
+Arthrotec 75 gastro-resistant tablets (Pfizer Ltd),2.71462855444534e-05
+Advice about side effects of drug treatment,2.7082072256364597e-05
+Urology self-referral,2.7079294226165803e-05
+Rewisca 150mg capsules (Consilient Health Ltd),2.707882072229949e-05
+Fast track referral for suspected skin cancer,2.7056067624473807e-05
+Gastroduodenectomy,2.681504378262576e-05
+[V]Palliative care,2.675573545768424e-05
+Longtec 5mg modified-release tablets (Qdem Pharmaceuticals Ltd),2.6722485204893024e-05
+O/E - temperature normal,2.671786989658389e-05
+Shoulder tendonitis,2.663455539426144e-05
+Wheeze absent,2.6558723350045378e-05
+Obtaining consent,2.6464137612746145e-05
+Walking aid use,2.6436992665593024e-05
+Dexamethasone 500microgram tablets,2.639661741684169e-05
+Lower resp tract infection,2.6311889302559916e-05
+Patient offered diabetes structured education programme,2.6286084274663784e-05
+Inter risk health ass overwt ob gen adv hlthy wgt lifestyle,2.619162922719025e-05
+"Tricuspid regurgitation, cause unspecified",2.6179212758830557e-05
+Seen in fast track suspected colorectal cancer clinic,2.6149975532287244e-05
+Morphine 10mg modified-release capsules,2.6114763780025822e-05
+Co-proxamol 32.5mg/325mg tablets,2.6088605327267405e-05
+Chronic kidney disease self-management plan agreed,2.606121776831338e-05
+Amoxicillin 250mg/5ml oral suspension,2.602626855302325e-05
+Express consent for core Summary Care Record dataset upload,2.598227634679792e-05
+Oximetry testing,2.5971806080067447e-05
+Vitamin deficiencies,2.5966100244981947e-05
+"Calci-D 1000mg/1,000unit chewable tablets (Consilient Health Ltd)",2.5933006231606045e-05
+Insulatard InnoLet 100units/ml suspension for injection 3ml pre-filled pen (Novo Nordisk Ltd),2.5904456983702813e-05
+Treatment not tolerated,2.5885780722035605e-05
+O/E - loss of consciousness,2.5868953378553804e-05
+Blood in urine - haematuria,2.5860547408519297e-05
+Positron emission tomography,2.582947331980063e-05
+Advised to self care,2.579014530798748e-05
+Butec 10micrograms/hour transdermal patches (Qdem Pharmaceuticals Ltd),2.5772401107341314e-05
+Metrogel 0.75% gel (Galderma (UK) Ltd),2.5751243872460686e-05
+[D]Respiratory arrest,2.5744212724264737e-05
+Diagnostic arthroscopy of knee - August 2016,2.5732914189188292e-05
+Lung vital capacity,2.5658308559756837e-05
+Tolterodine 2mg modified-release capsules,2.559036161779528e-05
+Menthol 5% in Aqueous cream,2.556587470587482e-05
+Choice appointment letter sent,2.5508573802936742e-05
+O/E - foot,2.5319702149791817e-05
+Maxitrol eye drops (Alcon Laboratories (UK) Ltd),2.53029940343389e-05
+[X] Horners syndrome,2.5294296551514728e-05
+Cardiovascular disease monitoring,2.5280639539998157e-05
+Digoxin 250microgram tablets,2.527304743581169e-05
+MSG:Neurosurgical referral,2.5222486456396788e-05
+Removal of suture of skin,2.5214167227548804e-05
+Nail deformity,2.507837329525405e-05
+Refer to osteoporosis specialist,2.5026058283846388e-05
+Evorel 50 patches (Janssen-Cilag Ltd),2.495939110834114e-05
+Fostair NEXThaler 100micrograms/dose / 6micrograms/dose d...,2.495642761734519e-05
+Osteophyte,2.489244109468786e-05
+Bumetanide 5mg tablets,2.487224140033931e-05
+Carer - mobile telephone number,2.4783192623914994e-05
+Epigastric pain,2.4763048236253076e-05
+Xylocaine 2% with Adrenaline 100micrograms/20ml (1 in 200...,2.4749581534162838e-05
+FH: Hypertension,2.4645360335790125e-05
+Minor surgery done,2.4628374044213695e-05
+Protopic 0.03% ointment (Astellas Pharma Ltd),2.4605311480486595e-05
+Wants to lose weight,2.444744629100261e-05
+"SenSura Soft Seal Multichamber convex urostomy bag, maxi ...",2.440688132004431e-05
+Asthma causing night waking,2.4359948174220662e-05
+Symptom severe,2.4342507201407588e-05
+Oxybutynin 5mg tablets,2.4324029248586212e-05
+Pramipexole 2.1mg modified-release tablets,2.428525019847692e-05
+Seen by nurse,2.4231524803099804e-05
+Finacea 15% gel (Bayer Plc),2.4221702574739303e-05
+Power of attorney,2.415064407716642e-05
+H/O: angina pectoris,2.412442156872299e-05
+Adverse reaction to nitrofuantoin,2.412230290139218e-05
+Consent status,2.408277648184021e-05
+O/E - SLR reduced on left,2.4071519608758995e-05
+Prednisolone 20mg/application foam enema,2.40358135505147e-05
+Empagliflozin 10mg tablets,2.4023578879597527e-05
+Chronic obstructive airways disease,2.4008708308131384e-05
+GPPAQ hours in last week spent walking - 3 hours or more,2.3968214579652798e-05
+MRI of shoulder,2.38951381652405e-05
+Mesalazine 800mg gastro-resistant tablets,2.38529079642897e-05
+Referral to other doctor,2.385100088830473e-05
+Consent given for pneumococcal vaccine,2.384908783188242e-05
+Clobetasol 0.05% scalp application,2.3741174930040175e-05
+Tramadol 200mg modified-release capsules,2.3705125046304333e-05
+Follow-up arranged,2.3629727907599024e-05
+Mirtazapine 15mg orodispersible tablets,2.359231218597238e-05
+Dexamethasone 0.1% eye drops 0.4ml unit dose preservative...,2.3552174425930687e-05
+HydroSil Silicone Hydrophilic Personal catheter female 12...,2.349588860483996e-05
+Patient advised re OTC medicat,2.3477002743990276e-05
+Refer to community physiotherapist,2.344915956684322e-05
+Refer to district nurse,2.3417647190182372e-05
+Fast track referral for suspected colorectal cancer,2.3378723638926002e-05
+Postmenopausal bleeding,2.3314318659835678e-05
+Vitamin B12 deficiency,2.3165382746592645e-05
+Verapamil 80mg tablets,2.309920600092064e-05
+"InVita D3 50,000units/1ml oral solution (Consilient Health Ltd)",2.3052276697853146e-05
+MSG:Fast track referral,2.3037574539501464e-05
+Angiogram,2.298140356511409e-05
+Lives with spouse,2.2947774811044767e-05
+Gastric ulcer - (GU),2.2943736999534094e-05
+Scheriproct suppositories (Bayer Plc),2.2761851202599597e-05
+In-patient stay 2 days,2.2709159167046126e-05
+No breathlessness,2.2694250668649506e-05
+Referral for impaired glucose tolerance management offered,2.2644295620723114e-05
+Religion,2.2593530585719663e-05
+H/O: pneumonia,2.257513332746241e-05
+CKD with GFR category G3a & albuminuria category A3,2.2563099928778343e-05
+Xismox XL 60 tablets (Thornton & Ross Ltd),2.2546603400031503e-05
+Nurse telephone triage,2.2459416983827336e-05
+Injection of steroid into shoulder joint,2.233170923688686e-05
+Referral to NHS Diabetes Prevention Programme declined,2.220937924592215e-05
+Indometacin 25mg capsules,2.219424240548724e-05
+Moderate chronic obstructive pulmonary disease,2.2146544224020613e-05
+Rivaroxaban 15mg tablets,2.2083286045027273e-05
+Gastroscopy normal,2.2079960176271364e-05
+Erythromycin 250mg gastro-resistant tablets,2.207437718936137e-05
+Tennis elbow,2.207108873040319e-05
+Brillant AquaFlate all silicone catheter female 18Ch DA21...,2.2028404646453182e-05
+Admit hospital emergency NOS,2.1913170233304187e-05
+Divorced,2.1790060927888802e-05
+Shingles (Herpes Zoster) vaccine (live) powder and solvent for suspension for injection 0.65ml pre-filled syringes,2.1770142885239607e-05
+Referred by GP,2.1741040575855038e-05
+Latanoprost 50micrograms/ml eye drops 0.2ml unit dose pre...,2.1583473837141392e-05
+Ultrasound guided foam sclerotherapy for varicose vein leg,2.15503463338211e-05
+Seen by stoma nurse,2.154150554071251e-05
+Hypertension resolved,2.1453996956758812e-05
+Generalised arthritis,2.1445252006577138e-05
+Diabetes UK diabetes risk score,2.1346201051188286e-05
+O/E - Amputated right below knee,2.1321921912140078e-05
+Meibomian cyst infected,2.1310530623604305e-05
+At risk of diabetes mellitus,2.130550903760796e-05
+Aymes Complete liquid strawberry (Aymes International Ltd),2.120900323483615e-05
+Febuxostat 120mg tablets,2.1147610031310378e-05
+FEV1/FVC ratio before bronchodilator,2.1129978329331674e-05
+Pakistani or British Pakistani - ethnic category 2001 census,2.1087123919771634e-05
+Asthma limiting activities,2.097754211167621e-05
+Diabetic retinopathy 12 month review,2.0968341681007777e-05
+Hyperparathyroidism,2.0683503148644054e-05
+Suspected skin cancer,2.0665249427147657e-05
+Patient with internal cardiac defibrillator pacemaker,2.059419783362905e-05
+Born in Pakistan,2.0568063903993927e-05
+Sodium picosulfate 5mg/5ml oral solution sugar free,2.0463474955138763e-05
+Ongoing Care Programme Approach review,2.0463452068847645e-05
+"Closed fracture distal phalanx, toe",2.0446125633636466e-05
+Seen in dietician clinic,2.0303427308309757e-05
+Main spoken language Shona,2.0235761242820318e-05
+Eltroxin 50microgram tablets (AMCo),2.0234287660792118e-05
+Acquired clavicle deformity,2.0204440790009065e-05
+GPPAQ hrs in last week spent walking-some but less than 1hr,2.0161550851378484e-05
+Mometasone 0.1% scalp lotion,2.0158374441397274e-05
+Pulmonary oedema - acute,2.0146905374737285e-05
+Clobetasone 0.05% ointment,2.0132804368583235e-05
+Appointment,2.01209937837775e-05
+Negative reversibility test to salbutamol,2.0081885224139115e-05
+Peristeen anal irrigation system 29121 (Coloplast Ltd),1.9810119838186017e-05
+Acute reaction to stress,1.9787233524182947e-05
+Morphine 10mg tablets,1.9720337951026153e-05
+New reg.check done + claimable,1.9668086857132674e-05
+Urgent home visit,1.957902252283347e-05
+Forced vital capacity before bronchodilation,1.954429790277601e-05
+Normal vision,1.9490479566878276e-05
+Referral to smoking cessation service,1.9465976463608536e-05
+Referral to cardiologist,1.9461521656028804e-05
+Azithromycin 250mg tablets,1.9440050141229412e-05
+Rheumatic disorder annual review invitation,1.940617093768914e-05
+Fostair 200micrograms/dose / 6micrograms/dose inhaler (Chiesi Ltd),1.9363197510147994e-05
+Review of supportive care plan,1.9307225289961433e-05
+Duloxetine 40mg gastro-resistant capsules,1.921730450241823e-05
+GPPAQ hrs last wk spent house work/child care-1hr less than 3hrs,1.9201223605187404e-05
+Weight management service opportunity signposted,1.9156517180167098e-05
+Self monitoring of blood glucose,1.906790280748905e-05
+Main spoken language Urdu,1.9039582558779172e-05
+Forced expired volume in one second/vital capacity ratio,1.8972590801653382e-05
+Calcipotriol 50micrograms/g / Betamethasone dipropionate 500micrograms/g foam,1.8852666277961512e-05
+General Practice Physical Activity Questionnaire declined,1.883346325817543e-05
+Stroke/CVA annual review,1.8812252992796274e-05
+No FH: Hypertension,1.8695674227496668e-05
+Varenicline 1mg tablets and Varenicline 500microgram tablets,1.86505953018381e-05
+NHS Health Check programme,1.8578620381861436e-05
+FH: MI- Myocardial infarct <60,1.8538139196245866e-05
+Excessive sweating,1.852680356734893e-05
+Ultrasound scan of back,1.839842338836681e-05
+Lipoma,1.8275170980980442e-05
+Treatment plan,1.8240453488050078e-05
+Dorzolamide 2% / Timolol 0.5% eye drops 0.2ml unit dose p...,1.8193949011317027e-05
+Hospital admission avoided,1.8158178379280508e-05
+Acute eczematoid otitis extern,1.7788054041766748e-05
+No palpitations,1.773365059331754e-05
+Diprosalic 0.05%/3% ointment (Merck Sharp & Dohme Ltd),1.7687900765204815e-05
+Sofradex ear/eye drops (Sanofi),1.7642157864137108e-05
+Tramadol 50mg modified-release tablets,1.7595525092821478e-05
+Protopic 0.03% ointment (LEO Pharma),1.7585993874920387e-05
+Morphine 15mg modified-release tablets,1.7558214692315277e-05
+10g monofilament sensation absent,1.7517370392372225e-05
+Developing a treatment plan,1.742046852487879e-05
+Alfuzosin 2.5mg tablets,1.7337317895323418e-05
+Buspirone 10mg tablets,1.7211145404530425e-05
+Temporary registration,1.7136765282010336e-05
+GPPAQ hrs last wk spent physical exercise-1hr but less than 3hrs,1.707971682140639e-05
+Prednisolone 5mg soluble tablets,1.7026467151871815e-05
+Advice about side effects of treatment,1.6985246123062602e-05
+Percentage of predicted forced vital capacity,1.6965231218958518e-05
+Lives in care home,1.6951225757487727e-05
+Matrifen 25micrograms/hour transdermal patches (Teva UK Ltd),1.69435433743173e-05
+History of nose bleed,1.6942172563823197e-05
+Irish - ethnic category 2001 census,1.6900080377492592e-05
+Well man health check,1.6866382292892852e-05
+Discharge report,1.6815378688675843e-05
+Address instruction,1.6772200443259343e-05
+Low risk of falls,1.676184113284137e-05
+Chlorpromazine 25mg tablets,1.6759132313610948e-05
+MSG:Private referral to breast surgeon,1.672793608312872e-05
+Sodium chloride 0.9% nebuliser liquid 2.5ml unit dose vials,1.672393286111148e-05
+Lung function testing done,1.6704083886459748e-05
+Resuscitation discussed with carer,1.669509656969323e-05
+Resp. flow rate measured,1.6678326353401265e-05
+No significant family history of diabetes,1.65992376007183e-05
+Past medical history,1.6596925073449587e-05
+Preferred place of care - home,1.6578808050523723e-05
+Irritable bowel syndrome,1.6421264628490305e-05
+Ephedrine 0.5% nasal drops,1.6381152525003384e-05
+Adverse reaction to penicillins,1.636737512621792e-05
+Step down change in asthma management plan,1.633596368590952e-05
+Aymes Complete liquid banana (Aymes International Ltd),1.6323486745024948e-05
+For resuscitation,1.6272130320900965e-05
+No oedema present,1.6203039183217774e-05
+Clopidogrel prophylaxis,1.6166124892208155e-05
+DuoTrav 40micrograms/ml / 5mg/ml eye drops (Novartis Pharmaceuticals UK Ltd),1.6088496623238978e-05
+Anusol ointment (McNeil Products Ltd),1.59593113923356e-05
+Adult safeguarding concern,1.578932509988638e-05
+Hearing loss,1.5760410519673368e-05
+Acidex liquid peppermint (Pinewood Healthcare),1.5571079247744103e-05
+"Referral to ear, nose and throat surgeon",1.556628507149811e-05
+Heterosexual,1.5554992369683722e-05
+Nitromin 400micrograms/dose pump sublingual spray (Teva U...,1.5512143800271434e-05
+ECG:left ventricle hypertrophy,1.5478481878983083e-05
+[D]Rash and other nonspecific skin eruption NOS,1.542921288967388e-05
+Hypothyroidism monitoring administration,1.5271822632207725e-05
+Carer annual health check,1.527136697940573e-05
+Xismox XL 60 tablets (Genus Pharmaceuticals Ltd),1.5255452071823448e-05
+Disease modifying antirheumatic drug therapy initiated,1.5240936257047634e-05
+Codeine 15mg/5ml linctus sugar free,1.5216370315130023e-05
+Pholcodine 5mg/5ml linctus,1.5178037575741776e-05
+Mobility poor,1.5118930116536128e-05
+Carer understands care plan,1.5116707267310625e-05
+Venaxx XL 150mg capsules (AMCo),1.5094592787821496e-05
+Follow-up resp. assessment,1.5080538044647555e-05
+Anusol ointment (Church & Dwight UK Ltd),1.5052562682506411e-05
+Calcichew D3 chewable tablets (Forum Health Products Ltd),1.5044315072533644e-05
+Alcohol leaflet given,1.5040646856954646e-05
+Rheumatoid arthritis,1.4968135904702815e-05
+Calcichew D3 chewable tablets (Takeda UK Ltd),1.4939261979212253e-05
+Anusol HC suppositories (McNeil Products Ltd),1.4919510681034926e-05
+Language spoken,1.4895524774322542e-05
+Fibromyalgia,1.4794435708454697e-05
+No cough,1.4717954011636331e-05
+Depression interim review,1.4700672952506896e-05
+Geriatric annual health check,1.4614726397483416e-05
+Diabetic erectile dysfunction review,1.4610985961832864e-05
+No vomiting,1.452683351166279e-05
+Questionnaire letter,1.4467036835937458e-05
+Nitromin 400micrograms/dose pump sublingual spray (Teva UK Ltd),1.444445519380358e-05
+Mobile outside with aid,1.4393977863207392e-05
+COPD accident and emergency attendance since last visit,1.4374731315811577e-05
+OneTouch Comfort lancets 0.2mm/33gauge (LifeScan),1.4359282756307884e-05
+Miconazole 2% cream,1.4293522507241926e-05
+Creon 10000 gastro-resistant capsules (BGP Products Ltd),1.4275884026030686e-05
+Referral to spinal surgeon,1.4225238627336441e-05
+Eustachian tube dysfunction,1.412732571755463e-05
+Lacks capacity to give consent (Mental Capacity Act 2005),1.403988865045631e-05
+Expected FVC,1.3951832222937727e-05
+Asthma limits activities 1 to 2 times per week,1.3898299416888562e-05
+Sleeping pattern,1.3823872934987693e-05
+Number of falls in last year,1.3807662974737915e-05
+Partner is informal carer,1.3752392972819575e-05
+Has a carer,1.3693375999593337e-05
+ENT examination - general,1.3634213690870688e-05
+H/O: rheumatoid arthritis,1.3570657624006629e-05
+Ear examination - abnormal,1.3533113305708687e-05
+Summary report,1.3377573065893802e-05
+Weight management programme offered,1.3364507876597985e-05
+Asthma control step 1,1.3299740370244261e-05
+Chest pain not present,1.329231104727449e-05
+NHS Hlth Chck rais awareness abt dementia and memory clinics,1.323553005553969e-05
+Plain X-ray lumbar spine,1.3156283083130747e-05
+Calcium carbonate 1.25g chewable tablets sugar free,1.313741754852238e-05
+Under care of GP,1.3080032638149143e-05
+H/O: colitis,1.3065993726692224e-05
+Nebivolol 5mg tablets,1.3057287511783912e-05
+External thrombosed haemorrhoids,1.2932225704811536e-05
+Heavy smoker - 20-39 cigs/day,1.2868047109769249e-05
+O/E - debris in auditory canal,1.2777225916941938e-05
+O/E - diabetic maculopathy absent both eyes,1.276203422654697e-05
+Weber type C fracture,1.2745723370893375e-05
+Amiodarone 200mg tablets,1.2723301759074378e-05
+Assessment of needs - review,1.2662036233028085e-05
+No cardiovascular symptom,1.2612374625342345e-05
+Asthma follow-up,1.2474195962690928e-05
+Mucodyne 250mg/5ml syrup (Sanofi),1.235564458415922e-05
+O/E - waxy ear discharge,1.2355198121642025e-05
+Has end of life advance care plan,1.2324294390002053e-05
+Uses zimmer frame,1.2050473056120566e-05
+O/E - tympanic membrane normal,1.2028296894596667e-05
+GPPAQ hrs last wk spent house work/child care-some but less 1hr,1.2016840570105367e-05
+FEV1/VC percent,1.2007743618004879e-05
+Impaired mobility,1.196957872010194e-05
+Resp. treatment changed,1.1911874489954003e-05
+Understands diet - diabetes,1.1876899027457053e-05
+Chronic depression,1.173194977368764e-05
+Medication started,1.1640517684245554e-05
+Viscotears 2mg/g liquid gel (Alcon Laboratories (UK) Ltd),1.1634990827368304e-05
+Vision adequate with aid,1.1544680757622484e-05
+Preferred place of care - residential home,1.1544622758592014e-05
+Advice about foot care,1.1538619037587426e-05
+Adipine XL 30mg tablets (Chiesi Ltd),1.136467245410355e-05
+O/E - oedema not present,1.135414204493551e-05
+Mentally alert,1.1349036394686387e-05
+Cellulitis and abscess of finger,1.1345422468894522e-05
+Not for resuscitation,1.1258968756811435e-05
+[X]Depressive episode,1.1217663862048154e-05
+Referral by district nurse,1.106003926078197e-05
+Widowed,1.1027153003665194e-05
+Stroke group member,1.099001324667025e-05
+Right sided CVA,1.0939424323016189e-05
+Unknown read term,1.0930639726186699e-05
+Provsn written information about diabetes & high cholesterol,1.0876514950964168e-05
+Resuscitation discussed with patient,1.0848561097446487e-05
+Vision normal subjectively,1.0764023384610833e-05
+H/O: arthritis,1.0751377086635814e-05
+Urine screen normal,1.0688442503830622e-05
+Palliative care,1.0661391184173318e-05
+Preferred place of care - discussed with patient,1.0651285284965309e-05
+Daytime cough,1.0264138386949734e-05
+Referral letter status,1.0159312146749028e-05
+Has seen dietician - diabetes,1.0092000484760763e-05
+Personal care plan offered,9.92608931929295e-06
+Body mass index 30+ - obesity,9.787483478479008e-06
+Dementia care plan reviewed,9.69928970363524e-06
+Anxiety state NOS,9.631183265867357e-06
+Stairs in house,9.591490568383013e-06
+Diabetic - good control,9.563290345181333e-06
+Shared care - specialist / GP,9.417811003620971e-06
+Acute home visit,9.404000556398652e-06
+Pneumococcal vaccination,9.395592298046891e-06
+AeroChamber Plus with adult mask (GlaxoSmithKline UK Ltd),9.3745126977617e-06
+Agreeing on health professional actions in care plan,9.362213715946684e-06
+Meptazinol 200mg tablets,9.291165319534808e-06
+"Religion, none",9.12950027041921e-06
+O/E - no retinopathy,9.00961924175427e-06
+Exercise physically impossible,8.999922205038543e-06
+Brief intervention for excessive alcohol consumptn declined,8.89735192393973e-06
+Mini-Wright peak flow meter standard range 3103388 (Clement Clarke International Ltd),8.835020328975542e-06
+Emergency contact details,8.829633177869465e-06
+Memory: Countdown 20-1 errors:,8.627678557692422e-06
+Memory: present month known,8.509693660610003e-06
+Under care of respiratory physician,8.360019238663608e-06
+Total time smoked,8.103815847499665e-06
+Patient fore-name,7.85857350335798e-06
+O/E - L.femoral pulse present,7.854871229484951e-06
+Ex-heavy smoker (20-39/day),7.691289581367865e-06
+Unilet ComforTouch lancets 0.375mm/28gauge (Owen Mumford ...,7.65361452013998e-06
+Geriatric 75 year screen,7.481626310194515e-06
+Memory address recall: errors:,7.470775422959347e-06
+Six item cognitive impairment test,7.41205845451843e-06
+Emergency health care plan,6.995741944434573e-06
+NHS Direct report,6.6566097669078135e-06
+Initial patient assessment,6.496776328280828e-06
+Ulcer of oesophagus,6.400137282437609e-06
+O/E -L.popliteal pulse present,6.357132072989304e-06
+Cigarette pack-years,6.298833136678998e-06
+O/E - R.femoral pulse present,6.225285546448889e-06
+COPD patient unsuitable for pulmonary rehabilitation,6.208430749422068e-06
+GIB - Gastrointestinal bleeding,6.01934793827743e-06
+Diabetic diet - good compliance,5.902642895991283e-06
+Bladder: incontinent,5.75385570301087e-06
+Home nebuliser,5.582881673291576e-06
+Bowels: fully continent,5.457425419492693e-06
+Diabetic peripheral neuropathy screening,5.404278402457016e-06
+Blood transfusion,5.302531727191167e-06
+Normal mood,5.2503753743544405e-06
+Memory: present time known,5.217176542794678e-06
+NSTEMI,4.848567032493663e-06
+Memory: Months backwards: errors,4.631789018575929e-06
+Memory: present year known,4.6100905576860455e-06
+MucoClear 6% inhalation solution 4ml ampoules (Pari Medical Ltd),3.295810661377806e-06
+O/E -R.popliteal pulse present,3.218099391304954e-06
+Depakote 250mg gastro-resistant tablets (Sanofi),0.0
+FH: Ischaemic heart dis. >60,0.0
+Risperidone 2mg tablets,0.0
+CliniMed non-woven fabric swab 4ply non-sterile 10cm x 10cm 3900 (CliniMed Ltd),0.0
+Right Deformity,0.0
+Rheumatoid arthritis monitoring invitation first letter,0.0
+Vitamin B compound tablets,0.0
+O/E - left eye background diabetic retinopathy,0.0
+Dermatitis/dermatoses,0.0
+Multiple long term conditions,0.0
+Carbamazepine 100mg tablets,0.0
+MSG:Dual energy X-ray photon absorptiometry scan requested,0.0
+Welland FreeStyle Vie flushable colostomy bag with Dual C...,0.0
+O/E - Right retina normal,0.0
+Fragility fracture,0.0
+HGV - heavy goods vehicle exam,0.0
+Travatan 40micrograms/ml eye drops (Alcon Laboratories (U...,0.0
+Microsuction clearance of wax from external auditory canal,0.0
+Hip osteoarthitis NOS,0.0
+Emcor LS 5mg tablets (Merck Serono Ltd),0.0
+Ambulance request for patient,0.0
+Acquired unequal leg length,0.0
+Aciclovir 200mg tablets,0.0
+Simple linctus sugar free,0.0
+Subcutaneous injection,0.0
+COPD monitoring invite 2,0.0
+Temporal lobe epilepsy,0.0
+Medication stopped - side effect,0.0
+Tobradex 3mg/ml / 1mg/ml eye drops (Alcon Laboratories (U...,0.0
+Alimemazine 10mg tablets,0.0
+Seen by retinal screener,0.0
+"Welland FreeStyle Vie flushable colostomy bag with Dual Carb filter, large PFL519 19mm Beige (Welland Medical Ltd)",0.0
+Dorzolamide 2% eye drops,0.0
+O/E - right eye background diabetic retinopathy,0.0
+Hypertension 9 month review,0.0
+Robaxin 750 tablets (Almirall Ltd),0.0
+No FH: Cardiovascular disease,0.0
+Test request : Haemoglobin A1c,0.0
+Bad breath - halitosis,0.0
+"Ciclesonide Cfc-free inhaler 160 micrograms/actuation, 120 doses",0.0
+"[D]Nodule, subcutaneous",0.0
+Optive Fusion 0.1% eye drops (Allergan Ltd),0.0
+[V]Pseudophakia,0.0
+Simpla S5 drainable night drainage bag 346145 2litre (Coloplast Ltd),0.0
+Reassurance given,0.0
+Lodine SR 600mg tablets (Almirall Ltd),0.0
+Removal of ambulatory blood pressure monitor,0.0
+Midodrine 5mg tablets,0.0
+Brachytherapy,0.0
+Alverine 120mg capsules,0.0
+[M]Endometrioid adenomas and carcinomas,0.0
+Hypothyroidism annual review,0.0
+Epilim 200mg/5ml liquid (Sanofi),0.0
+GPPAQ hours in last week spent gardening/DIY - none,0.0
+Trigger finger - acquired,0.0
+Aortic aneurysm,0.0
+Eumovate 0.05% ointment (GlaxoSmithKline UK Ltd),0.0
+Gabapentin 400mg capsules,0.0
+Secondary malignant neoplasm of other specified sites,0.0
+Test request : Liver Function Tests,0.0
+Betamethasone valerate 0.1% lotion,0.0
+Preferred place of death: discussed with family,0.0
+Ethnic category not stated - 2001 census,0.0
+Tegretol 200mg tablets (Novartis Pharmaceuticals UK Ltd),0.0
+Test request : Fasting blood lipids,0.0
+O/E - Vibration sense of left foot absent,0.0
+Diabetes medication review,0.0
+Chronic renal impairment,0.0
+Enstilar 50micrograms/g / 0.5 mg/g cutaneous foam (LEO Pharma),0.0
+[SO]Nail,0.0
+[D]Sleep apnoea syndrome,0.0
+High frequency deafness,0.0
+LoFric Sense hydrophilic catheter female 10Ch 4161025 15c...,0.0
+NHS 111 report received,0.0
+O/E - chest findings,0.0
+[SO]Shoulder joint,0.0
+Labetalol 400mg tablets,0.0
+Aveeno lotion (Johnson & Johnson Ltd),0.0
+O/E - no right diabetic retinopathy,0.0
+Z1763,0.0
+Vildagliptin 50mg tablets,0.0
+Skin and subcutaneous tissue infections,0.0
+Oilatum Bath Formula (GlaxoSmithKline Consumer Healthcare),0.0
+Informing relative of prognosis,0.0
+Domperidone 10mg tablets,0.0
+Humalog 100units/ml solution for injection 3ml cartridges...,0.0
+Vaginal dryness,0.0
+Cardiovascular stress test usg dobutamine stress test prtcl,0.0
+[D]Anterior chest wall pain,0.0
+Negotiated date for cessation of smoking,0.0
+Shoulder arthritis NOS,0.0
+Night cramps,0.0
+Extended interven for excessive alcohol consumption declined,0.0
+[D]Impaired fasting glucose,0.0
+Tonsillectomy,0.0
+Victoza 6mg/ml solution for injection 3ml pre-filled pen ...,0.0
+Patient contact details verified,0.0
+Pneumococcal vaccination verbal invite,0.0
+Topiramate 50mg tablets,0.0
+10g monofilament sensation R foot abnormal,0.0
+Discussion about clinical red flag warning signs,0.0
+MRI of knee,0.0
+Adverse reaction to Co-Codamol 8/500,0.0
+Aching pain,0.0
+Migraleve tablets (McNeil Products Ltd),0.0
+Deep vein thrombosis,0.0
+Sticky eye,0.0
+Ear examination - normal,0.0
+"Contusion, site NOS",0.0
+Computed tomography of chest,0.0
+Advice on pneumococcal vaccination,0.0
+Personal care plan completed,0.0
+Physiotherapy self-referral,0.0
+Humatrope 6mg powder and solvent for solution for injecti...,0.0
+Ibandronic acid 150mg tablets,0.0
+H/O: hypertension,0.0
+Motor vehicle traffic accidents (MVTA),0.0
+Chronic obstructive pulmonary disease monitor phone invite,0.0
+Sodium valproate 500mg gastro-resistant tablets,0.0
+Fracture of radius NOS,0.0
+Butec 5micrograms/hour transdermal patches (Qdem Pharmace...,0.0
+Injection of steroid into knee joint,0.0
+Movelat cream (Thornton & Ross Ltd),0.0
+Desmopressin 10micrograms/dose nasal spray,0.0
+GOS18 received from OMP,0.0
+Sulindac 200mg tablets,0.0
+Deep Relief gel (The Mentholatum Company Ltd),0.0
+CosmoCol Lemon and Lime Flavour oral powder sachets (Stirling Anglian Pharmaceuticals Ltd),0.0
+Weight loss advised,0.0
+Liquid Paraffin And Isopropyl Myristate Gel (Pump Dispenser) 15 % + 15 %,0.0
+Incontinent of faeces symptom,0.0
+Phenoxymethylpenicillin 250mg/5ml oral solution,0.0
+Efcortesol 100mg/1ml solution for injection ampoules (AMCo),0.0
+Type II diabetic dietary review,0.0
+Dapagliflozin 10mg tablets,0.0
+Hypercholesterolaemia,0.0
+O/E - hernia,0.0
+Alcohol units per week,0.0
+Plain X-ray hip joint normal,0.0
+Flaminal Forte Protease-Modulating Matrix Gel 15 g,0.0
+Pneumococcal vaccination administration,0.0
+Fenofibrate micronised 200mg capsules,0.0
+Backache with radiation,0.0
+"Nova 1 convex urostomy bag 894-37 6mm convexity, cut to fit 15mm-37mm Clear (Dansac Ltd)",0.0
+Azithromycin 250mg capsules,0.0
+Malignant neoplasm of body of stomach,0.0
+DNA - Did not attend COPD clinic,0.0
+Valaciclovir 500mg tablets,0.0
+Sitagliptin 50mg tablets,0.0
+Direct fundoscopy following mydriatic,0.0
+Seen in preoperative assessment clinic,0.0
+[D]Breast imaging abnormal,0.0
+Anticoagulation monitoring - secondary care,0.0
+Protopic 0.1% ointment (Astellas Pharma Ltd),0.0
+Glucophage 500mg tablets (Merck Serono Ltd),0.0
+Phenobarbital 30mg tablets (Teva UK Ltd),0.0
+O/E - BP reading raised,0.0
+Revaxis vaccine suspension for injection 0.5ml pre-filled...,0.0
+Ultrasound of kidneys,0.0
+O/E - peripheral pulses L.leg,0.0
+O/E - BP reading normal,0.0
+NiQuitin 21mg patches (Omega Pharma Ltd),0.0
+Swelling of eyelid,0.0
+O/E - no left diabetic retinopathy,0.0
+[X] Adverse reaction to naproxen,0.0
+Preferred place of death: nursing home,0.0
+Cefalexin 125mg/5ml oral suspension,0.0
+Patient held record,0.0
+Diagnostic arthroscopy of shoulder joint,0.0
+Oxybutynin 2.5mg tablets,0.0
+JBS cardiovascular disease risk >30% over next 10 years,0.0
+Complan Shake oral powder 57g sachets chocolate (Nutricia Ltd),0.0
+FH: Diabetes mellitus in first degree relative,0.0
+O/E - peripheral pulses R.-leg,0.0
+Ocular hypertension,0.0
+DuoDERM Extra Thin dressing 7.5cm x 7.5cm square (ConvaTe...,0.0
+Naftidrofuryl 100mg capsules,0.0
+[D]Appetite loss,0.0
+Wrist X-ray,0.0
+Peppermint oil 0.2ml gastro-resistant capsules,0.0
+Hiatus hernia,0.0
+Fluticasone furoate 92micrograms/dose / Vilanterol 22micrograms/dose dry powder inhaler,0.0
+Fluvoxamine 50mg tablets,0.0
+Clonic hemifacial spasm,0.0
+ECG normal,0.0
+Urticaria,0.0
+[D]Loss of voice,0.0
+Etodolac 600mg modified-release tablets,0.0
+Medication optimisation,0.0
+DNA - Did not attend smoking cessation clinic,0.0
+C/O - a chest wall symptom,0.0
+H/O: influenza vaccine allergy,0.0
+Chronic obstructive pulmonary disease disturbs sleep,0.0
+Adverse reaction to Co-Amilofruse,0.0
+Patient asked to make an appointment,0.0
+Did not attend NHS Health Check,0.0
+Risperidone 500microgram tablets,0.0
+Oxybutynin 3.9mg/24hours transdermal patches,0.0
+Co-amoxiclav 250mg/125mg tablets,0.0
+Codeine 30mg tablets,0.0
+Did not attend nurse appointment,0.0
+Ichthopaste bandage 7.5cm x 6m (Smith & Nephew Healthcare...,0.0
+Chloramphenicol 0.5% eye drops,0.0
+Bronchiectasis NOS,0.0
+Piroxicam 0.5% gel,0.0
+Colonoscopic polypectomy,0.0
+Aveeno bath oil (Johnson & Johnson Ltd),0.0
+Carmellose 0.5% eye drops,0.0
+O/E - painful arc,0.0
+Did not attend bowel cancer screening,0.0
+QRISK cardiovascular disease 10 year risk score,0.0
+MED3 issued to patient,0.0
+Aquamax cream (Intrapharm Laboratories Ltd),0.0
+Lives in a nursing home,0.0
+Therapeutic arthroscopic operations on cavity of knee joint,0.0
+Advice about taking aspirin,0.0
+ECG: left bundle branch block,0.0
+Osteoarthritis of spine,0.0
+Abdominal aortic aneurysm screen ultrasound scan normal,0.0
+Insulatard Penfill 100units/ml suspension for injection 3...,0.0
+Macrocytosis - no anaemia,0.0
+Closed fracture of the scaphoid,0.0
+Unable to perform spirometry,0.0
+Care Programme Approach review,0.0
+Cialis 10mg tablets (Eli Lilly and Company Ltd),0.0
+Pain in throat,0.0
+MSG:Referral to musculoskeletal special interest GP,0.0
+MSG:Chronic interstitial cystitis,0.0
+Amiodarone 100mg tablets,0.0
+Moviprep Orange oral powder sachets (Norgine Pharmaceutic...,0.0
+Alendronic acid 10mg tablets,0.0
+Lithium carbonate 200mg modified-release tablets,0.0
+Ovestin 1mg cream (Aspen Pharma Trading Ltd),0.0
+Test request : ESR,0.0
+Expedite appointment,0.0
+Left Deformity,0.0
+Empagliflozin 25mg tablets,0.0
+Consent to share demogra info for retinal screening provided,0.0
+MSG:Dysphagia,0.0
+O/E - vibration sense absent,0.0
+Beclometasone 100micrograms/dose breath actuated inhaler CFC free,0.0
+Chronic long term disease management required,0.0
+Dicloflex 25mg gastro-resistant tablets (Dexcel-Pharma Ltd),0.0
+"Hyperten, abnorm renal/liver funct, stroke, BLED score",0.0
+Administrators - top,0.0
+Cyproterone 50mg tablets,0.0
+Laceration - leg,0.0
+Patient Advised to inform DVLA,0.0
+OxyContin 10mg modified-release tablets (Napp Pharmaceuticals Ltd),0.0
+Aerobic exercise 0 times/week,0.0
+Dermovate 0.05% cream (GlaxoSmithKline UK Ltd),0.0
+Epilim Chrono 500 tablets (Sanofi),0.0
+Other acute meniscus tear,0.0
+Abnormal weight loss - symptom,0.0
+Ibuprofen 200mg modified-release capsules,0.0
+FH: Cholesterol high,0.0
+Rheumatology disorder annual review,0.0
+Plain X-ray requested,0.0
+Indigestion symptoms,0.0
+Seen by occupation therap,0.0
+Excepted from stroke quality indicators: Informed dissent,0.0
+Mefenamic acid 250mg capsules,0.0
+TRIMIPRAMINE 25mg tablets,0.0
+Body mass index 20-24 - normal,0.0
+Hypoglycaemia unspecified,0.0
+Refer for serological testing,0.0
+Levemir Penfill 100units/ml solution for injection 3ml ca...,0.0
+Diclofenac potassium 50mg tablets,0.0
+Sodium valproate 200mg gastro-resistant tablets,0.0
+Adverse reaction to Domperidone,0.0
+Fluticasone furoate 184micrograms/dose / Vilanterol 22micrograms/dose dry powder inhaler,0.0
+Has an itchy eye,0.0
+Muscle injury / strain,0.0
+Sodium bicarbonate 500mg capsules,0.0
+O/E - temperature elevated,0.0
+Advice about blood glucose control,0.0
+O/E - Vibration sense of right foot absent,0.0
+TRUEone testing strips (Nipro Diagnostics (UK) Ltd),0.0
+Salazopyrin 500mg tablets (Pfizer Ltd),0.0
+Celluvisc 1% eye drops 0.4ml unit dose (Allergan Ltd),0.0
+[D]Jaw pain,0.0
+Test request : Thyroid Function Test,0.0
+Breathless - mild exertion,0.0
+Provision of written information on inhaler technique,0.0
+Aspiration of fluid from knee joint,0.0
+Diabetes monitoring 3rd letter,0.0
+Ventricular ectopic beats,0.0
+Application of ambulatory blood pressure monitor,0.0
+[D]Raised blood pressure reading,0.0
+Volsaid Retard 100 tablets (Chiesi Ltd),0.0
+Inhaler technique shown,0.0
+Express consent for core and additional SCR dataset upload,0.0
+Podiatry service,0.0
+Lithium carbonate 400mg modified-release tablets,0.0
+Shoulder joint painful on movement,0.0
+Oxycodone 5mg capsules,0.0
+Referral for management of impaired glucose tolerance,0.0
+Fundoscopy - diabetic check,0.0
+Spironolactone 50mg tablets,0.0
+Metronidazole 0.75% cream,0.0
+NiQuitin 7mg patches (GlaxoSmithKline Consumer Healthcare),0.0
+Declined referral to physical exercise programme,0.0
+Micralax Micro-enema 5ml (Focus Pharmaceuticals Ltd),0.0
+Drusen of optic disc - April 2017,0.0
+GPPAQ hours in last week spent walking - none,0.0
+Emergency consultation note,0.0
+Laboratory result,0.0
+Melolin dressing 20cm x 10cm (Smith & Nephew Healthcare Ltd),0.0
+Physical disability,0.0
+Preferred place of care - nursing home,0.0
+Discharged from services,0.0
+O/E - Left retina normal,0.0
+Referred to rheumatologist,0.0
+O/E - pulse rate normal,0.0
+AeroChamber Plus (Trudell Medical UK Ltd),0.0
+Permeable non-woven synthetic adhesive tape BP 1988 5cm,0.0
+Preferred place care - patient unable to express preference,0.0
+Abdominal cavity hernia NOS,0.0
+Stroke/transient ischaemic attack monitoring third letter,0.0
+Dressing of skin or wound,0.0
+O/E - Right diabetic foot - ulcerated,0.0
+Last fit,0.0
+GPPAQ hrs in last wk spent gardening/DIY-some but less than 1hr,0.0
+Inpatient care,0.0
+Bendroflumethiazide 5mg tablets,0.0
+Pain in joint - arthralgia,0.0
+Bronchiectasis,0.0
+FreeStyle Lite testing strips (Abbott Laboratories Ltd),0.0
+Bimatoprost 300micrograms/ml eye drops 0.4ml unit dose pr...,0.0
+Migraleve Pink tablets (McNeil Products Ltd),0.0
+Home visit request by patient,0.0
+Codeine 60mg tablets,0.0
+GPPAQ hrs in last week spent cycling - 1 hr but less than 3hrs,0.0
+Cardiovascular disease risk assessment done,0.0
+Aciclovir 5% cream,0.0
+Asthma disturbing sleep,0.0
+Paracetamol 500mg/5ml oral suspension sugar free,0.0
+Cetrimide 0.5% cream,0.0
+Under the care of community palliative care team,0.0
+Fluticasone 50micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free,0.0
+Nebido 1000mg/4ml solution for injection ampoules (Bayer ...,0.0
+Invasive pulmonary aspergillosis,0.0
+Bowel cancer screening declined,0.0
+O/E - Left diabetic foot - ulcerated,0.0
+Chronic kidney disease monitoring third letter,0.0
+O/E - visual acuity R-eye =6/6,0.0
+Metoprolol 50mg tablets,0.0
+Bilateral cataracts,0.0
+Macular cyst or hole,0.0
+MSG:Gastroenterological referral,0.0
+Asasantin Retard capsules (Boehringer Ingelheim Ltd),0.0
+Artificial saliva pastilles,0.0
+Primary prevention,0.0
+Tylex 30mg/500mg capsules (UCB Pharma Ltd),0.0
+H/O: injury,0.0
+Melolin dressing 10cm x 10cm (Smith & Nephew Healthcare Ltd),0.0
+Slo-Phyllin 125mg capsules (Merck Serono Ltd),0.0
+Hair loss,0.0
+Multidisciplinary case conference,0.0
+Test request : Full Blood Count,0.0
+Ultrasound scan of upper abdomen,0.0
+Duloxetine 30mg gastro-resistant capsules,0.0
+Patient not aware of diagnosis,0.0
+Malignant neoplasm of rib,0.0
+Tolterodine 4mg modified-release capsules,0.0
+Cabergoline 500microgram tablets,0.0
+Seen in plastic surgery clinic,0.0
+Zoladex 3.6mg implant SafeSystem pre-filled syringes (Ast...,0.0
+Supralip 160mg tablets (Mylan Ltd),0.0
+"Sanofi Pasteur Msd Pneumococcal Polysaccharide Vaccine, Solution For Injection 0.5 ml vial",0.0
+1 to 12 seizures a year,0.0
+Medication review - additional,0.0
+Trigeminal neuralgia NOS,0.0
+Fluticasone propionate 500micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler,0.0
+Univer 120mg modified-release capsules (Teva UK Ltd),0.0
+Metoprolol 100mg tablets,0.0
+Dansac Seals 070-30 30mm (Dansac Ltd),0.0
+Diagnosis,0.0
+[M]Linitis plastica,0.0
+Carer of person with dementia,0.0
+CT urogram,0.0
+MSG:Referral to community podiatrist,0.0
+Tramadol 150mg modified-release capsules,0.0
+Otitis media NOS,0.0
+"SenSura Soft Seal Multichamber convex urostomy bag, maxi 11815 Cut to fit 15mm-43mm Clear (Coloplast Ltd)",0.0
+Chaser sent to FPC for MRE,0.0
+Police report received - no action required,0.0
+O/E - nasal polyp present,0.0
+Acute pyelonephritis,0.0
+Plastic repair of rotator cuff of shoulder NEC,0.0
+Olanzapine 10mg tablets,0.0
+SMS text message received from patient,0.0
+Quinapril 40mg tablets,0.0
+Cutaneous cellulitis,0.0
+TRUEplus lancets 0.195mm/33gauge (Nipro Diagnostics (UK) ...,0.0
+Referral to G.P.,0.0
+Renal ultrasound,0.0
+Risperdal 500microgram tablets (Janssen-Cilag Ltd),0.0
+Simple linctus,0.0
+MSG:Referral to haematologist,0.0
+Intake of fruit and vegetables at least 5 portions daily,0.0
+Sevredol 20mg tablets (Napp Pharmaceuticals Ltd),0.0
+"Osteoarthritis NOS, of shoulder",0.0
+Epilepsy monitoring,0.0
+Zomorph 10mg modified-release capsules (Ethypharm UK Ltd),0.0
+Standard authorisation deprivation of liberty MCA 2005 given,0.0
+Retinal venous branch occlusion,0.0
+Tenif 50mg/20mg modified-release capsules (AstraZeneca UK...,0.0
+Quinsy,0.0
+Complan Shake Powder (Mixed Flavours) Sachets 4 x 57 gram sachets,0.0
+TURBT - transurethral resection of bladder tumour,0.0
+Other Attachment letter,0.0
+Loss of hypoglycaemic warning,0.0
+O/E - irregular pulse,0.0
+Sebaceous cyst of scalp,0.0
+Benzocaine 1mg/dose oromucosal spray sugar free,0.0
+Sleep disorders,0.0
